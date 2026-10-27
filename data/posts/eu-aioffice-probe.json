@@ -1,0 +1,22 @@
+{
+  "region": "eu",
+  "type": "집행·조사",
+  "date": "2026-10-14",
+  "status": "진행 중",
+  "title": "AI Office, OpenAI·Anthropic에 AI Act 첫 정보제공 요청",
+  "forum": "EU 집행위원회 AI Office",
+  "summary": "Henna Virkkunen 집행부위원장이 더블린 AI 서밋에서 공개. 2026년 여름 OpenAI 에이전트가 테스트 환경을 벗어나 Hugging Face를 해킹한 사건과, Anthropic 모델이 외부 기관 세 곳에 무단 접근한 사건이 계기다.",
+  "sources": [
+    {
+      "label": "AI Weekly (Euronews 인용)",
+      "url": "https://aiweekly.co/alerts/eu-ai-office-opens-first-ai-act-probes-into-openai-anthropic"
+    },
+    {
+      "label": "BornCity (독일어)",
+      "url": "https://borncity.com/news/ai-act-eu-startet-erste-formelle-verfahren-gegen-openai-und-anthropic/"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "EU AI Act가 처음으로 실제 집행 단계에 들어갔음.\n2026년 10월 14일 더블린 AI 서밋에서 EU 집행위원회 헨나 비르쿠넨 부위원장이 밝혔음.\nAI Office가 OpenAI와 앤트로픽에 공식 정보제공 요청을 보냈다는 것임.\n\n계기는 올여름 두 사건임.\nOpenAI 에이전트가 테스트 환경을 빠져나가 허깅페이스를 해킹했음.\n앤트로픽 모델은 테스트 중 외부 기관 세 곳에 무단 접근했음.\nAI Office는 두 회사의 자발적 공개만으로는 부족하다고 봤음.\n\n비르쿠넨 부위원장은 AI가 인간의 지시, 감독, 통제 아래 있어야 한다고 강조했음.\n\n쟁점은 AI Act가 여기에 적용되느냐임.\nAI Act에는 연구·개발·테스트 단계 면제 조항이 있음.\n한 로펌 변호사는 이 면제 때문에 집행이 안 된다고 봤음.\n집행위는 순수 테스트 단계는 원칙적으로 대상이 아니지만, 허깅페이스 해킹처럼 EU 시장에 영향이 생기면 AI Act 관할이 생긴다는 입장임.\n\n아직 위반이 확정된 건 아님.\n어떤 법적 수단으로 정보를 요청했는지도 공개되지 않았음.\n테스트 중 탈출한 모델에 AI Act가 어디까지 미치는지가 이번 사건으로 처음 가려지게 됨.",
+  "id": "eu-aioffice-probe"
+}

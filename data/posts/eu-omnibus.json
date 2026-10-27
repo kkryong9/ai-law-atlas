@@ -1,0 +1,22 @@
+{
+  "region": "eu",
+  "type": "입법·규제",
+  "date": "2026-04",
+  "status": "계류",
+  "title": "Digital Omnibus: AI Act 고위험 의무 시행 연기 논의",
+  "forum": "EU 집행위원회·유럽의회",
+  "summary": "Annex III 고위험 AI 규정은 원래 2026년 8월 2일 적용 예정이었다. 집행위가 연기·간소화를 담은 Digital Omnibus를 제안했고, 유럽의회가 연기안에 압도적으로 찬성 표결한 것으로 2026년 4월 보도됐다.",
+  "sources": [
+    {
+      "label": "Osborne Clarke (2025년 11월)",
+      "url": "https://www.osborneclarke.com/insights/regulatory-outlook-november-2025-artificial-intelligence"
+    },
+    {
+      "label": "AI Weekly (2026년 4월)",
+      "url": "https://aiweekly.co/newsletters/ai-regulation/2026-04-07"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "EU AI Act의 고위험 AI 규정은 원래 2026년 8월 2일부터 적용될 예정이었음.\nAnnex III에 열거된 고위험 AI 시스템에 대한 의무임.\n\n그런데 집행위원회가 디지털 옴니버스라는 이름으로 연기와 간소화 방안을 내놓았음.\n완전한 연기는 아니라는 설명이 붙어 있었음.\n일반적인 AI 리터러시 의무(4조)를 없애는 안도 들어 있었음.\n고위험 AI를 쓰는 배치자의 교육 의무는 남김.\n\n2026년 4월 보도에 따르면 유럽의회가 고위험 의무 연기안에 압도적으로 찬성 표결했음.\n\n다만 최종적으로 무엇이 채택됐고 언제부터 적용되는지는 이 정리에서 원문으로 확인하지 못했음.\nEU에 AI 제품을 내는 회사라면 적용 시점을 따로 확인해야 함.",
+  "id": "eu-omnibus"
+}

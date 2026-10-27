@@ -1,0 +1,22 @@
+{
+  "region": "us",
+  "type": "정책·지침",
+  "date": "2025-12-11",
+  "status": "제정·시행",
+  "title": "행정명령 14365: 주 AI법 연방 선점 추진",
+  "forum": "미국 대통령 행정명령 (Ensuring a National Policy Framework for AI)",
+  "summary": "단일 연방 AI 정책 틀을 세우고, 부담스럽다고 보는 주 AI법에 대응하도록 한 행정명령. 연방 선점 입법 권고 마련, 법무부 AI 소송 태스크포스 설치 등을 지시했다.",
+  "sources": [
+    {
+      "label": "Mahomet Daily",
+      "url": "https://mahometdaily.com/?p=340679"
+    },
+    {
+      "label": "JD Supra 모음",
+      "url": "https://www.jdsupra.com/topics/executive-orders/preemption/enforcement-actions/"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "2025년 12월 11일 트럼프 대통령이 행정명령 14365에 서명했음.\n제목은 \"AI를 위한 국가 정책 틀 확보\"임.\n\n목적은 단일 연방 AI 정책을 세우는 것임.\n부담스럽다고 보는 주 AI법에 대응하도록 했음.\n\n구체적으로는 이런 걸 지시했음.\n연방 선점 입법 권고안을 만들 것.\n법무부에 AI 소송 태스크포스를 둘 것.\n부담스러운 AI법을 가진 주에는 일부 연방 자금을 제한할 것.\n\n예외도 있음.\n아동 안전, 데이터센터 인프라, 주 정부의 AI 조달에 관한 주법은 선점 대상에서 뺐음.\n\n한계도 분명함.\n헌법상 주법을 선점하는 건 의회 입법 사항임.\n행정명령만으로는 주법을 무효로 만들 수 없다는 지적이 많음.\n캘리포니아 뉴섬 주지사는 바로 반대 입장을 냈음.\n\n8일 뒤 뉴욕주가 RAISE Act에 서명했음.\n연방과 주의 충돌이 본격적으로 시작된 셈임.\n2026년 6월 2일에는 후속 행정명령이 나왔음.",
+  "id": "us-eo-14365"
+}

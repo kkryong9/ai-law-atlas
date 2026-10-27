@@ -1,0 +1,22 @@
+{
+  "region": "jp",
+  "type": "입법·규제",
+  "date": "2025-05",
+  "status": "제정·시행",
+  "title": "AI 추진법 제정",
+  "forum": "일본 국회 (AI 관련 기술의 연구개발 및 활용 추진에 관한 법률)",
+  "summary": "2025년 5월 제정, 9월 전면 시행. EU AI Act와 달리 규제보다 AI 연구개발과 활용 촉진에 초점을 둔다.",
+  "sources": [
+    {
+      "label": "IAPP",
+      "url": "https://iapp.org/resources/article/global-ai-governance-japan"
+    },
+    {
+      "label": "Chambers AI & IP 2026: Japan",
+      "url": "https://practiceguides.chambers.com/practice-guides/ai-intellectual-property-2026/japan"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "일본의 AI 기본법은 이름부터 다름.\n정식 명칭은 AI 관련 기술의 연구개발 및 활용 추진에 관한 법률임.\n줄여서 AI 추진법임.\n2025년 5월 제정, 9월 전면 시행됐음.\n\nEU AI Act가 규제 중심이라면 일본은 진흥 중심임.\nAI 개발과 활용을 지원하고 가속하는 게 주된 목적임.\n\n구조는 이렇게 됨.\n총리가 본부장인 AI 전략본부가 AI 기본계획을 만듦.\n계획하고, 실행하고, 점검하고, 고치는 과정을 계속 반복함.\n일본은 이걸 애자일 거버넌스라고 부름.\n\n지적재산권 규정은 이 법에 없음.\nAI와 저작권 문제는 기존 저작권법 제30조의4와 문화청 해석 지침으로 다룸.",
+  "id": "jp-ai-promotion-act"
+}

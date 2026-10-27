@@ -1,0 +1,22 @@
+{
+  "region": "other",
+  "type": "소송·판결",
+  "date": "2025-11-04",
+  "status": "결정·판결",
+  "title": "Getty Images v. Stability AI",
+  "forum": "영국 잉글랜드·웨일스 고등법원 (Joanna Smith 판사)",
+  "summary": "Getty의 2차 저작권 침해 청구를 전부 기각. AI 모델도 원칙적으로 저작권법상 '물품'이 될 수 있지만, Stable Diffusion에는 Getty 저작물의 침해 복제물이 담겨 있지 않다고 판단했다.",
+  "sources": [
+    {
+      "label": "CMS AI·저작권 케이스 트래커",
+      "url": "https://cms.law/en/int/publication/artificial-intelligence-and-copyright-case-tracker"
+    },
+    {
+      "label": "CMS 사건 정리",
+      "url": "https://cms.law/en/deu/publication/artificial-intelligence-and-copyright-case-tracker/united-kingdom-getty-images-us-inc-ors-v-stability-ai-ltd2"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "영국에서 나온 첫 AI 저작권 판결임.\n2025년 11월 4일 잉글랜드·웨일스 고등법원이 선고했음.\n조안나 스미스 판사가 맡았음.\n\n원고 게티이미지는 세계 최대 사진·이미지 회사임.\n피고 스태빌리티 AI는 이미지 생성 AI 스테이블 디퓨전을 만든 회사임.\n2025년 6월 3주 동안 재판이 열렸음.\n\n재판 과정에서 쟁점이 많이 줄었음.\n남은 건 2차 저작권 침해, 상표권 침해, 사칭 통용 정도였음.\n\n핵심은 2차 침해 청구였고, 법원은 이걸 전부 기각했음.\n판단은 두 단계였음.\nAI 모델도 원칙적으로 영국 저작권법상 '물품'이 될 수는 있다고 봤음.\n그런데 스테이블 디퓨전 안에는 게티 사진의 침해 복제물이 담겨 있지 않다고 봤음.\n게티가 특정 저작물이 모델 가중치에 암기돼 있다는 걸 주장하거나 입증하지 못했다는 것임.\n\n스태빌리티가 대부분의 쟁점에서 이겼음.\n2025년 12월 17일 게티는 2차 침해 부분에 대해 항소 허가를 받았음.\n\n같은 달 독일 뮌헨 법원은 GEMA 대 OpenAI 사건에서 모델이 가사를 암기했다며 침해를 인정했음.\n모델 안에 저작물이 남아 있느냐는 같은 질문에 두 나라 법원이 다른 사실 판단을 한 셈임.",
+  "id": "other-getty-stability"
+}

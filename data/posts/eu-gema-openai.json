@@ -1,0 +1,26 @@
+{
+  "region": "eu",
+  "type": "소송·판결",
+  "date": "2025-11-11",
+  "status": "결정·판결",
+  "title": "GEMA v. OpenAI (노래 가사 암기)",
+  "forum": "독일 뮌헨 지방법원 I · 42 O 14139/24",
+  "summary": "독일 음악저작권단체 GEMA가 9곡의 가사를 두고 제소. 법원은 GPT-4·4o가 가사를 암기(memorization)했고 챗봇이 이를 거의 그대로 출력한 것이 저작권 침해라며, 금지·정보제공·손해배상 청구를 대부분 인용했다.",
+  "sources": [
+    {
+      "label": "Norton Rose Fulbright",
+      "url": "https://www.nortonrosefulbright.com/en-no/knowledge/publications/656613b2/germany-delivers-landmark-copyright-ruling-against-openai-what-it-means-for-ai-and-ip"
+    },
+    {
+      "label": "Taylor Wessing",
+      "url": "https://www.taylorwessing.com/de/insights-and-events/insights/2025/11/gema-v-openai"
+    },
+    {
+      "label": "Heuking",
+      "url": "https://www.heuking.de/en/news-events/newsletter-articles/detail/gema-vs-openai-landmark-ruling-on-ai-language-models-and-copyright-law.html"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "유럽에서 처음으로 AI 모델 자체의 저작권 침해를 인정한 판결임.\n2025년 11월 11일 독일 뮌헨 지방법원 I이 선고했음.\n사건번호는 42 O 14139/24임.\n\n원고 GEMA는 독일 음악저작권 관리단체임.\nGEMA가 ChatGPT에 직접 물어보니 독일 노래 가사를 거의 그대로 내놓았음.\n헬레네 피셔의 '아템로스', 헤르베르트 그뢰네마이어의 '멘너' 같은 곡들임.\nGEMA는 가사 9곡을 문제 삼아 소송을 냈음.\n\n법원은 GPT-4와 4o가 가사를 암기했다고 봤음.\n학습 데이터의 가사와 모델 출력을 비교해 확인했음.\n간단하고 유도적이지 않은 질문만으로 가사가 나왔다는 점을 중요하게 봤음.\n\n판단을 단계별로 나누면 이렇게 됨.\n학습용 데이터셋을 만들려고 복제하는 건 독일 저작권법의 TDM 예외(44b조)로 허용됨.\n그런데 모델 안에 가사가 암기된 건 그 범위를 넘는 복제임.\n가사를 출력해서 보여주는 것도 복제이자 공중송신임.\n\nOpenAI는 출력물은 이용자가 만든 것이라고 주장했지만 받아들여지지 않았음.\n제공자인 OpenAI가 책임을 진다고 봤음.\nOpenAI는 학습을 되돌리는 건 불가능하다고 했음.\n\n금지, 정보제공, 손해배상 청구는 대부분 인용됐고, 인격권 청구는 기각됐음.\n1심이라 확정된 판결은 아님.\n\n같은 달 영국 법원은 게티 대 스태빌리티 사건에서 반대 방향으로 판단했음.\n모델 안에 저작물이 저장돼 있느냐를 두고 영국과 독일이 다른 결론을 낸 셈임.",
+  "id": "eu-gema-openai"
+}

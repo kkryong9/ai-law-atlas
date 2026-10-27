@@ -1,0 +1,26 @@
+{
+  "region": "cn",
+  "type": "입법·규제",
+  "date": "2025-09-01",
+  "status": "제정·시행",
+  "title": "AI 생성 합성 콘텐츠 표시 조치 시행",
+  "forum": "국가인터넷정보판공실(CAC)·공업정보화부·공안부·광전총국",
+  "summary": "2025년 3월 14일 발표, 9월 1일 시행. AI가 생성한 텍스트·이미지·음성·영상 등에 눈에 보이는 표시와 메타데이터 표시를 함께 하도록 의무화했다.",
+  "sources": [
+    {
+      "label": "ABA International Law Year in Review",
+      "url": "https://www.americanbar.org/groups/international_law/resources/year-in-review/2025/central-east-asia-china"
+    },
+    {
+      "label": "China Daily",
+      "url": "https://global.chinadaily.com.cn/a/202607/20/WS6a5d8154a310986e2b4661e8.html"
+    },
+    {
+      "label": "BABL AI",
+      "url": "https://babl.ai/an-analysis-of-chinas-growing-influence-in-ai-regulation/"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "중국은 AI가 만든 콘텐츠에 표시를 의무화했음.\n2025년 3월 14일 발표, 9월 1일 시행임.\n국가인터넷정보판공실, 공업정보화부, 공안부, 광전총국이 함께 냈음.\n\n대상은 AI가 만든 텍스트, 이미지, 음성, 영상, 가상 장면 전부임.\n표시는 두 가지를 다 해야 함.\n눈에 보이는 표시와 파일 안에 심는 메타데이터 표시임.\n\n생성 단계에서 서비스 제공자가 표시를 심어야 함.\n그 뒤 유통 단계까지 표시가 이어지도록 전 과정 추적 체계를 만들었음.\n국가표준 GB 45438-2025가 함께 운영됨.\n\n한국 AI기본법의 생성물 표시 의무와 비슷한 방향임.\n다만 중국은 이걸 별도 행정조치와 국가표준으로 먼저 구체화했다는 점이 다름.",
+  "id": "cn-labeling"
+}

@@ -1,0 +1,22 @@
+{
+  "region": "us",
+  "type": "소송·판결",
+  "date": "2026-10-21",
+  "status": "진행 중",
+  "title": "Concord Music Group v. Anthropic (노래 가사 학습)",
+  "forum": "미국 캘리포니아북부연방지방법원 (Eumi Lee 판사)",
+  "summary": "UMG·Concord·ABKCO가 노래 가사를 Claude 학습에 썼다며 2023년 제소. 2026년 10월 21일 공정이용 여부에 대한 약식판결 변론이 열렸고, 판단은 아직 나오지 않았다.",
+  "sources": [
+    {
+      "label": "FourWeekMBA (Reuters 인용)",
+      "url": "https://fourweekmba.com/ai-anthropic-awaits-fair-use-ruling-as-perplexity-heads-to-jury/"
+    },
+    {
+      "label": "MediaPost (2025년 가처분 기각)",
+      "url": "https://www.mediapost.com/publications/article/404555/judge-wont-prohibit-anthropic-from-using-lyrics-t.html"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "음악 출판사들이 앤트로픽을 상대로 낸 소송임.\n원고는 유니버설뮤직, 콘코드, ABKCO임.\n2023년 10월에 소송이 시작됐음.\n\n주장은 앤트로픽이 최소 500곡의 가사를 허락 없이 Claude 학습에 썼다는 것임.\n비욘세, 롤링스톤스, 비치 보이스 같은 가수들의 곡이 포함돼 있음.\n\n2025년 3월 법원은 출판사들의 가처분 신청을 기각했음.\n요청이 너무 넓고, 회복할 수 없는 손해도 소명되지 않았다는 이유였음.\n판사는 생성형 AI 학습이 침해인지 공정이용인지는 아직 열린 문제라고 했음.\n출판사들은 사실상 법원에 AI 학습용 라이선스 시장의 윤곽을 그려 달라고 하는 셈이라는 지적도 했음.\n가사 출력은 기존 안전장치를 유지하기로 양측이 이미 합의해 둔 상태였음.\n\n2026년 10월 21일 공정이용 여부를 다투는 약식판결 변론이 열렸음.\n판사는 그날 결론을 내지 않았음.\n앤트로픽은 수조 토큰짜리 데이터셋에 가사를 넣어 언어를 학습시키는 건 변형적 이용의 전형이라는 입장임.\n\n결론이 나오면 생성형 AI 학습에 대한 공정이용 판단이 하나 더 쌓이게 됨.\n참고로 이 정리는 앤트로픽이 만든 AI인 Claude가 작성했음.",
+  "id": "us-concord-anthropic"
+}

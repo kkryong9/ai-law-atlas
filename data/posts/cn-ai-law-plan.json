@@ -1,0 +1,18 @@
+{
+  "region": "cn",
+  "type": "입법·규제",
+  "date": "2026",
+  "status": "계류",
+  "title": "종합 AI법 입법 검토",
+  "forum": "전국인민대표대회",
+  "summary": "전인대가 2025년과 2026년 입법업무계획에 AI 입법을 포함했으나, 공식 초안은 공개되지 않았다.",
+  "sources": [
+    {
+      "label": "Legal 500",
+      "url": "https://www.legal500.com/guides/hot-topic/topics-and-regulatory-trends-in-chinas-ai-governance/"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "중국도 종합적인 AI법을 검토하고 있음.\n전국인민대표대회가 2025년과 2026년 입법업무계획에 AI 입법을 넣었음.\n\n하지만 공식 초안은 아직 공개되지 않았음.\n\n그 사이 개별 규정은 계속 늘고 있음.\n2026년에는 AI 에이전트, 의인화된 동반자 서비스, 딥 합성, 생성 콘텐츠 표시에 관한 규정이 도입되거나 시행된 것으로 정리돼 있음.\n\n당분간은 행정조치를 겹쳐 쌓는 방식이 계속될 것으로 보임.",
+  "id": "cn-ai-law-plan"
+}

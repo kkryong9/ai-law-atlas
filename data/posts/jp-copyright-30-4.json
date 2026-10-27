@@ -1,0 +1,22 @@
+{
+  "region": "jp",
+  "type": "입법·규제",
+  "date": "2018",
+  "status": "제정·시행",
+  "title": "저작권법 제30조의4 (TDM 예외)",
+  "forum": "일본 저작권법 · 문화청 해석 지침",
+  "summary": "2018년 개정으로 AI 개발자가 허락 없이 저작물로 모델을 학습할 수 있는 폭넓은 예외를 두었다. 문화청은 'AI와 저작권에 관한 일반적 이해'로 적용 기준을 제시했다.",
+  "sources": [
+    {
+      "label": "Chambers AI & IP 2026: Japan",
+      "url": "https://practiceguides.chambers.com/practice-guides/ai-intellectual-property-2026/japan"
+    },
+    {
+      "label": "Nieman Lab",
+      "url": "https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "일본은 AI 학습에 관대한 나라로 알려져 있음.\n그 근거가 저작권법 제30조의4임.\n\n2018년 개정으로 들어온 조항임.\nAI 개발자가 허락 없이 저작물로 모델을 학습시킬 수 있는 폭넓은 예외를 뒀음.\n일본 기술 산업의 AI 개발을 북돋으려는 취지였음.\n외국 권리자나 외국 AI 개발자를 따로 구분하지도 않음.\n\n문화청은 'AI와 저작권에 관한 일반적 이해'라는 해석 지침을 냈음.\n이 조항이 AI 학습에 어떻게 적용되는지, 침해 판단 기준은 뭔지를 설명함.\n\n그런데 학습이 넓게 허용된다고 끝이 아님.\n웹에서 기사를 수집해서 AI 답변에 쓰는 건 침해로 판단될 수 있다는 지적이 있음.\n그래서 일본의 AI 저작권 분쟁은 학습보다 검색과 답변 단계에 몰리고 있음.\n요미우리 대 퍼플렉시티 사건이 대표적임.",
+  "id": "jp-copyright-30-4"
+}

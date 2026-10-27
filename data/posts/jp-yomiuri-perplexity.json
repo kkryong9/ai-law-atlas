@@ -1,0 +1,22 @@
+{
+  "region": "jp",
+  "type": "소송·판결",
+  "date": "2025-08-07",
+  "status": "진행 중",
+  "title": "요미우리신문 v. Perplexity",
+  "forum": "도쿄지방법원",
+  "summary": "일본 최대 신문사가 Perplexity를 저작권 침해로 제소. 2025년 2~6월 기사 119,467건에 접근해 답변에 무단 재현했다는 주장으로, 금지와 손해배상을 청구했다.",
+  "sources": [
+    {
+      "label": "Nieman Lab",
+      "url": "https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/"
+    },
+    {
+      "label": "MLex",
+      "url": "https://www.mlex.com/mlex/articles/2374862"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "일본 최대 신문사 요미우리가 퍼플렉시티를 상대로 소송을 냈음.\n2025년 8월 7일 도쿄지방법원에 냈음.\n일본 주요 언론사가 AI 기업을 상대로 낸 첫 저작권 소송임.\n\n요미우리는 자사 서버 기록을 분석했음.\n퍼플렉시티가 2025년 2월부터 6월까지 기사 119,467건에 접근했다는 것임.\n그렇게 긁어간 기사를 이용자 질문에 대한 답변에서 허락 없이 재현했다는 주장임.\n금지와 손해배상을 함께 청구했음.\n\n이 사건은 학습이 아니라 답변 단계가 쟁점임.\n일본 저작권법 제30조의4는 학습을 넓게 허용하지만, 검색해서 답변에 쓰는 건 다르게 볼 여지가 있기 때문임.\n\n퍼플렉시티는 일본에서 오해를 불러 깊이 유감이라며, 퍼블리셔와 기자들이 AI 시대의 새 사업 모델로 이익을 얻도록 하겠다는 입장을 냈음.\n\n최신 진행 상황은 이 정리에서 확인하지 못했음.",
+  "id": "jp-yomiuri-perplexity"
+}

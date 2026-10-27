@@ -1,0 +1,22 @@
+{
+  "region": "cn",
+  "type": "입법·규제",
+  "date": "2023",
+  "status": "제정·시행",
+  "title": "생성형 AI 서비스 관리 잠정조치",
+  "forum": "국가인터넷정보판공실(CAC) 등 7개 기관",
+  "summary": "중국 내 대중에게 제공되는 생성형 AI 서비스를 규율하는 첫 행정규정. 학습데이터 적법성, 콘텐츠 안전, 모델 신뢰성 등을 다룬다.",
+  "sources": [
+    {
+      "label": "CASRAI 정리",
+      "url": "https://casrai.org/guides/china-ai-regulation-explained"
+    },
+    {
+      "label": "Legal 500",
+      "url": "https://www.legal500.com/guides/hot-topic/topics-and-regulatory-trends-in-chinas-ai-governance/"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:00.000Z",
+  "body": "중국은 AI 기본법 하나로 규율하지 않음.\n행정조치 여러 개를 겹쳐 쌓는 방식임.\n\n순서로 보면 이렇게 됨.\n2022년 알고리즘 추천 규정.\n딥 합성 규정.\n2023년 생성형 AI 서비스 관리 잠정조치.\n2025년 AI 생성 콘텐츠 표시 조치.\n\n이 중 2023년 잠정조치가 생성형 AI를 직접 다룬 첫 행정규정임.\n국가인터넷정보판공실 등 7개 기관이 냈음.\n적용 대상은 중국 안에서 대중에게 제공되는 생성형 AI 서비스임.\n\n다루는 건 학습데이터의 적법성, 콘텐츠 안전, 모델 신뢰성 같은 것들임.\n표시 의무도 이 조치에 이미 있었고, 2025년 표시 조치가 이를 구체화했음.\n\n2025년 4월에는 생성형 AI 보안 요구사항, 데이터 라벨링 보안, 사전학습·미세조정 데이터 보안에 관한 국가표준 세 개도 나왔음.",
+  "id": "cn-genai-measures"
+}
