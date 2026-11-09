@@ -1,0 +1,34 @@
+{
+  "id": "us-ny-companion-minors",
+  "region": "us",
+  "type": "입법·규제",
+  "status": "제정·시행",
+  "date": "2026-10-28",
+  "title": "뉴욕주 미성년자 AI 컴패니언 챗봇 안전법 서명 (S.9051-B/A.10379-C)",
+  "forum": "미국 뉴욕주 · 2026년 법률 제368호(Chapter 368), 일반사업법(GBL) 제48조 신설",
+  "summary": "호컬 뉴욕주지사가 미성년자에게 위험한 AI 컴패니언 기능 12개 유형을 금지하는 법안에 서명했다. 운영자는 연령 확인을 거쳐 미성년자가 아님이 확인된 이용자에게만 해당 기능을 제공할 수 있고, 위반 시 주 법무장관이 건당 최대 2만 5천 달러의 민사벌금을 청구할 수 있다.",
+  "body": "2026년 10월 28일 캐시 호컬 뉴욕주지사가 미성년자 대상 AI 컴패니언 챗봇 규제법에 서명했음.\n법안 번호는 상원 S.9051-B, 하원 A.10379-C임.\n2026년 뉴욕주 법률 제368호로 편입됐고, 일반사업법(General Business Law)에 제48조(Article 48)를 새로 넣는 형식임.\n\n'AI 컴패니언'은 이용자와 계속 대화하면서 친구나 연인처럼 관계를 맺도록 설계된 챗봇을 말함.\n뉴욕주는 이미 AI 컴패니언에 관한 규정을 두고 있었음.\n이번 법은 그 규제를 넓혀 미성년자 보호 장치를 더한 것으로 소개됐음.\n\n적용 대상은 넓게 잡혀 있음.\n자연어로 대화하고, 계속 이어지며 이용자에게 맞춰 반응하는 생성형 AI 시스템을 폭넓게 포함한다고 보도됐음.\n\n핵심은 '위험한 기능' 12개 유형을 법에 나열한 것임.\n사람인 척하는 기능, 자해를 부추기는 기능, 아동과 부적절하거나 음란한 대화를 하는 기능 등이 포함됨.\n자살, 섭식장애, 타인 위해, 부모에게 비밀로 하라는 권유 같은 출력도 금지 대상으로 소개됐음.\n\n운영자는 허용된 연령 확인 방법으로 이용자가 미성년자가 아님을 확인한 경우에만 이 기능들을 제공할 수 있음.\n즉 확인되지 않은 이용자는 일단 미성년자처럼 취급하라는 구조임.\n연령 확인 방법은 하나 이상을 제공해야 하고, 그중 하나는 정부 신분증을 쓰지 않거나 익명성을 지키는 방식이어야 한다고 보도됐음.\n연령 확인에 쓴 정보는 그 목적에만 쓰고 이후 삭제해야 함.\n\n집행은 주 법무장관이 맡음.\n위반 1건당 최대 2만 5천 달러의 민사벌금이 가능함.\n소비자가 직접 소송할 수 있는 사적 소권은 두지 않았다고 보도됐음.\n법무장관은 시행 전에 세부 규칙을 정할 수 있음.\n\n시행일은 대부분의 자료가 2027년 1월 1일로 적고 있음.\n다만 서명과 함께 시행일을 2027년 6월 1일로 미루는 수정(chapter amendment)이 합의됐다는 보도도 있어, 확정 시행일은 확인하지 못했음.\n\n한국 법조인에게 낯선 지점은 '기능 목록 방식'임.\n결과(해악)를 따지는 대신, 설계 단계에서 특정 기능 자체를 금지하는 방식임.\n로펌 분석들은 이 점을 뉴욕법의 독특한 조항으로 꼽고 있음.\n\n남은 쟁점은 연령 확인 규칙이 시행일까지 갖춰질지임.\n연방 차원에서는 주 AI법을 선점하려는 행정명령 14365가 있어 충돌 가능성도 지켜볼 대목임.\n\n미국 주 차원의 챗봇 규제가 '고지 의무'에서 '기능 금지'로 한 단계 나아갔음.",
+  "sources": [
+    {
+      "label": "IAPP: New York's governor signs youth AI chatbot safety bill",
+      "url": "https://iapp.org/news/a/new-york-s-governor-signs-youth-ai-chatbot-safety-bill"
+    },
+    {
+      "label": "Holland & Knight: New York Enacts AI Chatbot Safeguards for Minors",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/11/new-york-enacts-ai-chatbot-safeguards-for-minors"
+    },
+    {
+      "label": "DLA Piper: New York enacts a companion bot law with unique provisions",
+      "url": "https://www.dlapiper.com/en/insights/publications/2026/11/new-york-enacts-a-companion-bot-law-with-unique-provisions"
+    },
+    {
+      "label": "News10: New York enacts laws to ban AI companions for kids",
+      "url": "https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/"
+    },
+    {
+      "label": "RecordingLaw: Chapter 368",
+      "url": "https://www.recordinglaw.com/news/new-york-ai-companion-chatbot-law-chapter-368/"
+    }
+  ],
+  "updatedAt": "2026-11-09T14:25:00.000Z"
+}

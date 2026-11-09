@@ -29,6 +29,40 @@
   <select id="tfilter" class="tfilter" aria-label="유형"><option value="">모든 유형</option><option value="소송·판결">소송·판결</option><option value="입법·규제">입법·규제</option><option value="집행·조사">집행·조사</option><option value="정책·지침">정책·지침</option></select>
 </div>
 <div class="posts">
+<article class="post" data-type="소송·판결" data-hay="캐나다 언론사 연합 v. anthropic (postmedia·torstar·globe and mail·canadian press) 캐나다 온타리오주 상급법원 · 사건번호는 확인하지 못함 캐나다 주요 언론사 4곳이 anthropic과 캐나다 자회사를 상대로 기사를 claude 개발과 답변 생성에 무단 사용했다며 온타리오주 법원에 소송을 냈다. 저작권 침해 외에 이용약관 위반, 기술적 보호조치 우회, 부당이득을 주장했다. 캐나다 언론사들이 앤트로픽을 상대로 소송을 냈음.
+소장(statement of claim)은 2026년 10월 6일 온타리오주 상급법원에 제출됐고, 10월 19일 캐나다통신 보도로 널리 알려졌음.
+사건번호는 확인하지 못했음.
+
+원고는 포스트미디어, 토스타, 글로브앤드메일, 캐나다통신(the canadian press)임.
+캐나다를 대표하는 신문·통신사들임.
+피고는 앤트로픽과 그 캐나다 자회사임.
+
+주장은 두 갈래임.
+첫째, 기사를 claude 개발(학습)에 허락 없이 썼다는 것임.
+둘째, 이용자가 질문하면 claude가 언론사 사이트에 접속해 기사를 가져다 쓴다는 것임.
+뒤의 것은 실시간 검색·인용 단계의 문제로, 학습과는 따로 다투는 쟁점임.
+
+법적 근거로는 저작권 침해, 웹사이트 이용약관 위반, 기술적 보호조치 우회, 부당이득이 거론됨.
+기술적 보호조치 우회는 복제를 막으려고 설치한 장치를 피해 갔다는 주장임.
+
+원고들이 소장에 적은 2021년 이후 기사 수는 캐나다통신 약 420만 건, 포스트미디어 약 350만 건, 토스타 약 350만 건, 글로브앤드메일 약 230만 건이라고 보도됐음.
+작품당 최대 2만 캐나다달러를 청구한다는 보도도 있지만, 소장에서 확인된 금액인지는 확인하지 못했음.
+
+앤트로픽은 아직 변론서(statement of defence)를 내지 않았고, 언론의 논평 요청에도 답하지 않았다고 보도됐음.
+
+같은 언론사들은 cbc/라디오캐나다와 함께 온타리오주에서 openai를 상대로도 소송 중임.
+그 사건도 아직 결론이 나지 않았음.
+
+캐나다에는 미국식 공정이용(fair use)이 아니라 &#x27;공정처리(fair dealing)&#x27;가 있음.
+공정처리는 연구, 비평, 보도 등 법이 정한 목적에 해당해야 인정되는 좁은 예외임.
+ai 학습이 여기에 들어가는지는 캐나다 법원이 아직 정면으로 판단하지 않았음.
+
+미국에서 언론사들의 ai 소송이 늘어나는 흐름이 캐나다로도 넓어졌음. 소송·판결">
+  <div class="pmeta"><a href="../other/index.html">그 외</a><span class="sep">·</span><span>2026.10.06</span><span class="sep">·</span><span>소송·판결</span></div>
+  <h2><a href="../posts/other-canada-publishers-anthropic/index.html">캐나다 언론사 연합 v. Anthropic (Postmedia·Torstar·Globe and Mail·Canadian Press)</a></h2>
+  <p class="excerpt">캐나다 주요 언론사 4곳이 Anthropic과 캐나다 자회사를 상대로 기사를 Claude 개발과 답변 생성에 무단 사용했다며 온타리오주 법원에 소송을 냈다. 저작권 침해 외에 이용약관 위반, 기술적 보호조치 우회, 부당이득을 주장했다.</p>
+  <div class="tags"><span class="tag st-open">진행 중</span></div>
+</article>
 <article class="post" data-type="소송·판결" data-hay="getty images v. stability ai 영국 잉글랜드·웨일스 고등법원 (joanna smith 판사) getty의 2차 저작권 침해 청구를 전부 기각. ai 모델도 원칙적으로 저작권법상 &#x27;물품&#x27;이 될 수 있지만, stable diffusion에는 getty 저작물의 침해 복제물이 담겨 있지 않다고 판단했다. 영국에서 나온 첫 ai 저작권 판결임.
 2025년 11월 4일 잉글랜드·웨일스 고등법원이 선고했음.
 조안나 스미스 판사가 맡았음.
@@ -63,7 +97,7 @@ ai 모델도 원칙적으로 영국 저작권법상 &#x27;물품&#x27;이 될 �
 function run(){var s=q.value.trim().toLowerCase(),ty=t.value,n=0;posts.forEach(function(p){var ok=(!ty||p.dataset.type===ty)&&(!s||p.dataset.hay.indexOf(s)>=0);p.hidden=!ok;if(ok)n++;});none.hidden=n>0;}
 q.addEventListener('input',run);t.addEventListener('change',run);})();
 </script><script>
-(function(){var c={"us": 11, "eu": 3, "cn": 5, "jp": 3, "kr": 11, "other": 1};[].forEach.call(document.querySelectorAll('.ct[data-region]'),function(s){s.textContent=c[s.dataset.region]||'0';});})();
+(function(){var c={"us": 14, "eu": 5, "cn": 6, "jp": 4, "kr": 13, "other": 2};[].forEach.call(document.querySelectorAll('.ct[data-region]'),function(s){s.textContent=c[s.dataset.region]||'0';});})();
 </script>
   </main>
   <footer class="foot">

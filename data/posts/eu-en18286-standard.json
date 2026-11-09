@@ -1,0 +1,30 @@
+{
+  "id": "eu-en18286-standard",
+  "region": "eu",
+  "type": "정책·지침",
+  "status": "발표",
+  "date": "2026-10-12",
+  "title": "AI Act 첫 조화표준 EN 18286 관보 인용 (Implementing Decision (EU) 2026/2274)",
+  "forum": "유럽연합 집행위원회 · Commission Implementing Decision (EU) 2026/2274",
+  "summary": "EU 집행위원회가 AI 품질경영시스템 표준 EN 18286:2026을 AI Act의 첫 조화표준으로 관보에 인용했다. 이 표준을 따르면 고위험 AI 제공자의 품질경영시스템 의무(제17조)에 대해 적합성 추정을 받지만, 위험관리·사이버보안 등 나머지 요건의 조화표준은 아직 없다.",
+  "body": "EU AI Act의 첫 조화표준이 나왔음.\nEU 집행위원회는 이행결정 (EU) 2026/2274로 EN 18286:2026을 EU 관보에 인용했음.\n결정일은 2026년 10월 12일로 보도됐음.\n관보 게재일은 10월 14일이라는 자료와 10월 19일이라는 자료가 엇갈려, 정확한 날짜는 확인하지 못했음.\n\n'조화표준(harmonised standard)'은 EU 법이 정한 요건을 기술적으로 구체화한 유럽 표준임.\n관보에 인용되면, 그 표준을 지킨 제품은 해당 법적 요건을 충족한 것으로 추정받음.\n이를 '적합성 추정(presumption of conformity)'이라고 함.\n우리 식으로 보면 법령 요건을 충족하는 공인된 모범답안 같은 것임.\n\nEN 18286은 'AI 품질경영시스템' 표준임.\n유럽표준화기구 CEN·CENELEC의 합동기술위원회(JTC 21)가 만들었고, 2026년 7월 자발적 표준으로 먼저 승인됐음.\n\n적합성 추정의 범위는 좁음.\n고위험 AI 제공자의 품질경영시스템 의무(제17조 제1항)와 기술문서 의무(제11조 제1항 첫 문장) 일부에 한정된다고 보도됐음.\n위험관리, 데이터 거버넌스, 정확성·견고성·사이버보안 같은 시스템 자체의 기술 요건은 여전히 조화표준이 없음.\n집행위원회 표준화 요청 10개 영역 중 9개가 아직 남아 있다는 분석이 나옴.\n\nISO/IEC 42001이나 ISO 9001 같은 기존 경영시스템 표준과의 관계도 관심사임.\nEN 18286은 이들을 대체하는 것이 아니라 함께 쓰는 것을 전제로 한다는 설명이 있음.\n\n시점의 의미도 있음.\n디지털 옴니버스로 고위험 AI 의무 적용이 2027년 12월(부속서 III)과 2028년 8월(부속서 I)로 미뤄졌다고 보도됐음.\n기업 입장에서는 남은 기간 동안 품질경영시스템부터 이 표준에 맞춰 준비할 수 있게 됐음.\n\n한계는 분명함.\n품질경영시스템만으로는 고위험 AI의 적합성 평가를 끝낼 수 없음.\n나머지 표준이 언제 나올지가 실무상 가장 큰 변수임.\n\nAI Act 준수의 기술적 기준이 처음으로 하나 확정됐음.",
+  "sources": [
+    {
+      "label": "Orrick: First Harmonised Technical Standard Published Under the EU AI Act",
+      "url": "https://www.orrick.com/en/Insights/2026/10/First-Harmonised-Technical-Standard-Published-Under-the-EU-AI-Act"
+    },
+    {
+      "label": "ActuIA: first harmonised standard covers only quality system",
+      "url": "https://www.actuia.com/en/news/eu-ai-act-first-harmonised-standard-covers-only-quality-system/"
+    },
+    {
+      "label": "AI Weekly",
+      "url": "https://aiweekly.co/alerts/eu-publishes-en-18286-first-ai-act-harmonised-standard"
+    },
+    {
+      "label": "Modulos: EN 18286",
+      "url": "https://docs.modulos.ai/frameworks/eu-ai-act/harmonized-standards/en-18286"
+    }
+  ],
+  "updatedAt": "2026-11-09T14:25:00.000Z"
+}

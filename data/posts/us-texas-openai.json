@@ -1,0 +1,34 @@
+{
+  "id": "us-texas-openai",
+  "region": "us",
+  "type": "집행·조사",
+  "status": "진행 중",
+  "date": "2026-10-23",
+  "title": "State of Texas v. OpenAI & Sam Altman (ChatGPT 안전성 기만 주장)",
+  "forum": "미국 텍사스주 콜린카운티 지방법원 · 사건번호는 확인하지 못함",
+  "summary": "텍사스 법무장관 켄 팩스턴이 OpenAI 법인 6곳과 샘 올트먼 개인을 상대로 ChatGPT의 안전성을 속였다며 기만적 거래행위법(DTPA) 위반 소송을 냈다. 미성년자의 ChatGPT 이용 차단과, 새 모델을 출시하기 전 법원이 지정한 독립 평가자의 승인을 받게 하는 금지명령을 구했다.",
+  "body": "2026년 10월 23일 텍사스주가 OpenAI와 샘 올트먼 CEO를 상대로 소송을 냈음.\n원고는 텍사스주이고, 켄 팩스턴 주 법무장관이 소송을 지휘함.\n법원은 텍사스주 콜린카운티 지방법원(주 법원)임.\n67쪽짜리 청구서(petition)에 OpenAI 관련 법인 6곳과 올트먼 개인이 피고로 올라 있다고 보도됐음.\n사건번호는 확인하지 못했음.\n\n근거 법률은 텍사스 기만적 거래행위·소비자보호법(DTPA)임.\n우리 표시광고법과 소비자보호 규정을 합친 것과 비슷한 성격의 주법임.\n여기에 미성년자 온라인 보호법인 SCOPE Act 위반 주장도 포함됐다고 보도됐음.\n\n주장의 골자는 OpenAI가 ChatGPT를 안전하고 믿을 만한 제품이라고 홍보하면서 해로운 답변이나 부정확한 답변의 위험을 제대로 경고하지 않았다는 것임.\n부모라고 주장하는 사람의 신원이나 미성년자와의 관계를 확인하지 않고, SCOPE Act가 요구하는 부모용 도구도 제공하지 않았다는 주장도 들어 있음.\nOpenAI의 자율 에이전트가 허락 없이 컴퓨터 시스템에 접근했다는 주장도 언급됐음.\n\n올트먼을 개인 피고로 넣은 점이 눈에 띔.\n주는 올트먼이 문제 행위를 직접 지휘했고 제품에 대해 기만적인 발언을 했다는 이유로 개인 책임을 묻고 있음.\n\n청구 내용은 꽤 강함.\n텍사스 내 미성년자의 ChatGPT 이용을 막으라는 금지명령을 구했음.\n새 모델을 텍사스 이용자에게 내놓기 전에 법원이 지정한 독립 평가자의 승인을 받게 해 달라는 요청도 했다고 보도됐음.\nDTPA 위반 1건당 1만 달러의 민사벌금도 청구했음.\n\nOpenAI는 전문가들과 협력해 위험을 줄이고 추가 안전장치를 만들어 왔다는 입장이라고 보도됐음.\n아직 법원의 판단은 없음.\n\n배경도 함께 봐야 함.\n팩스턴은 공화당 연방 상원의원 후보이고, 언론들은 이 소송을 선거 국면과 연결해 보도했음.\n일부 분석은 법원이 새 모델에 대한 사전 승인제까지 받아들일 가능성은 낮다고 봤음.\n\n이 사이트에 정리한 8개 주 법무장관의 OpenAI 상대 청소년 안전 소송과 같은 흐름임.\n주 법무장관들이 소비자보호법을 무기로 생성형 AI 회사를 직접 겨냥하는 사례가 늘고 있음.",
+  "sources": [
+    {
+      "label": "Courthouse News: Texas attorney general sues OpenAI",
+      "url": "https://www.courthousenews.com/texas-attorney-general-sues-openai-for-lying-about-chatgpt-safety-and-safeguards/"
+    },
+    {
+      "label": "Texas Tribune: Ken Paxton sues ChatGPT-maker OpenAI",
+      "url": "https://www.texastribune.org/2026/10/23/ken-paxton-chatgpt-openai-lawsuit-texas-attorney-general/"
+    },
+    {
+      "label": "Biometric Update: Texas sues OpenAI, Sam Altman",
+      "url": "https://www.biometricupdate.com/202610/texas-sues-openai-sam-altman-over-chatgpt-safety-and-age-verification"
+    },
+    {
+      "label": "Texas Policy Research",
+      "url": "https://www.texaspolicyresearch.com/paxton-sues-openai-seeks-chatgpt-limits-in-texas/"
+    },
+    {
+      "label": "The Daily Texan",
+      "url": "https://thedailytexan.com/2026/11/02/paxton-lawsuit-seeks-new-ai-model-restrictions-in-texas-as-ut-assesses-policy"
+    }
+  ],
+  "updatedAt": "2026-11-09T14:25:00.000Z"
+}

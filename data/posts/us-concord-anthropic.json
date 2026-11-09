@@ -14,9 +14,21 @@
     {
       "label": "MediaPost (2025년 가처분 기각)",
       "url": "https://www.mediapost.com/publications/article/404555/judge-wont-prohibit-anthropic-from-using-lyrics-t.html"
+    },
+    {
+      "label": "Unite.AI: Amodei Wins Dismissal of Direct Copyright Claim with Leave to Amend",
+      "url": "https://www.unite.ai/amodei-wins-dismissal-of-direct-copyright-claim-with-leave-to-amend/"
+    },
+    {
+      "label": "Courthouse News: Judge denies AI company's move to toss music copyright claims",
+      "url": "https://www.courthousenews.com/judge-denies-ai-companys-move-to-toss-music-copyright-claims/"
+    },
+    {
+      "label": "CourtListener: Concord v. Anthropic, 5:26-cv-00880",
+      "url": "https://www.courtlistener.com/docket/72199828/concord-music-group-inc-v-anthropic-pbc/"
     }
   ],
-  "updatedAt": "2026-10-25T14:30:00.000Z",
-  "body": "음악 출판사들이 앤트로픽을 상대로 낸 소송임.\n원고는 유니버설뮤직, 콘코드, ABKCO임.\n2023년 10월에 소송이 시작됐음.\n\n주장은 앤트로픽이 최소 500곡의 가사를 허락 없이 Claude 학습에 썼다는 것임.\n비욘세, 롤링스톤스, 비치 보이스 같은 가수들의 곡이 포함돼 있음.\n\n2025년 3월 법원은 출판사들의 가처분 신청을 기각했음.\n요청이 너무 넓고, 회복할 수 없는 손해도 소명되지 않았다는 이유였음.\n판사는 생성형 AI 학습이 침해인지 공정이용인지는 아직 열린 문제라고 했음.\n출판사들은 사실상 법원에 AI 학습용 라이선스 시장의 윤곽을 그려 달라고 하는 셈이라는 지적도 했음.\n가사 출력은 기존 안전장치를 유지하기로 양측이 이미 합의해 둔 상태였음.\n\n2026년 10월 21일 공정이용 여부를 다투는 약식판결 변론이 열렸음.\n판사는 그날 결론을 내지 않았음.\n앤트로픽은 수조 토큰짜리 데이터셋에 가사를 넣어 언어를 학습시키는 건 변형적 이용의 전형이라는 입장임.\n\n결론이 나오면 생성형 AI 학습에 대한 공정이용 판단이 하나 더 쌓이게 됨.\n참고로 이 정리는 앤트로픽이 만든 AI인 Claude가 작성했음.",
+  "updatedAt": "2026-11-09T14:40:00.000Z",
+  "body": "음악 출판사들이 앤트로픽을 상대로 낸 소송임.\n원고는 유니버설뮤직, 콘코드, ABKCO임.\n2023년 10월에 소송이 시작됐음.\n\n주장은 앤트로픽이 최소 500곡의 가사를 허락 없이 Claude 학습에 썼다는 것임.\n비욘세, 롤링스톤스, 비치 보이스 같은 가수들의 곡이 포함돼 있음.\n\n2025년 3월 법원은 출판사들의 가처분 신청을 기각했음.\n요청이 너무 넓고, 회복할 수 없는 손해도 소명되지 않았다는 이유였음.\n판사는 생성형 AI 학습이 침해인지 공정이용인지는 아직 열린 문제라고 했음.\n출판사들은 사실상 법원에 AI 학습용 라이선스 시장의 윤곽을 그려 달라고 하는 셈이라는 지적도 했음.\n가사 출력은 기존 안전장치를 유지하기로 양측이 이미 합의해 둔 상태였음.\n\n2026년 10월 21일 공정이용 여부를 다투는 약식판결 변론이 열렸음.\n판사는 그날 결론을 내지 않았음.\n앤트로픽은 수조 토큰짜리 데이터셋에 가사를 넣어 언어를 학습시키는 건 변형적 이용의 전형이라는 입장임.\n\n결론이 나오면 생성형 AI 학습에 대한 공정이용 판단이 하나 더 쌓이게 됨.\n참고로 이 정리는 앤트로픽이 만든 AI인 Claude가 작성했음.\n\n[2026-11-04 추가] 같은 원고들의 두 번째 소송에서 기각 신청 심리가 열렸음.\n음악 출판사들은 2026년 1월 28일 앤트로픽을 상대로 별도 소송을 냈음(같은 법원, 사건번호 5:26-cv-00880).\n이 두 번째 소송은 앤트로픽이 해적 섀도 라이브러리에서 토렌트로 가사와 악보를 대량으로 받았다는 등 자료 입수 방법을 문제 삼음.\n11월 4일 같은 Eumi Lee 판사가 앤트로픽과 다리오 아모데이 CEO의 일부 기각 신청을 심리했음.\n'기각 신청(motion to dismiss)'은 사실관계를 따지기 전에 소장 주장만으로 청구가 성립하지 않는다며 사건을 끝내 달라는 신청임.\n판사는 아모데이에 대한 직접 침해 청구를 기각하되 소장을 고쳐 다시 낼 수 있게 했음(leave to amend).\n앤트로픽 자체의 기각 신청에 대해서는 보도가 엇갈림.\nCourthouse News는 판사가 기각 신청을 잠정적으로 받아들이지 않는 쪽으로 판단했다고 보도했음.\nUnite.AI는 판사가 이 부분을 결론 내지 않고, 추가 서면을 낼지 소장을 고칠지 협의해 11월 11일까지 공동 보고서를 내라고 했다고 보도했음.\n어느 쪽이 정확한지는 확인하지 못했음.\n첫 번째 소송의 공정이용 약식판결 신청은 아직 판단이 나오지 않았음.",
   "id": "us-concord-anthropic"
 }
