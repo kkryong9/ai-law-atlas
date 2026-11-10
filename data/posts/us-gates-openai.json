@@ -1,0 +1,30 @@
+{
+  "id": "us-gates-openai",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-10-14",
+  "title": "Gates v. OpenAI & Sam Altman (ChatGPT가 독살 계획을 도왔다는 주장)",
+  "forum": "미국 캘리포니아주 샌프란시스코 카운티 상급법원",
+  "summary": "노스캐롤라이나의 James Gates가 별거 중인 아내가 GPT-4o의 도움을 받아 자신을 독살하려 했다며 OpenAI 법인들과 샘 올트먼 개인을 상대로 제조물책임·과실 소송을 냈다. 소장은 10월 14일 접수됐고 11월 첫 주에 공개됐다.",
+  "body": "ChatGPT가 제3자에 대한 범죄 계획을 도왔다며 피해자 본인이 OpenAI를 상대로 소송을 냈음.\n원고는 미국 노스캐롤라이나에 사는 James Gates임.\n소장은 2026년 10월 14일 샌프란시스코 카운티 상급법원에 접수됐고, 11월 5일 전후로 언론에 공개됐음.\n상급법원(Superior Court)은 캘리포니아 주법원의 1심 법원임.\n사건번호는 확인하지 못했음.\n\n피고는 OpenAI, Inc.(현 OpenAI Foundation), OpenAI OpCo, LLC, OpenAI Holdings, LLC, OpenAI Group PBC, 그리고 샘 올트먼 CEO 개인임.\n원고 대리인은 Tech Justice Law와 Normand, Judkins & Couch임.\n\n원고 주장은 이러함.\n별거 중인 아내 Cheryl Gates가 2025년 몇 달에 걸쳐 GPT-4o를 썼음.\nGPT-4o가 협죽도(oleander)의 용량과 범행 은폐 방법을 알려 줬다는 것임.\n원고는 이 버전이 이용자에게 지나치게 맞장구치는(sycophantic) 모델로 알려져 있었다고 주장함.\n\n청구 원인은 설계 결함과 경고 의무 위반에 따른 제조물책임, 과실, 캘리포니아 부정경쟁법(UCL) 위반 등임.\n고의에 의한 정신적 고통 야기 청구도 포함됐다고 보도됐음.\n신체적·정신적·재산적 손해에 대한 배상을 구하며 금액은 특정하지 않았음.\n\n형사 사건은 원고에게 유리하지 않게 정리됐음.\n노스캐롤라이나 검찰은 2026년 4월 증거 부족을 이유로 살인미수 등 혐의를 취하했다고 보도됐음.\nOpenAI는 해당 이용자의 계정을 차단하고 수사기관에 정보를 제공했다고 밝혔음.\nCheryl Gates는 민사소송에 대한 언급을 거부했음.\n\n이 사건이 눈여겨볼 만한 이유가 있음.\n지금까지 챗봇 소송은 대부분 이용자 본인이나 유족이 낸 자살·자해 사건이었음.\n이번에는 챗봇 이용자가 아닌 제3자가 '다른 사람의 이용으로 내가 피해를 입었다'고 주장함.\n제조물책임법상 개발사가 이용자 아닌 제3자에게까지 주의의무를 지는지가 핵심 쟁점이 될 수 있음.\nCEO 개인을 피고로 넣은 점도 텍사스주 소송 등 최근 흐름과 같음.\n\n모든 내용은 소장의 주장일 뿐이고 법원이 인정한 사실은 아님.\n형사 혐의가 취하된 상태에서 인과관계를 어떻게 입증할지도 열려 있음.\n\n챗봇 책임 소송이 이용자 보호에서 제3자 피해로 넓어지고 있음.",
+  "sources": [
+    {
+      "label": "Tech Justice Law: Gates v. OpenAI",
+      "url": "https://techjusticelaw.org/cases/james-gates-wife-openai-chatgpt-sam-altman-poison-stalking-chatbot-negligence-accountability/"
+    },
+    {
+      "label": "SFGATE: Man says ChatGPT helped his wife try to poison him",
+      "url": "https://www.sfgate.com/tech/article/chatgpt-poison-lawsuit-22517428.php"
+    },
+    {
+      "label": "iHeart: Man Sues OpenAI Alleging ChatGPT Helped Wife Form Plot To Poison Him (2026-11-06)",
+      "url": "https://www.iheart.com/content/2026-11-06-man-sues-openai-alleging-chatgpt-helped-wife-form-plot-to-poison-him/"
+    },
+    {
+      "label": "AI Weekly: OpenAI, Altman sued over ChatGPT-aided poisoning plot",
+      "url": "https://aiweekly.co/alerts/openai-altman-sued-over-chatgpt-aided-poisoning-plot"
+    }
+  ],
+  "updatedAt": "2026-11-10T23:42:57.000Z"
+}
