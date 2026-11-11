@@ -1,0 +1,38 @@
+{
+  "id": "eu-gema-suno",
+  "region": "eu",
+  "type": "소송·판결",
+  "status": "결정·판결",
+  "date": "2026-07-31",
+  "title": "GEMA v. Suno (AI 음악 생성 서비스 저작권 침해)",
+  "forum": "독일 뮌헨 제1지방법원(LG München I) · 42 O 763/25",
+  "summary": "독일 음악저작권협회 GEMA가 AI 음악 생성 서비스 Suno를 상대로 낸 소송에서 뮌헨 제1지방법원이 학습과 생성 결과물 모두에서 저작권 침해를 인정했다. 학습이 미국에서 이뤄졌다는 이유로 미국법을 적용하면서도 공정이용을 인정하지 않은 점이 주목된다. 판결은 확정되지 않았다.",
+  "body": "2026년 7월 31일 독일 뮌헨 제1지방법원이 GEMA의 Suno 상대 소송에서 GEMA 청구를 대부분 받아들였음.\n사건번호는 42 O 763/25임.\n생성형 AI 음악 서비스에 대한 유럽 첫 판결로 소개됐음.\n\nGEMA는 독일의 음악저작권 집중관리단체임.\n우리로 치면 한국음악저작권협회에 해당함.\nSuno는 문장만 입력하면 노래를 만들어주는 미국 AI 음악 서비스임.\n\nGEMA는 2025년 1월 21일 소송을 냈음.\nSuno가 라이선스 요청에 응하지 않았다는 것이 이유였음.\nGEMA는 Suno가 '포에버 영', '대디 쿨', '맘보 넘버 5' 같은 곡과 매우 비슷한 노래를 만들어냈고, 학습 데이터도 허락을 받지 않았다고 주장했음.\n\n법원 판단은 이렇게 보도됐음.\nSuno는 라이선스 없이 해당 곡을 복제하면 안 됨.\n학습 단계와 결과물 생성 단계 모두에 해당한다고 봤음.\n\n책임 주체는 이용자가 아니라 Suno라고 봤음.\n이용자가 넣는 간단하고 열린 프롬프트로는 구체적인 결과물을 통제할 수 없다는 이유임.\n\n학습 데이터 수집 방식도 문제 삼았음.\nSuno가 스트림 리핑(stream-ripping)으로 유튜브의 기술적 보호조치인 '롤링 사이퍼(Rolling Cipher)'를 우회했다고 인정했다고 보도됐음.\n\n가장 흥미로운 대목은 준거법임.\n학습이 미국에서 이뤄졌기 때문에 법원은 학습 부분에 미국법을 적용했다고 보도됐음.\n그리고 한 로펌 분석에 따르면 법원은 그 학습이 미국법상 공정이용(fair use)에도 해당하지 않는다고 봤음.\n공정이용은 미국 저작권법상 허락 없는 이용을 일정한 요건에서 허용하는 일반 예외 조항임.\n독일 법원이 미국 공정이용 법리를 직접 판단했다는 점이 이례적임.\n\n손해배상은 금액이 정해지지 않았음.\n보도에 따르면 법원은 배상 책임을 확인하고, 2023년 7월 1일 이후 이용에 대한 정보 제공 청구를 인정했음.\n구체적 배상액은 아직 정해지지 않았다고 보도됐음.\n\n판결은 확정되지 않았고, 항소 여부는 확인하지 못했음.\n판결문 원문은 확인하지 못했고, GEMA 보도자료와 로펌·언론 분석에 기댔음.\n\n같은 법원은 2025년 11월 GEMA v. OpenAI 사건에서도 GEMA 손을 들어줬음.\n이 사이트의 'GEMA v. OpenAI' 글과 같이 보면 됨.\nOpenAI의 항소에 대해 뮌헨고등법원은 아직 판단하지 않았다고 보도됐음.\n\nAI 기업이 학습을 미국에서 해도 독일 시장에서는 책임을 피하기 어렵다는 신호임.",
+  "sources": [
+    {
+      "label": "GEMA: Suno-Entscheidung 2026",
+      "url": "https://www.gema.de/de/w/suno-entscheidung-2026"
+    },
+    {
+      "label": "GEMA: Faire Vergütung gefordert – GEMA klagt gegen Suno Inc.",
+      "url": "https://www.gema.de/de/w/pm-klage-gegen-suno"
+    },
+    {
+      "label": "heise: AI Music – GEMA wins legal dispute against Suno",
+      "url": "https://www.heise.de/en/news/AI-Music-GEMA-wins-legal-dispute-against-Suno-11389111.html"
+    },
+    {
+      "label": "Bristows: GEMA v Suno",
+      "url": "https://inquisitiveminds.bristows.com/post/102ngsl/gema-v-suno-munich-court-finds-ai-music-training-and-outputs-infringe-copyright"
+    },
+    {
+      "label": "SKW Schwarz: KI-Flash GEMA v. Suno",
+      "url": "https://www.skwschwarz.de/en/news/KI-Flash-GEMA-Suno"
+    },
+    {
+      "label": "taz: Klage der Gema",
+      "url": "https://taz.de/Klage-der-Gema/!6200616/"
+    }
+  ],
+  "updatedAt": "2026-11-11T23:42:26+00:00"
+}

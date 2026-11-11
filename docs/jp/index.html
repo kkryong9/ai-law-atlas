@@ -139,7 +139,7 @@ ai 개발자가 허락 없이 저작물로 모델을 학습시킬 수 있는 폭
 function run(){var s=q.value.trim().toLowerCase(),ty=t.value,n=0;posts.forEach(function(p){var ok=(!ty||p.dataset.type===ty)&&(!s||p.dataset.hay.indexOf(s)>=0);p.hidden=!ok;if(ok)n++;});none.hidden=n>0;}
 q.addEventListener('input',run);t.addEventListener('change',run);})();
 </script><script>
-(function(){var c={"us": 16, "eu": 5, "cn": 7, "jp": 4, "kr": 14, "other": 3};[].forEach.call(document.querySelectorAll('.ct[data-region]'),function(s){s.textContent=c[s.dataset.region]||'0';});})();
+(function(){var c={"us": 18, "eu": 7, "cn": 8, "jp": 4, "kr": 15, "other": 3};[].forEach.call(document.querySelectorAll('.ct[data-region]'),function(s){s.textContent=c[s.dataset.region]||'0';});})();
 </script>
   </main>
   <footer class="foot">

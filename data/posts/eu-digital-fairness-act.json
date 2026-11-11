@@ -1,0 +1,38 @@
+{
+  "id": "eu-digital-fairness-act",
+  "region": "eu",
+  "type": "입법·규제",
+  "status": "계류",
+  "date": "2026-11-11",
+  "title": "EU 집행위원회, 디지털공정법(Digital Fairness Act) 제안 (AI 동반자 챗봇·AI 쇼핑 에이전트 포함)",
+  "forum": "EU 집행위원회 · COM(2026) 1100 final (보도 기준)",
+  "summary": "EU 집행위원회가 다크패턴, 중독성 설계, 숨은 수수료 등을 겨냥한 디지털공정법 제안을 채택했다. 보도에 따르면 관계를 흉내 내 이용을 늘리는 AI 챗봇 기능을 이용자가 끌 수 있게 하고, AI 쇼핑 에이전트 규율과 위반 시 전 세계 매출 6% 과징금도 담겼다.",
+  "body": "2026년 11월 11일 EU 집행위원회가 디지털공정법(Digital Fairness Act) 제안을 채택했음.\n간소화 지침, 소비자보호협력규정 개정과 함께 묶인 소비자 패키지임.\n형식은 규정(Regulation)이라 채택되면 회원국에 바로 적용됨.\n\n배경은 2005년 불공정거래관행지침(UCPD) 등 낡은 소비자법임.\n온라인 환경에 맞게 소비자법을 손보려는 것임.\n\n유로뉴스 보도에 따르면 주요 내용은 이러함.\n다크패턴 금지, 가격 표시 규칙 명확화, 플랫폼의 '설계에 의한 공정성', 중독성 설계 기능을 이용자가 끌 수 있는 권리, 인플루언서 마케팅 규율임.\n무한 스크롤, 자동 재생, 연속 사용 보상 같은 기능은 금지되지 않지만 이용자가 끌 수 있어야 한다고 보도됐음.\n\nAI 관련 조항이 눈여겨볼 대목임.\n보도에 따르면 이용 시간을 늘리려고 사람 사이 관계를 흉내 내는 AI 챗봇 기능을 성인 이용자가 끌 수 있게 했음.\nAI 동반자(컴패니언) 챗봇 자체를 금지하지는 않음.\n미성년자 문제는 별도로 제안된 'EU KIDS Act'에서 다루고, 그 법안은 미성년자에게 AI 동반자 기능을 기본으로 꺼두게 한다고 보도됐음.\n\n고객 응대를 전부 AI로만 할 수는 없고, 사람과 통화할 권리를 보장한다고 보도됐음.\n소비자 대신 검색·비교·구매하는 AI 쇼핑 에이전트에 대한 규칙도 담겼다고 보도됐음.\n\n집행도 바뀜.\n집행위원회가 직접 소비자법 위반을 조사하고, 전 세계 연간 매출의 최대 6%까지 과징금을 매길 수 있게 하는 내용이 보도됐음.\n\n한계가 있음.\nAI 챗봇 조항 내용은 주로 채택 직전 유출 초안을 다룬 보도에 기댔음.\n최종 제안문의 정확한 문구, 조항 번호, 범용 AI 비서까지 적용되는지는 확인하지 못했음.\n문서번호 COM(2026) 1100 final은 한 분석 기사에서 인용한 것이고 원문으로 확인하지 못했음.\n\n이제 유럽의회와 이사회가 심의함.\n합의까지 수개월에서 수년이 걸릴 수 있고, 2028년 말 이전 적용은 어렵다는 전망이 보도됐음.\n\nAI Act가 위험 기반 규제라면, 이 법은 소비자법으로 AI 챗봇의 '붙잡아두는 설계'를 겨냥한 것임.",
+  "sources": [
+    {
+      "label": "European Commission: Digital Fairness Act",
+      "url": "https://commission.europa.eu/law/law-topic/consumer-protection-law/digital-fairness-act_en"
+    },
+    {
+      "label": "European Commission (2026-11-11): Making your online experience fairer",
+      "url": "https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en"
+    },
+    {
+      "label": "European Commission press release IP/26/2407",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2407"
+    },
+    {
+      "label": "Euronews (2026-11-11)",
+      "url": "https://www.euronews.com/2026/11/11/eu-targets-subscription-traps-addictive-design-and-hidden-fees-with-new-digital-rules"
+    },
+    {
+      "label": "Bloomberg (2026-11-09): EU Targets Addictive Social Media, AI Chatbot Features",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features"
+    },
+    {
+      "label": "Tech Policy Press: Assessing the EU Digital Fairness Act",
+      "url": "https://www.techpolicy.press/assessing-the-eu-digital-fairness-act-and-its-promise-of-consumer-protection/"
+    }
+  ],
+  "updatedAt": "2026-11-11T23:42:26+00:00"
+}

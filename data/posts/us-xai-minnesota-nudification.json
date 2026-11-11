@@ -1,0 +1,38 @@
+{
+  "id": "us-xai-minnesota-nudification",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-10-02",
+  "title": "X.AI LLC v. Ellison (미네소타주 AI '누디피케이션' 금지법 위헌 소송)",
+  "forum": "미국 제8연방항소법원 · No. 26-2806 (원심: 미네소타연방지방법원 · No. 0:26-cv-03425)",
+  "summary": "일론 머스크의 xAI가 사진 속 인물을 나체처럼 바꾸는 AI 기능을 금지한 미네소타주법이 표현의 자유를 침해한다며 소송을 냈다. 1심은 가처분을 기각했지만, 2026년 10월 2일 제8연방항소법원이 항소심 동안 xAI에 대한 법 집행을 막는 명령을 냈다고 보도됐다.",
+  "body": "2026년 10월 2일 미국 제8연방항소법원이 xAI의 손을 들어주는 임시 명령을 냈다고 보도됐음.\n항소심이 끝날 때까지 미네소타주가 이른바 'AI 누디피케이션 금지법'을 xAI에 집행하지 못하게 한 것임.\n\n원고 xAI는 일론 머스크의 AI 회사이고, 챗봇 그록(Grok)을 운영함.\n피고는 미네소타주 법무장관 키스 엘리슨임.\n\n누디피케이션(nudification)은 사진 속 인물의 옷을 지운 것처럼 바꾸는 기능을 말함.\n미네소타주는 이런 기능을 제공하는 AI를 금지하는 법(HF 1606)을 만들었고, 미국 최초라고 보도됐음.\n법무장관은 위반 1건당 최대 50만 달러의 민사벌을 청구할 수 있다고 보도됐음.\n\nxAI는 2026년 7월 27일 미네소타연방지방법원에 소송을 냈음.\n주장의 핵심은 미국 수정헌법 제1조(표현의 자유) 위반임.\n법이 내용에 따라 표현을 규제하고, 지나치게 넓다는 것임.\n특히 '은밀한 신체 부위'의 정의가 넓어서 상의를 벗은 남성이나 수영복 차림까지 걸릴 수 있다고 주장했음.\n\n1심은 xAI의 요청을 받아들이지 않았음.\n7월 31일 임시제한명령(TRO) 신청이 기각됐고, 법은 8월 1일 시행됐다고 보도됐음.\n9월 4일 도노반 프랭크 판사는 예비적 금지명령(preliminary injunction)도 기각했음.\n\n예비적 금지명령은 본안 판단 전에 상대방 행위를 일단 멈추게 하는 명령임.\n우리 가처분과 비슷함.\n미국에서는 회복할 수 없는 손해(irreparable harm)를 입증해야 받을 수 있음.\n프랭크 판사는 xAI의 금전적 손해는 나중에 법이 무효가 되면 회복할 수 있으니 회복 불가능한 손해가 아니라고 봤다고 보도됐음.\nxAI가 소송을 너무 늦게 냈다는 점도 지적됐다고 보도됐음.\n\nxAI는 항소하면서 '항소심 계속 중 금지명령(injunction pending appeal)'을 신청했음.\n1심은 9월 9일 이것도 기각했고, 제8연방항소법원이 10월 2일 이를 받아들였다고 보도됐음.\n보도에 따르면 이 명령은 이유를 적지 않은 한 줄짜리 명령임.\n명령이 xAI에만 적용되는지, 법 전체의 집행을 막는지는 보도마다 표현이 달라 확인하지 못했음.\n\n이 명령은 법이 위헌이라고 판단한 것이 아님.\n본안인 표현의 자유 쟁점은 항소심에서 다뤄짐.\nxAI의 항소이유서 기한은 10월 29일, 주 법무장관의 답변 기한은 11월 30일로 보도됐음.\n\n관련해 xAI는 캘리포니아주를 상대로도 AI 관련 법의 위헌 소송(xAI v. Bonta)을 진행 중이고, 제9연방항소법원 구두변론이 2026년 11월 18일로 잡혔다고 보도됐음.\n\nAI 생성물 규제가 미국에서는 결국 표현의 자유 심사를 통과해야 한다는 점을 보여주는 사건임.",
+  "sources": [
+    {
+      "label": "Bloomberg Law: Musk's xAI Wins Block on Minnesota AI 'Nudification' Ban",
+      "url": "https://news.bloomberglaw.com/litigation/musks-xai-wins-block-on-minnesota-ai-nudification-ban"
+    },
+    {
+      "label": "Bloomberg Law: Musk's xAI Fails to Block Minnesota's AI 'Nudification' Law",
+      "url": "https://news.bloomberglaw.com/litigation/musks-xai-fails-to-block-minnesotas-ai-nudification-law"
+    },
+    {
+      "label": "Minnesota Attorney General (2026-09-04)",
+      "url": "https://www.ag.state.mn.us/Office/Communications/2026/09/04_xAI.asp"
+    },
+    {
+      "label": "Minnesota Reformer (2026-07-28)",
+      "url": "https://minnesotareformer.com/2026/07/28/elon-musks-ai-company-sues-minnesota-attorney-general-ellison-over-nudification-ban/"
+    },
+    {
+      "label": "Justia: X.AI LLC v. Ellison, 0:2026cv03425",
+      "url": "https://law.justia.com/cases/federal/district-courts/minnesota/mndce/0:2026cv03425/235231/54/"
+    },
+    {
+      "label": "AI Lawsuit Tracker: 2026 AI class action tracker",
+      "url": "https://openclassactions.com/news/ai/ai-class-action-lawsuits-2026-tracker.php"
+    }
+  ],
+  "updatedAt": "2026-11-11T23:42:26+00:00"
+}
