@@ -1,0 +1,38 @@
+{
+  "id": "us-nonprofits-frontier-ai-freeze",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-12",
+  "title": "Irreplaceable Education Fund 외 v. Anthropic·Google·Meta·OpenAI·SpaceXSI (프런티어 AI 개발 중단 청구)",
+  "forum": "미국 캘리포니아주 샌프란시스코 카운티 상급법원(Superior Court) · 사건번호 미확인",
+  "summary": "시민단체 4곳이 앤트로픽·구글·메타·OpenAI·스페이스X의 AI 부문을 상대로, 현재 최첨단 수준을 넘는 AI 모델 개발을 멈추게 해 달라는 소송을 샌프란시스코 주법원에 냈다. 캘리포니아 부정경쟁법(UCL)과 공적 생활방해(public nuisance) 법리를 근거로 했다.",
+  "body": "2026년 11월 12일 미국 시민단체 4곳이 대형 AI 기업 5곳을 상대로 'AI 개발을 멈춰 달라'는 소송을 냈음.\n법원은 캘리포니아주 샌프란시스코 카운티 상급법원(Superior Court)임.\n미국에서 'Superior Court'는 우리로 치면 주(州) 차원의 1심 법원임.\n사건번호는 확인하지 못했음.\n\n원고는 Irreplaceable Education Fund, Public Citizen, Heat Initiative, The Alliance for Secure AI 네 곳임.\nPublic Citizen은 랄프 네이더가 만든 미국의 오래된 소비자단체임.\nHeat Initiative는 빅테크의 아동 안전 문제를 다뤄 온 단체로 알려져 있음.\n\n피고는 앤트로픽, 구글, 메타, OpenAI, 그리고 스페이스X의 AI 부문임.\n이 AI 부문 명칭은 보도마다 'SpaceXSI'와 'SpaceXAI'로 엇갈림.\n원고 측 보도자료는 'SpaceXSI'로 적었음.\n\n소장은 뉴저지주 법무장관을 지낸 Matthew Platkin이 원고들을 대리해 냈다고 보도됐음.\n\n청구 내용은 현재 프런티어 시스템보다 더 강력한 AI 모델의 개발·배포를 막는 금지명령(injunction)임.\n금지명령은 손해배상 대신 특정 행위를 하지 말라고 법원이 명령하는 구제수단임.\n원고 측은 기술이 통제 가능해지고 대중이 의견을 낼 수 있을 때까지 동결해야 한다는 입장이라고 보도됐음.\n\n법적 근거는 두 가지임.\n첫째는 캘리포니아 부정경쟁법(Unfair Competition Law, UCL)임.\nUCL은 '불법적·불공정·기만적' 영업행위를 넓게 금지하는 법으로, 다른 법 위반을 끌어와 청구하는 통로로 자주 쓰임.\n둘째는 공적 생활방해(public nuisance) 법리임.\n공적 생활방해는 공중의 건강·안전이나 재산 이용을 부당하게 침해하는 행위를 막는 오래된 보통법 법리임.\n원고들은 AI 기업들이 공중 보건을 위협하고 컴퓨터 시스템 같은 재산의 이용을 방해한다고 주장했다고 보도됐음.\n\n원고들은 AI 에이전트가 사람 개입 없이 움직인 이른바 '통제 상실(loss of control)' 사례들을 근거로 들었음.\nAI 기업 경영진들이 스스로 AI를 이용한 사이버공격·생물무기 위험을 경고해 왔다는 점도 들었음.\nPublic Citizen의 Robert Weissman은 기존 법을 적용해 AI 기업들의 무모한 관행을 위법으로 보고 추가 개발을 동결해 달라는 소송이라고 설명했음.\n\n이번 소송은 아직 소장이 접수된 단계임.\n법원이 어떤 판단을 한 것도 아니고, 주장은 검증되지 않았음.\n피고들의 공식 입장은 확인하지 못했음.\n\n법적으로는 넘어야 할 산이 많아 보임.\n원고 단체들에게 UCL상 원고적격(standing)이 있는지가 먼저 다퉈질 가능성이 큼.\nUCL 사적 청구는 원칙적으로 그 행위로 실제 금전·재산상 손해를 입은 사람만 낼 수 있기 때문임.\n'아직 만들어지지 않은 모델'을 공적 생활방해로 볼 수 있는지도 전례가 없는 쟁점임.\n\n별개로 2026년 9월에는 이들 AI 기업이 개발 속도를 함께 늦추기로 합의한 것이 반독점법 위반이라는 정반대 방향의 연방 소송도 제기돼 있음.\n한쪽은 '너무 빨리 간다', 다른 쪽은 '함께 늦추면 담합'이라고 다투는 구도임.\n\n프런티어 AI의 위험을 입법 대신 법원의 금지명령으로 다루려는 첫 시도라는 점에서 지켜볼 사건임.",
+  "sources": [
+    {
+      "label": "Public Citizen 보도자료: Coalition of Nonprofits Files Landmark Lawsuit",
+      "url": "https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks/"
+    },
+    {
+      "label": "Courthouse News: San Francisco court asked to freeze AI development",
+      "url": "https://www.courthousenews.com/san-francisco-court-asked-to-freeze-ai-development-stave-off-catastrophic-harm/"
+    },
+    {
+      "label": "Al Jazeera: US nonprofits sue tech giants to halt AI development",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development"
+    },
+    {
+      "label": "Maryland Daily Record: Suit seeks to halt frontier AI work",
+      "url": "https://thedailyrecord.com/2026/11/12/nonprofits-sue-openai-google-anthropic-halt-frontier-ai/"
+    },
+    {
+      "label": "Quartz: AI giants face a new lawsuit to freeze frontier model development",
+      "url": "https://qz.com/nonprofits-sue-ai-giants-freeze-frontier-model-development-111226"
+    },
+    {
+      "label": "ABC News(AP): Lawsuit says AI companies made illegal agreement on AI slowdown (2026-09)",
+      "url": "https://abcnews.com/technology/wirestory/lawsuit-anthropic-openai-spacexai-google-made-illegal-agreement-136588615"
+    }
+  ],
+  "updatedAt": "2026-11-12T23:45:00.000Z"
+}

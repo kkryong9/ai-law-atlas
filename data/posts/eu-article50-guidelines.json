@@ -1,0 +1,38 @@
+{
+  "id": "eu-article50-guidelines",
+  "region": "eu",
+  "type": "정책·지침",
+  "status": "발표",
+  "date": "2026-07-20",
+  "title": "집행위원회, AI Act 제50조 투명성 의무 가이드라인 발표 (챗봇 고지·AI 생성물 표시·딥페이크)",
+  "forum": "EU 집행위원회 · 보도자료 IP/26/1653",
+  "summary": "집행위원회가 AI Act 제50조의 투명성 의무를 어떻게 지킬지 설명하는 최종 가이드라인을 2026년 7월 20일 발표했다. AI와 대화 중임을 알리는 방법, AI 생성물의 기계판독 표시, 딥페이크 고지 예외 등을 다뤘으며 법적 구속력은 없다.",
+  "body": "EU 집행위원회가 AI Act 제50조 투명성 의무에 관한 최종 가이드라인을 냈음.\n집행위원회 보도자료(IP/26/1653) 기준 발표일은 2026년 7월 20일임.\n일부 매체는 7월 21일로 적었음.\n그동안 이 사이트에서 다루지 않았던 내용이라 지금 정리함.\n\n제50조는 고위험 AI가 아니더라도 지켜야 하는 투명성 규정임.\n2026년 8월 2일부터 적용되고 있음.\n크게 네 가지 의무가 있음.\n사람과 상호작용하는 AI는 상대가 AI라는 것을 알려야 함(제50조 제1항).\n생성형 AI 제공자는 출력물에 기계가 읽을 수 있는 표시를 해야 함(제2항).\n감정인식·생체분류 시스템 배치자는 대상자에게 알려야 함(제3항).\n딥페이크를 만든 배치자는 AI로 생성·조작된 것임을 밝혀야 함(제4항).\n\n'제공자(provider)'는 AI를 만들어 시장에 내놓는 자, '배치자(deployer)'는 그 AI를 업무에 쓰는 자를 말함.\n\n가이드라인은 법적 구속력이 없음.\nAI Act의 최종 해석 권한은 유럽사법재판소(CJEU)에 있음.\n집행위원회는 집행 경험이 쌓이면 가이드라인을 고칠 수 있다고 했음.\n같이 마련된 'AI 생성 콘텐츠 투명성 행동강령(Code of Practice)'은 의무 준수를 보여주는 자발적 수단 중 하나로 제시됐음.\n\n챗봇 고지와 관련해 '누가 봐도 AI임이 명백한 경우' 고지를 생략할 수 있다는 예외는 좁게 해석해야 한다는 해설이 나왔음.\n이용자가 '알았어야 한다'고 쉽게 가정하면 안 된다는 것임.\nAI 에이전트는 자신이 AI라는 점과 누구를 대신해 행동하는지도 밝혀야 한다는 해설이 있음.\n\nAI 생성물 표시와 관련해, 배치자는 제공자가 넣은 기계판독 표시만으로 자신의 딥페이크 고지 의무를 다했다고 볼 수 없다는 해설이 있음.\n2026년 8월 2일 전에 이미 출시된 생성형 AI 시스템은 제2항 표시 의무를 2026년 12월 2일까지 갖추면 된다는 해설도 있음.\n이 유예 일정은 Digital Omnibus 개정과 연결된 것으로 보이나, 원문에서 직접 확인하지는 못했음.\n\n딥페이크 예외도 다뤘음.\n명백히 예술적·창작적·풍자적·허구적인 작품은 감상을 해치지 않는 방식으로 AI 생성물이 있다는 사실만 알리면 됨.\n공익 사안에 관한 텍스트는 사람이 실제로 편집 책임을 지는 경우 고지 의무가 면제됨.\n2026년 8월 2일 이전에 생성된 콘텐츠에 소급해 표시할 의무는 없다고 함.\n\n한 출처는 이 가이드라인이 2026년 11월 5일 C(2026) 7702로 채택되고 11월 12일 관보(C/2026/6005)에 실렸다고 적었음.\n그러나 집행위원회 보도자료는 7월 20일 발표로 되어 있고, 11월 문서번호는 다른 출처로 확인하지 못했음.\n관보 게재 여부와 7월판과 11월판의 관계는 확인하지 못했음.\n\n한국 AI기본법도 생성형 AI 결과물 표시 의무를 두고 있어 비교해 볼 만함.\nEU 가이드라인은 '누가 무엇을 언제 표시하느냐'를 제공자와 배치자로 나눠 정리했다는 점이 참고가 됨.",
+  "sources": [
+    {
+      "label": "EU 집행위원회 보도자료 IP/26/1653",
+      "url": "https://europa.eu/newsroom/ecpc-failover/pdf/ip-26-1653_en.pdf"
+    },
+    {
+      "label": "EU 집행위원회: Guidelines on transparency obligations for providers and deployers of AI systems",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems"
+    },
+    {
+      "label": "McCann FitzGerald: AI Transparency – Commission's Guidelines on Article 50 Part 1",
+      "url": "https://www.mccannfitzgerald.com/knowledge/data-privacy-and-cyber-risk/ai-transparency-european-commissions-guidelines-on-article-50-part-1-provider-obligations"
+    },
+    {
+      "label": "Paul, Weiss: EU Finalises Transparency Rules for AI-Generated Content",
+      "url": "https://www.paulweiss.com/insights/client-memos/eu-finalises-transparency-rules-for-ai-generated-content"
+    },
+    {
+      "label": "Pearl Cohen: European Commission Publishes Final Guidelines on AI Transparency Obligations",
+      "url": "https://www.pearlcohen.com/european-commission-publishes-final-guidelines-on-ai-transparency-obligations/"
+    },
+    {
+      "label": "Praxikon: Article 50 guidelines adopted: C(2026) 7702 final",
+      "url": "https://www.praxikon.com/en/posts/article-50-guidelines-adopted-c-2026-7702-which-reference"
+    }
+  ],
+  "updatedAt": "2026-11-12T23:45:00.000Z"
+}

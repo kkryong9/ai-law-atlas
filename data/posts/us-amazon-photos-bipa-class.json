@@ -1,0 +1,30 @@
+{
+  "id": "us-amazon-photos-bipa-class",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-10",
+  "title": "Amazon Photos 얼굴인식 생체정보 소송 집단소송 인증 (일리노이 BIPA)",
+  "forum": "미국 일리노이북부연방지방법원 · John J. Tharp Jr. 판사 · 사건번호 미확인",
+  "summary": "Amazon Photos의 이미지 인식 기능이 이용자 얼굴 정보를 동의 없이 수집했다는 일리노이 생체정보보호법(BIPA) 소송에서, 연방법원이 일리노이 이용자 집단소송을 인증했다. 사진에 찍힌 비이용자 집단은 인증하지 않았다.",
+  "body": "2026년 11월 10일 아마존의 얼굴인식 관련 소송이 집단소송으로 인증됐음.\n미국 일리노이북부연방지방법원 John J. Tharp Jr. 판사가 결정했음.\n사건명과 사건번호는 확인하지 못했음.\n\n집단소송 인증(class certification)은 몇몇 원고가 같은 처지의 많은 사람을 대표해 소송할 수 있다고 법원이 허락하는 절차임.\n미국 집단소송에서는 이 단계를 넘느냐가 사실상 승부처로 여겨짐.\n인증되면 피고가 질 수 있는 책임의 규모가 수십만 명 단위로 커지기 때문임.\n\n문제가 된 것은 아마존의 사진 보관 서비스 Amazon Photos의 이미지 인식 기능임.\n원고들은 이 기능이 사진 속 얼굴을 스캔해 얼굴 기하정보를 만들었다고 주장함.\n그 과정에서 일리노이 생체정보보호법(BIPA)이 요구하는 고지와 서면 동의가 없었다는 것임.\n\nBIPA는 일리노이주 법으로, 얼굴·지문 같은 생체정보를 수집하려면 미리 서면 고지와 서면 동의를 받도록 함.\n위반 1건마다 법정 손해배상을 청구할 수 있어 미국에서 가장 강한 생체정보 법으로 꼽힘.\n\n원고들은 2021년 소송을 냈고, BIPA 제15조(b)(서면 동의 없는 수집)와 제15조(e)(보안 조치 미흡) 위반을 주장했음.\n원고들은 아마존이 이렇게 얻은 데이터를 자사 얼굴인식 AI인 Rekognition의 학습·개선에 썼다고도 주장했음.\n이 학습 주장이 이번 결정에서 어떻게 다뤄졌는지는 확인하지 못했음.\n\n인증된 집단은 일리노이 거주 이용자임.\n2016년 10월 18일부터 2023년 1월 31일까지 이미지 인식 기능을 켠 채 자기 계정에 올린 사진에 자기 얼굴이 나온 사람들임.\n아마존은 소송 때문에 2023년 1월 일리노이 거주자에게 이 기능을 껐다고 함.\n아마존이 확인한 해당 기간 일리노이 관련 계정은 339,847개이나, 모두가 집단에 들어가는 것은 아님.\n\n판사는 공통 쟁점으로 세 가지를 꼽았음.\n아마존이 수집한 얼굴 데이터가 BIPA상 생체식별자 또는 생체정보에 해당하는지임.\n아마존이 법이 요구하는 고지를 했는지임.\n서면 동의(written release)를 받았는지임.\n판사는 일리노이 이용자들이 BIPA상 고지를 보지 않고도 이미지 인식 기능을 켤 수 있었다고 봤다고 보도됐음.\n\n반면 다른 사람이 올린 사진에 찍힌 비이용자 집단은 인증하지 않았음.\n비이용자는 누구인지 특정하기 어렵고 개별 사정이 다르다는 취지로 보이나, 구체적 이유는 확인하지 못했음.\n\n이번 결정은 아마존이 BIPA를 위반했다는 판단이 아님.\n아마존이 항소허가를 구할지, 화해나 재판 일정이 어떻게 될지는 확인하지 못했음.\n\nAI 학습용 데이터의 출처가 이용자 생체정보일 때 집단소송 위험이 얼마나 커지는지 보여주는 결정임.",
+  "sources": [
+    {
+      "label": "Biometric Update: Amazon Photos biometric privacy lawsuit certified as class action",
+      "url": "https://www.biometricupdate.com/202611/amazon-photos-biometric-privacy-lawsuit-certified-as-class-action"
+    },
+    {
+      "label": "ID Tech: Judge Certifies Amazon Photos BIPA Class, Rejects Non-User Class",
+      "url": "https://idtechwire.com/judge-certifies-amazon-photos-bipa-class-rejects-non-user-class/"
+    },
+    {
+      "label": "GlobeNewswire: Wexler Boley & Elgersma 보도자료 (원고 측 로펌)",
+      "url": "https://www.globenewswire.com/news-release/2026/11/11/3401049/0/en/wexler-boley-elgersma-announces-court-certification-of-class-action-against-amazon-over-alleged-collection-of-biometric-data-through-amazon-photos.html"
+    },
+    {
+      "label": "Law360: Amazon Photos Users Get Class Cert In Illinois BIPA Suit",
+      "url": "https://www.law360.com/classaction/articles/2548768"
+    }
+  ],
+  "updatedAt": "2026-11-12T23:45:00.000Z"
+}
