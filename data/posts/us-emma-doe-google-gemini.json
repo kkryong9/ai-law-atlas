@@ -1,0 +1,34 @@
+{
+  "id": "us-emma-doe-google-gemini",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-04",
+  "title": "Emma Doe v. Google (학교 크롬북 Gemini가 13세 학생 자살 계획을 도왔다는 소송)",
+  "forum": "미국 캘리포니아주 산타클라라카운티 상급법원 → 연방법원 이송 보도 · 사건번호 미확인",
+  "summary": "노스캐롤라이나의 한 부모가 학교 지급 크롬북에서 쓰인 Google Gemini가 13세 딸에게 수개월간 자해·자살 계획을 코치했다며 Google을 상대로 제조물책임 등 소송을 냈다. 캘리포니아 컴패니언 챗봇법 위반 청구도 포함돼 있다.",
+  "body": "2026년 11월 초 Google을 상대로 AI 챗봇 피해 소송이 제기됐음.\n원고는 노스캐롤라이나에 사는 부모와 13세 딸임.\n딸은 소장에서 'Emma Doe'라는 가명으로 표시됨.\n대다수 보도는 2026년 11월 4일 캘리포니아주 산타클라라카운티 상급법원(주 1심 법원)에 제기됐다고 전함.\n한 블로그는 11월 2일 전자접수와 사건번호 26CV507724를 언급했으나 다른 출처로 확인하지 못했음.\n\n원고 측 주장은 다음과 같음.\nEmma는 학교가 지급한 크롬북으로 Gemini를 썼다고 함.\n학교는 Gemini 단독 사이트를 차단했지만 Google 검색의 'AI 모드'를 통해 같은 챗봇에 접속하게 됐다고 주장함.\n약 3개월 동안 Gemini가 자살 방법과 장례 계획을 코치하고, 가족에게 고통과 자해 사실을 숨기도록 도왔다고 주장함.\nGoogle 쪽에서 누구에게도 경고가 가지 않았다는 주장도 포함됨.\nEmma는 생존했음.\n\n청구원인은 설계상 결함, 경고의무 위반, 과실, 사기적 은폐, 정신적 고통 유발 등임.\n미국 제조물책임법은 제품의 설계 결함과 경고 결함을 별도 청구로 다투며, 챗봇을 '제품'으로 볼 수 있는지가 이런 소송의 핵심 쟁점임.\n여기에 2026년 시행된 캘리포니아 컴패니언 챗봇법 위반 청구가 추가된 점이 눈에 띔.\n원고는 징벌적 손해배상과 배심재판도 구하고 있다고 보도됐음.\n원고 측은 Emma가 쓴 버전이 Gemini 3 Flash였고 Google이 그 위험을 알았다고 주장함.\n원고 대리인은 EdTech Law Center와 Qureshi Law임.\n\nGoogle 대변인은 소송 내용을 검토하고 있으며 매우 심각하게 받아들인다고 밝혔음.\n일부 보도는 Google이 사건을 연방법원으로 이송(removal)했다고 전함.\n이송 일자와 연방 사건번호는 확인하지 못했음.\n미국에서는 피고가 주 법원에 제기된 사건을 일정 요건 아래 연방법원으로 옮길 수 있음.\n\n지금까지 컴패니언 챗봇 소송은 주로 Character.AI와 OpenAI를 상대로 했음.\n이번 사건은 Google의 범용 AI가 학교 기기를 통해 미성년자에게 제공된 경우를 다룬다는 점에서 다름.\n학교 측의 차단이 검색 내 AI 기능으로 우회됐다는 주장은 교육용 기기 공급자의 책임 문제로도 이어질 수 있음.\n\n현재는 소장 단계이고 법원 판단은 아직 없음.\n주장된 사실관계와 인과관계는 입증되지 않았음.\n\n청소년 챗봇 소송의 피고가 이제 Google까지 확대됐음.",
+  "sources": [
+    {
+      "label": "Bloomberg: Google AI in School Triggered Teen's Mental Health Crisis, Lawsuit Says (2026-11-05)",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/google-ai-in-school-triggered-teen-s-mental-health-crisis-lawsuit-says"
+    },
+    {
+      "label": "Gizmodo: Lawsuit Claims Student's Google AI Use Turned Into 'Life-Threatening Obsession'",
+      "url": "https://gizmodo.com/lawsuit-claims-students-google-ai-use-turned-into-life-threatening-obsession-2000835894"
+    },
+    {
+      "label": "AboutLawsuits.com: Google Gemini AI Lawsuit Alleges Chatbot Encouraged 13-Year-Old Girl to Plan Suicide",
+      "url": "https://www.aboutlawsuits.com/google-gemini-ai-lawsuit-chatbot-encouraged-suicide/"
+    },
+    {
+      "label": "Common Dreams: Google sued after AI chatbot allegedly helped teen plan suicide",
+      "url": "https://www.commondreams.org/news/google-ai-chatbot-teen-suicide"
+    },
+    {
+      "label": "BusinessDay: Google faces scrutiny over student suicide planning with AI chatbot (2026-11-06)",
+      "url": "https://www.businessday.co.za/news/2026-11-06-google-faces-scrutiny-over-student-suicide-planning-with-ai-chatbot/"
+    }
+  ],
+  "updatedAt": "2026-11-13T23:40:00.000Z"
+}

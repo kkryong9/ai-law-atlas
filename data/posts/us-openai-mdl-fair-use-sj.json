@@ -1,0 +1,38 @@
+{
+  "id": "us-openai-mdl-fair-use-sj",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-12",
+  "title": "In re OpenAI, Inc. Copyright Infringement Litigation (New York Times 등) 공정이용 약식판결 절차",
+  "forum": "미국 뉴욕남부연방지방법원 (Sidney H. Stein 판사) · No. 1:25-md-03143",
+  "summary": "New York Times 등 언론사와 작가들이 OpenAI·Microsoft를 상대로 낸 저작권 소송(병합 MDL)에서 AI 학습의 공정이용 여부를 다투는 약식판결 신청이 막바지에 이르렀다. 법원은 11월 6일 아미쿠스 의견서 56건을 받아들였고, 11월 12일에는 OpenAI에 대한 '그라운딩·출력' 책임 주장 브리핑 일정을 정했다.",
+  "body": "New York Times 등이 OpenAI와 Microsoft를 상대로 낸 저작권 소송이 공정이용 판단을 앞두고 있음.\n여러 언론사·작가 소송이 뉴욕남부연방지방법원에 병합돼 있음.\n이를 MDL(Multidistrict Litigation, 광역소송)이라고 하며, 여러 연방법원에 흩어진 비슷한 사건을 한 판사에게 모아 증거조사 등을 함께 진행하는 제도임.\n담당은 Sidney H. Stein 판사이고, 사건번호는 No. 1:25-md-03143임.\n\n핵심 쟁점은 저작물을 AI 학습에 쓴 것이 미국 저작권법상 공정이용(fair use)인지임.\n공정이용은 이용 목적·성격, 저작물 성격, 이용 분량, 원저작물 시장에 대한 영향이라는 4가지 요소를 종합해 판단함.\nOpenAI, Microsoft, 그리고 언론사 원고 측은 2026년 9월 4일 각각 약식판결(summary judgment)을 신청했음.\n약식판결은 중요한 사실관계에 진정한 다툼이 없을 때 정식 재판(배심) 없이 판사가 법률 판단으로 사건을 끝내는 절차임.\n즉 공정이용 여부가 배심 없이 판사 판단으로 정해질 수 있음.\n\n2026년 11월 6일 법원은 아미쿠스(법정조언자) 의견서 제출을 허용했음.\nTech Policy Press는 Stein 판사가 56건의 아미쿠스 의견서를 승인했다고 보도했음.\n원고 지지, 피고 지지, 중립 의견이 섞여 있음.\n예컨대 Emory 로스쿨 Matthew Sag 교수는 현실적 조건에서 원고 저작물의 '역류(regurgitation)'는 드물다는 취지의 의견서를 냈음.\n\n2026년 11월 12일에는 추가 일정 명령이 나왔다고 보도됐음.\n원고 언론사들이 OpenAI에 대해서도 '그라운딩(grounding)'과 '출력(output)' 단계의 책임 주장을 약식판결로 다투려면 11월 25일까지 신청서를 내야 함.\n반대 서면은 12월 11일, 재반박 서면은 12월 18일까지임.\n그라운딩은 AI가 답변할 때 실시간 검색 등으로 외부 기사를 가져와 쓰는 것을 말함.\n출력 책임은 AI가 내놓은 답변 자체가 기사를 베꼈다는 주장임.\n원고 측은 9월 신청 당시 그라운딩·출력 주장을 Microsoft에 대해서만 냈고, OpenAI에 대해서는 계류 중인 제재 신청이 해결되기 전까지 판단하기에 이르다는 입장이었다고 함.\n이 11월 12일 명령은 소송 추적 블로그 보도로 확인했고 명령문 원문은 확인하지 못했음.\n\n학습 단계 공정이용에 관한 본 신청의 재반박 서면 기한은 11월 19일 또는 20일로 출처마다 다름.\n심리기일과 판결 시점은 아직 정해지지 않았음.\n원고 측은 OpenAI가 법원 명령으로 제출해야 할 ChatGPT 대화 로그를 다른 로그로 바꿔 냈다며 제재와 법정모욕을 신청한 상태이고, OpenAI는 이를 부인함.\n\n미국 AI 학습 공정이용 판단은 지금까지 Bartz v. Anthropic, Kadrey v. Meta 등 북부캘리포니아 판결과 Thomson Reuters v. ROSS 정도였음.\n뉴스 기사를 대상으로 한 첫 본격 판단이 될 가능성이 커서 언론·AI 업계 모두 주목하고 있음.\n결과는 USA Today v. OpenAI 등 후속 언론사 소송에도 영향을 줄 수 있음.\n\n뉴스 학습의 공정이용 여부에 대한 첫 대형 판단이 Stein 판사 손에 들어가기 직전임.",
+  "sources": [
+    {
+      "label": "CourtListener: In Re: OpenAI, Inc. Copyright Infringement Litigation, 1:25-md-03143 (docket)",
+      "url": "https://www.courtlistener.com/docket/69879510/in-re-openai-inc-copyright-infringement-litigation/"
+    },
+    {
+      "label": "ChatGPT Is Eating the World: Judge Stein sets brief schedule if New York Times seeks to pursue grounding and output theories (2026-11-12)",
+      "url": "https://chatgptiseatingtheworld.com/2026/11/12/judge-stein-sets-brief-schedule-if-new-york-times-seeks-to-pursue-grounding-and-output-theories-of-liability-v-openai/"
+    },
+    {
+      "label": "Tech Policy Press: Friends of the Court Flock to the OpenAI Copyright Fight",
+      "url": "https://www.techpolicy.press/friends-of-the-court-flock-to-the-openai-copyright-fight/"
+    },
+    {
+      "label": "Emory Law: Sag files amicus brief in litigation against OpenAI and Microsoft",
+      "url": "https://law.emory.edu/news-and-events/releases/2026/11/sag-amicus-brief.html"
+    },
+    {
+      "label": "PPC Land: OpenAI and Microsoft ask judge to end 10.8 million article copyright case",
+      "url": "https://ppc.land/openai-and-microsoft-ask-judge-to-end-10-8-million-article-copyright-case/"
+    },
+    {
+      "label": "MediaPost: Publishers Ask Judge To Sanction OpenAI",
+      "url": "https://www.mediapost.com/publications/article/411928/publishers-ask-judge-to-sanction-openai-the-ball.html"
+    }
+  ],
+  "updatedAt": "2026-11-13T23:40:00.000Z"
+}
