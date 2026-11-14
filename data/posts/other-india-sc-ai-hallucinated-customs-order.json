@@ -1,0 +1,38 @@
+{
+  "id": "other-india-sc-ai-hallucinated-customs-order",
+  "region": "other",
+  "type": "소송·판결",
+  "status": "결정·판결",
+  "date": "2026-09-02",
+  "title": "Vijay Ghanshyam Gadiya v. Union of India (인도 대법원, AI 환각 판례를 인용한 425 crore 루피 관세 처분 취소)",
+  "forum": "인도 대법원 (Dipankar Datta·Sheel Nagu 대법관) · 2026 INSC 947 · SLP No. 15605 of 2026",
+  "summary": "인도 대법원은 2026년 9월 2일 관세 당국이 AI가 만들어 낸 가짜 판례를 근거로 부과한 약 425 crore 루피(약 42억 5천만 루피) 과징금 처분과 이를 유지한 구자라트 고등법원 판결을 취소하고 재처분을 명했다. 행정청 처분서에 AI 환각이 들어간 것을 이유로 최고법원이 처분을 무효화한 사례다.",
+  "body": "인도 대법원이 AI가 지어낸 판례를 근거로 한 행정처분을 취소했음.\n판결일은 2026년 9월 2일이고 인용번호는 2026 INSC 947임.\n재판부는 Dipankar Datta, Sheel Nagu 두 대법관이고 Datta 대법관이 판결을 썼음.\n인도 언론은 이후 11월까지 비슷한 관세 처분이 가짜 판례 때문에 잇따라 무너지고 있다고 보도하고 있음.\n\n사건 당사자는 다이아몬드 무역업자 Vijay Ghanshyam Gadiya와 인도 연방정부(Union of India)임.\n수라트(Surat) 세관 추가청장은 2025년 10월 8일 그에게 관세법(Customs Act, 1962) 제114조에 따라 약 425.28 crore 루피의 과징금을 부과했음.\n천연 다이아몬드를 랩그로운(인공) 다이아몬드로 허위 신고했다는 이유였음.\ncrore는 1천만을 뜻하는 인도 단위라서 약 42억 5천만 루피에 해당함.\n보도마다 425.27 crore와 425.28 crore로 조금씩 다름.\n\nGadiya는 구자라트 고등법원에 다퉜지만 2026년 1월 20일 기각됐음.\n그 뒤 대법원에 상고허가를 신청했음.\n\n상고인은 처분서가 인용한 판례와 논문 상당수가 AI로 생성된 것이라고 주장했음.\n대법원은 인용 자료를 직접 검증했음.\n일부 판례는 아예 존재하지 않거나 인용번호가 가짜였음.\n실제 존재하는 판례도 처분서가 내세운 법리를 담고 있지 않았음.\n대법원은 이를 'AI의 환각(hallucination)'으로 보인다고 했음.\n\n대법원은 처분과 고등법원 판결을 모두 취소했음.\n원처분을 쓰지 않은 같은 직급의 다른 공무원이 새로 판단하라고 명했음.\n원처분 작성자에 대한 조치 여부는 임명권자 판단에 맡겼음.\n보도에 따르면 대법원은 가짜 판례가 하나만 섞여도 의사결정 과정 전체가 오염될 수 있다는 취지로 판시했음.\n\n대법원은 AI 활용 자체를 막은 것은 아니라고 분명히 했음.\n문제는 가짜이거나 환각된 자료를 법원 선례처럼 내세우고 의존하는 행위라고 했음.\nDatta 대법관은 AI는 '보조 바퀴(training wheels)'로는 쓸 수 있지만 '조종석(pilot's seat)'에 앉히면 위험하다는 취지로 썼다고 보도됐음.\n대법원은 앞선 Pooja Ramesh Singh v. Jammu & Kashmir Bank 판결을 인용하며 변호사와 법관 모두에게 가짜 판례 인용에 무관용 원칙을 밝혔음.\n\n이 사건은 변호사가 아니라 행정청이 AI 환각을 처분서에 넣었다는 점에서 특이함.\n행정처분의 이유 제시가 허위 자료에 기댔다면 처분 전체가 위법할 수 있다는 것임.\n과징금 액수 자체나 허위 신고 여부는 판단하지 않았고 재처분 단계로 넘어갔음.\n\n한국에서도 법원행정처 설문에서 법관 다수가 'AI 허위 판례'를 경험했다고 답했음.\n행정청이 AI로 처분서·결정문 초안을 쓰는 일이 늘면 같은 문제가 생길 수 있음.\n\nAI 환각은 소송 서면뿐 아니라 국가의 처분서까지 무효로 만들 수 있음.",
+  "sources": [
+    {
+      "label": "LiveLaw: Supreme Court Sets Aside ₹425-Crore Penalty As Customs Authority Used AI-Generated Fake Case Laws",
+      "url": "https://www.livelaw.in/supreme-court/supreme-court-sets-aside-425-crore-penalty-as-customs-authority-used-ai-generated-fake-case-laws-548329"
+    },
+    {
+      "label": "LiveLaw: Vijay Ghanshyam Gadiya v. Union of India (판결문 PDF)",
+      "url": "https://www.livelaw.in/pdf_upload/2026/09/02/vijay-ghanshyam-gadiya-v-union-of-india-and-another-697691.pdf"
+    },
+    {
+      "label": "Bar & Bench: Supreme Court scraps ₹425 crore penalty over fake citations, AI hallucinations in customs order",
+      "url": "https://www.barandbench.com/news/litigation/supreme-court-scraps-425-crore-penalty-over-fake-citations-ai-hallucinations-in-customs-order"
+    },
+    {
+      "label": "Verdictum: Vijay Ghanshyam Gadiya v. Union of India, 2026 INSC 947",
+      "url": "https://www.verdictum.in/supreme-court/vijay-ghanshyam-gadiya-v-union-of-india-2026-insc-947-ai-customs-authority-penalty-1621205"
+    },
+    {
+      "label": "SCC Online Blog: Supreme Court sets aside ₹425.27-crore Customs penalty order built on AI-generated fake citations",
+      "url": "https://www.scconline.com/blog/post/2026/09/03/supreme-court-sets-aside-%E2%82%B9425-crore-customs-penalty-over-ai-generated-fake-citations/"
+    },
+    {
+      "label": "MediaNama: Another customs order falls over fake judgments (2026-11)",
+      "url": "https://www.medianama.com/2026/11/223-tax-order-ai-hallucinated-case-law/"
+    }
+  ],
+  "updatedAt": "2026-11-14T23:43:10Z"
+}

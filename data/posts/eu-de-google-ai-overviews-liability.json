@@ -1,0 +1,38 @@
+{
+  "id": "eu-de-google-ai-overviews-liability",
+  "region": "eu",
+  "type": "소송·판결",
+  "status": "결정·판결",
+  "date": "2026-09-24",
+  "title": "독일 법원, Google AI 검색 답변의 허위사실에 Google 책임 인정 (LG München I 26 O 869/26 · LG Aachen 8 O 268/26)",
+  "forum": "독일 뮌헨 제1지방법원(LG München I) 26 O 869/26 (2026-05-28) · 아헨 지방법원(LG Aachen) 8 O 268/26 (2026-09-24)",
+  "summary": "독일 뮌헨 제1지방법원은 2026년 5월 Google 'AI 개요(AI Overviews)'의 허위 내용을 Google 자신의 발언으로 보고 금지 가처분을 내렸다. 아헨 지방법원도 9월 24일 'AI 모드'가 한 의사에게 타인의 성범죄 전력을 덮어씌운 사안에서 같은 취지로 가처분을 발령했다. 두 결정 모두 확정되지 않은 가처분 단계 판단이다.",
+  "body": "독일 법원들이 Google의 AI 검색 답변에 대해 Google 자신이 책임을 진다고 판단하고 있음.\n2026년 5월 뮌헨 제1지방법원에 이어 9월 24일 아헨 지방법원이 같은 취지의 가처분을 냈음.\n이 판단들은 2026년 11월까지 독일 법률 매체에서 계속 소개되고 있음.\n\nGoogle은 검색 결과 상단에 AI가 요약한 답변을 보여 주는 'AI 개요(AI Overviews, 독일어 Übersicht mit KI)'를 운영함.\n대화형으로 답하는 'AI 모드(KI-Modus)'도 있음.\n문제는 이 AI 답변이 사실과 다른 내용을 말할 때 누가 책임지느냐임.\n\n먼저 뮌헨 사건임.\n사건번호는 26 O 869/26이고 결정일은 2026년 5월 28일임.\n신청인은 출판사 두 곳이었음.\nGoogle AI 개요가 근거 없이 이 출판사들을 사기 수법이나 수상한 영업과 연결 지었다고 함.\n법원은 신청을 대부분 받아들여 그런 내용의 AI 요약을 금지했음.\n\n뮌헨 법원의 핵심 논리는 AI 요약은 Google 자신의 발언이라는 것임.\n일반 검색 결과는 다른 사람의 웹페이지를 나열할 뿐이라 검색엔진에 넓은 면책이 인정돼 왔음.\n그런데 AI 요약에서는 Google이 내용을 직접 말하는 주체로 등장한다고 봤음.\n그래서 검색엔진용 면책 법리를 쓸 수 없고, Google이 '직접 방해자(unmittelbarer Störer)'로서 금지 책임을 진다고 판단했음.\n독일법의 방해자(Störer) 책임은 고의·과실과 상관없이 권리 침해 상태를 만든 자에게 중지를 청구하는 법리로, 우리 민법의 방해배제청구와 비슷함.\n\n다음은 아헨 사건임.\n사건번호는 8 O 268/26이고 결정일은 2026년 9월 24일임.\nGoogle AI 모드가 한 의사이자 전 병원장을 성범죄 형사절차와 해고의 당사자로 잘못 소개했음.\n실제로 그 일은 다른 사람의 일이었다고 함.\n아헨 법원은 Google Ireland에 AI 모드에서 이 주장을 퍼뜨리지 말라는 가처분을 냈음.\n급박성을 이유로 Google의 사전 심문 없이 발령했다고 보도됐음.\n아헨 법원은 뮌헨 결정을 명시적으로 인용했다고 함.\n\n두 결정에는 한계가 있음.\n모두 가처분(einstweilige Verfügung) 단계 판단이고 본안 판결이 아님.\nGoogle은 이의(Widerspruch)나 항소로 다툴 수 있어서 확정되지 않았음.\n일부 법률 블로그는 이 가운데 한 사건이 상급심 판단 없이 합의로 끝났다고 전하지만, 어느 사건인지와 합의 내용은 확인하지 못했음.\n뮌헨 결정도 모든 AI 답변에 대한 포괄적 책임을 인정한 것은 아니라는 평가가 있음.\n결정문 원문은 직접 확인하지 못했고, 위 내용은 독일 법률 매체와 로펌 해설에 따른 것임.\n\n이 판단의 의미는 큼.\nAI 답변을 '플랫폼이 중개한 남의 말'이 아니라 '플랫폼 자신의 말'로 본다는 점에서 EU 디지털서비스법(DSA)상 중개자 면책 논의에도 영향을 줄 수 있음.\n미국에서도 Google AI 개요를 둘러싼 Penske Media 등의 반독점 소송과 명예훼손 소송이 진행 중임.\n한국에서도 AI 검색 답변으로 인한 명예훼손이 문제 되면 포털이 '발언 주체'인지가 쟁점이 될 것임.\n\n독일 법원은 AI가 한 말은 AI를 내건 회사가 한 말로 보고 있음.",
+  "sources": [
+    {
+      "label": "beck-aktuell: LG München I, 26 O 869/26 – KI-generierte Suchübersicht: Google haftet für falsche Zusammenfassung",
+      "url": "https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/lg-muenchenI-26-o-869-26-google-ki-suchmaschine-haftung-2026-06-11"
+    },
+    {
+      "label": "WBS.LEGAL: LG München I: Google haftet für falsche Antworten in der KI-Suche",
+      "url": "https://www.wbs.legal/allgemein/lg-muenchen-i-google-haftet-fuer-falsche-antworten-in-der-ki-suche-87154/"
+    },
+    {
+      "label": "legalsmart: Warum Google für falsche Aussagen in KI-Übersichten haftet (LG München I, 26 O 869/26)",
+      "url": "https://www.legalsmart.de/blog/google-haftet-fuer-falsche-aussagen-ki-uebersicht-lg-muenchen-26-o-869-26/"
+    },
+    {
+      "label": "datenschutzticker.de: KI-Halluzinationen: LG Aachen untersagt Falschaussagen im Google „KI-Modus“ (2026-11)",
+      "url": "https://www.datenschutzticker.de/2026/11/ki-halluzinationen-lg-aachen-untersagt-falschaussagen-im-google-ki-modus/"
+    },
+    {
+      "label": "LHR Rechtsanwälte: LG Aachen: Google haftet für Falschbehauptungen seiner KI",
+      "url": "https://www.lhr-law.de/magazin/medienrecht-und-persoenlichkeitsrecht/google-ki-falschbehauptung-lg-aachen/amp/"
+    },
+    {
+      "label": "BEYER.LAW: LG Aachen: Google muss falsche KI-Aussagen über einen Arzt unterlassen",
+      "url": "https://www.beyer.law/2026/10/10/lg-aachen-google-falsche-ki-aussagen/"
+    }
+  ],
+  "updatedAt": "2026-11-14T23:43:10Z"
+}
