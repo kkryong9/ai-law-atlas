@@ -1,0 +1,46 @@
+{
+  "id": "us-amazon-perplexity-comet-9thcir",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "결정·판결",
+  "date": "2026-08-04",
+  "title": "Amazon.com Services v. Perplexity AI (AI 쇼핑 에이전트 Comet, 제9연방항소법원 가처분 취소)",
+  "forum": "미국 제9연방항소법원 · No. 26-1444 (원심: 북부캘리포니아연방지방법원 No. 3:25-cv-09514)",
+  "summary": "아마존이 Perplexity의 AI 브라우저 에이전트 Comet이 이용자 계정으로 아마존에서 쇼핑하는 것을 해킹금지법(CFAA) 위반이라며 막은 가처분을, 제9연방항소법원이 2026년 8월 4일 취소했다. 아마존 컴퓨터에 '접근'한 주체는 에이전트를 도구로 쓴 이용자이지 Perplexity가 아니라는 판단이다. 본안은 1심에서 계속 진행 중이다.",
+  "body": "AI 에이전트가 이용자 대신 웹사이트를 쓰는 것이 해킹인지를 다룬 첫 연방항소법원 판단이 나왔음.\n2026년 8월 4일 미국 제9연방항소법원은 아마존이 Perplexity를 상대로 받은 가처분을 취소했음.\n이 사이트에서 다루지 않았던 사건이라 지금 정리함.\n\nPerplexity는 AI 검색 서비스 회사이고, Comet이라는 AI 브라우저를 내놓았음.\nComet 안의 AI 비서(에이전트)는 이용자가 시키면 이용자 계정으로 로그인해 아마존에서 상품을 찾고 주문까지 함.\n아마존은 2025년 11월 이것이 허락 없는 접근이라며 북부캘리포니아 연방법원에 소송을 냈음.\n\n근거 법률은 연방 컴퓨터사기남용법(CFAA)과 캘리포니아주 같은 취지의 법(CDAFA)임.\nCFAA는 권한 없이 남의 컴퓨터에 '접근'하는 행위를 처벌하고 민사 청구도 허용하는 미국의 해킹금지법임.\n1심 맥신 체스니(Maxine Chesney) 판사는 2026년 3월 9일 아마존의 가처분(preliminary injunction) 신청을 받아들였음.\n가처분은 본안 판결 전에 상대방 행위를 잠정적으로 막는 명령임.\n\n항소법원은 이를 뒤집었음.\n판결은 밀란 스미스(Milan D. Smith Jr.) 판사가 썼음.\n핵심 논리는 아마존 컴퓨터에 '접근'한 것은 이용자이고, AI 비서는 이용자가 쓰는 도구에 불과하다는 것임.\n그래서 Perplexity 자신이 CFAA·CDAFA상 접근을 했다고 보기 어려워 아마존이 본안에서 이길 가능성이 낮다고 봤음.\n가처분의 다른 요건인 형평 요소도 Perplexity 쪽에 유리하다고 봤고, 아마존의 회복할 수 없는 손해 증명이 약하다고 했음.\n\n판결의 한계도 분명함.\n법원은 '권한 없는' 접근인지, CFAA의 손해액 요건(5천 달러) 같은 다른 쟁점은 판단하지 않았다고 해설됨.\n아마존이 이용약관으로 에이전트 접근을 규율하는 것까지 막은 것은 아니라는 해설도 있음.\n개발자가 에이전트를 얼마나 통제하느냐가 책임 판단에 중요한 요소라고 언급해, 사안에 따라서는 개발자 책임이 생길 여지도 남겼다고 함.\n\n아마존이 재심리(rehearing)를 신청했다가 2026년 9월 10일 기각됐다는 보도가 하나 있으나, 다른 출처로는 확인하지 못했음.\n사건은 1심으로 돌아가 아마존의 수정 소장에 따라 계속 진행 중이라고 보도됐음.\n\nAI 에이전트가 이용자 계정으로 대신 일하는 서비스가 늘고 있어 의미가 큼.\n한국 정보통신망법의 '정당한 접근권한 없는 침입' 판단에서도 같은 질문이 생길 수 있음.\n한 줄 요약: 미국 항소법원은 AI 에이전트를 '이용자의 도구'로 보고 해킹금지법 책임을 개발사에 바로 지우지 않았음.",
+  "sources": [
+    {
+      "label": "Justia: Amazon.com Services, LLC v. Perplexity AI, Inc., No. 26-1444 (9th Cir. 2026)",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html"
+    },
+    {
+      "label": "Cooley: Ninth Circuit Rules on AI Agent 'Access' to Third-Party Websites Under CFAA",
+      "url": "https://www.cooley.com/news/insight/2026/2026-08-06-ninth-circuit-rules-on-ai-agent-access-to-third-party-websites-under-cfaa"
+    },
+    {
+      "label": "Jones Day: Ninth Circuit Vacates CFAA Injunction Against Perplexity's Comet AI Agent",
+      "url": "https://www.jonesday.com/en/insights/2026/09/ninth-circuit-vacates-cfaa-injunction-against-perplexitys-comet-ai-agent"
+    },
+    {
+      "label": "Ropes & Gray: Tool or Intruder? What Amazon v. Perplexity Means for Agentic AI and the CFAA",
+      "url": "https://www.ropesgray.com/en/insights/alerts/2026/08/tool-or-intruder-what-amazon-v-perplexity-means-for-agentic-ai-and-the-cfaa"
+    },
+    {
+      "label": "Troutman Pepper: Ninth Circuit Holds Human User, Not Developer of AI Agent, Responsible",
+      "url": "https://www.troutmanprivacy.com/2026/08/ninth-circuit-holds-human-user-not-developer-of-ai-agent-responsible-for-websites-accessed/"
+    },
+    {
+      "label": "CNBC: Amazon wins court order to block Perplexity's AI shopping agent (2026-03-10)",
+      "url": "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html"
+    },
+    {
+      "label": "PYMNTS: Ninth Circuit Narrows CFAA Reach in Perplexity Agentic Commerce Ruling",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ninth-circuit-narrows-cfaa-reach-in-perplexity-agentic-commerce-ruling/"
+    },
+    {
+      "label": "Crypto Briefing: Perplexity defends AI agent in Amazon lawsuit",
+      "url": "https://cryptobriefing.com/perplexity-amazon-lawsuit-comet-ai-agent/"
+    }
+  ],
+  "updatedAt": "2026-11-15T23:43:54+00:00"
+}

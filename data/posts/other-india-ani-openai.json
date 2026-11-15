@@ -1,0 +1,42 @@
+{
+  "id": "other-india-ani-openai",
+  "region": "other",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-07-24",
+  "title": "ANI Media v. OpenAI (인도 델리고등법원, 가처분 기각과 항소)",
+  "forum": "인도 델리고등법원 · CS(COMM) 1028/2024 (단독판사 Amit Bansal) / 항소심 합의부",
+  "summary": "인도 뉴스통신사 ANI가 ChatGPT 학습에 자사 기사를 무단으로 썼다며 낸 가처분을 델리고등법원이 2026년 7월 24일 기각했다. 학습을 위한 기사 저장은 인도 저작권법상 공정 이용(fair dealing)에 해당할 여지가 크다는 잠정 판단이다. ANI의 항소에 대해 합의부가 9월 15일 OpenAI에 답변을 요구했고, 12월 초 심리가 예정돼 있다.",
+  "body": "인도에서 나온 첫 생성형 AI 학습 저작권 판단임.\n2026년 7월 24일 델리고등법원 아밋 반살(Amit Bansal) 판사가 ANI의 가처분 신청을 기각했음.\n이 사이트에서 다루지 않았던 사건이라 지금 정리함.\n\n원고 ANI(Asian News International)는 인도의 대형 뉴스통신사임.\nANI는 2024년 11월 OpenAI가 자사 기사를 ChatGPT 학습과 답변에 무단으로 썼다며 소송을 냈음.\n사건번호는 CS(COMM) 1028/2024이고, 가처분 신청은 I.A. 45300/2024임.\n\n인도 델리고등법원은 우리와 달리 상업 사건 1심을 직접 맡는 법원임.\n가처분 단계에서는 본안 판결 전에 침해를 잠정적으로 막을지, 원고에게 '일응의 승소 가능성(prima facie case)'이 있는지를 봄.\n\n법원은 세 갈래로 판단했다고 보도됐음.\n첫째, 학습 과정에서 ANI 기사를 저장한 것은 인도 저작권법 제52조 제1항 (a)호의 공정 이용(fair dealing) 예외에 해당할 여지가 크다고 봤음.\n복제권이 문제 되는 행위이긴 하지만 예외로 보호된다는 취지라는 해설도 있음.\n다만 ANI가 소장에 적은 특정 기사가 실제 학습에 쓰였다는 점부터 증명되지 않았다고 본 해설도 있어, 판단 범위를 두고 평가가 엇갈림.\n둘째, ChatGPT의 답변이 ANI 기사를 실질적으로 복제했다는 점도 이 단계에서는 증명되지 않았다고 봤음.\n셋째, 가처분을 내리면 인도의 AI 발전과 수많은 ChatGPT 이용자에게 불이익이 크다며 형평 요소도 OpenAI에 유리하다고 봤음.\n\n사실관계로는 OpenAI가 이미 2024년 ANI 사이트를 크롤러 수집 대상에서 차단했다는 점이 고려됐음.\nANI가 2024년 10월 OpenAI에 750만 달러 라이선스를 제안했었다는 보도도 있으나, 판결문 원문으로 확인하지는 못했음.\n판사는 이번 판단이 잠정적이며 본안 재판부를 구속하지 않는다고 명시했음.\n\nANI는 항소했음.\n2026년 9월 15일 아브니시 징간(Avneesh Jhingan)·만미트 프리탐 싱 아로라(Manmeet Pritam Singh Arora) 판사 합의부가 OpenAI에 답변을 요구하는 통지(notice)를 냈음.\nANI는 OpenAI가 2024년 9월부터 1심 결정일까지 ANI 사이트를 수집하지 않겠다고 약속했었다며 이 상태를 유지해 달라고 했음.\n합의부는 OpenAI 답변을 듣기 전에는 잠정 조치를 정하지 않겠다고 했다고 보도됐음.\n다음 심리일은 12월 5일(Bar and Bench)과 12월 8일(LiveLaw)로 보도가 엇갈려 확인하지 못했음.\n\n미국 공정 이용(fair use)과 달리 인도의 fair dealing은 법에 열거된 목적에만 적용되는 좁은 예외로 알려져 있음.\n그런 체계에서도 학습 목적 저장을 잠정적으로 허용했다는 점이 눈에 띔.\n한국 저작권법 제35조의5 공정이용 해석 논의에도 비교 자료가 됨.\n한 줄 요약: 인도 법원은 1차로 AI 학습을 막지 않았고, 항소심이 이 판단을 유지할지가 다음 관전 포인트임.",
+  "sources": [
+    {
+      "label": "Cyril Amarchand Mangaldas Blog: ANI v. Open AI – Delhi High Court Refuses Interim Injunction",
+      "url": "https://corporate.cyrilamarchandblogs.com/2026/07/ani-v-open-ai-delhi-high-court-refuses-interim-injunction-in-landmark-ai-copyright-dispute/"
+    },
+    {
+      "label": "Legal Republic: Delhi HC Refuses Interim Injunction to ANI Against OpenAI",
+      "url": "https://www.legalrepublic.in/high-courts/delhi-hc/ani-media-openai-copyright-interim-injunction-delhi-hc-2026/"
+    },
+    {
+      "label": "LiveLaw: Not Memory, Just Retrieval: Narrow Escape For OpenAI",
+      "url": "https://www.livelaw.in/articles/narrow-escape-openai-544856"
+    },
+    {
+      "label": "Licentium: Delhi High Court Dismisses ANI Media Interim Injunction Against OpenAI, 24 July 2026",
+      "url": "https://www.licentium.io/post/delhi-high-court-ani-media-openai-copyright-july-2026"
+    },
+    {
+      "label": "LiveLaw: Delhi High Court Issues Notice On ANI's Appeal",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/notice-ani-appeal-interim-relief-copyright-case-against-chatgpt-550053"
+    },
+    {
+      "label": "Bar and Bench: Delhi HC seeks OpenAI reply on ANI plea",
+      "url": "https://www.barandbench.com/news/litigation/delhi-hc-seeks-openai-reply-on-ani-plea-to-temporarily-restrain-chatgpt-from-using-its-content"
+    },
+    {
+      "label": "CourtBook: Delhi High Court seeks OpenAI response on ANI appeal",
+      "url": "https://courtbook.in/posts/delhi-high-court-seeks-openai-response-on-ani-appeal-against-denial-of-interim-copyright-relief"
+    }
+  ],
+  "updatedAt": "2026-11-15T23:43:54+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "us-mobley-workday-class-cert",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-10",
+  "title": "Mobley v. Workday (AI 채용 심사 차별 소송, 클래스 인증 공방)",
+  "forum": "미국 북부캘리포니아연방지방법원 · No. 3:23-cv-00770 (Rita Lin 판사)",
+  "summary": "채용 소프트웨어 회사 Workday의 AI 지원자 심사 도구가 인종·나이·장애로 차별했다는 소송에서 원고들이 2026년 9월 클래스 인증을 신청했다. Workday는 11월 10일경 반대 서면을 내면서 이미 예비 인증된 1만 5천여 명 규모의 나이 차별 집단의 인증 취소도 구했다. 심리는 2027년 3월 9일로 잡혔다.",
+  "body": "AI 채용 차별 소송의 대표 사건인 Mobley v. Workday에서 클래스 인증 공방이 본격화됐음.\n2026년 11월 10~11일 Workday가 원고들의 클래스 인증 신청에 반대하는 서면을 냈다고 보도됐음.\n같은 서면에서 이미 예비 인증된 나이 차별 집단(collective)을 해체해 달라는 인증 취소(decertification)도 구했음.\n\nWorkday는 기업들이 채용·인사 업무에 쓰는 클라우드 소프트웨어를 파는 미국 회사임.\n많은 기업이 Workday 시스템으로 지원서를 받고, 그 안의 AI 기능으로 지원자를 걸러냄.\n원고 데릭 모블리(Derek Mobley)는 Workday 시스템을 쓰는 회사들에 지원했다가 계속 탈락했다고 주장하며 2023년 소송을 냈음.\n\n이 사건이 주목받는 이유는 피고가 고용주가 아니라 소프트웨어 공급자라는 점임.\n미국 차별금지법은 원래 고용주를 규율함.\n법원은 2024년 7월 Workday가 고용주의 채용 기능을 넘겨받아 수행하는 '대리인(agent)'이라면 직접 책임을 질 수 있다고 보고 청구를 유지시켰음.\nAI 도구 공급자가 차별 책임을 질 수 있다는 길을 연 판단으로 평가됐음.\n\n2025년 5월 16일 법원은 나이 차별 청구에 대해 전국 단위 집단을 예비 인증했음.\n미국 연령차별금지법(ADEA) 소송은 일반 클래스액션과 달리 피해자가 직접 참여 의사를 밝혀야 하는 '옵트인' 방식임.\n보도에 따르면 1만 5천 명 넘는 지원자가 참여했음.\n\n2026년 9월 14일 원고들은 이번에는 일반 클래스액션(연방민사소송규칙 제23조) 인증을 신청했음.\n클래스액션은 대표 원고가 같은 처지의 사람 전체를 대신해 소송하는 제도이고, 법원 인증을 받아야 진행됨.\n원고들은 하나의 클래스 아래 흑인 지원자, 여성, 40세 이상, 장애인 등 네 개 하위 클래스를 두자고 했다고 보도됐음.\n\nWorkday의 반대 논리는 이렇게 보도됐음.\n채용 결정은 Workday가 아니라 고객사가 한다는 것임.\n고객사마다 도구를 다르게 설정·사용하므로 하나의 클래스로 묶을 공통 쟁점이 없다는 것임.\n원고 측 통계 분석에 결함이 있고, Workday의 AI가 실제로 원고들을 평가하거나 해쳤다는 증명이 없다는 것임.\n\n클래스 인증 단계에서는 청구가 옳은지가 아니라 집단적으로 다툴 수 있는지를 따짐.\n그래서 '설정이 고객사마다 다르다'는 주장이 받아들여지면 소송 규모가 크게 줄어듦.\n반대로 인증되면 AI 채용 도구 공급자를 상대로 한 전국 규모 차별 소송이 처음으로 본격 진행되는 셈임.\n\n원고 측 재반박 서면 기한은 2026년 12월 8일이고, 심리는 2027년 3월 9일로 잡혔다고 보도됐음.\nWorkday 서면의 정확한 제출일(10일 또는 11일)과 도켓 번호는 보도마다 달라 법원 기록으로 확인하지는 못했음.\n반대 서면의 원문은 직접 읽지 못했고 언론·법률 블로그 보도에 따랐음.\n\n한국에서도 AI 면접·서류심사 도구가 쓰이고 있어, 도구 공급자 책임을 어디까지 볼지 참고할 만함.\n한 줄 요약: AI 채용 도구 공급자를 상대로 한 차별 소송이 '집단으로 다툴 수 있느냐'는 갈림길에 섰음.",
+  "sources": [
+    {
+      "label": "MLex: Workday fights class certification in AI hiring bias lawsuit in US",
+      "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2548824"
+    },
+    {
+      "label": "Duane Morris Class Action Weekly Wire: Job Applicants Seek Class Certification in Mobley v. Workday",
+      "url": "https://blogs.duanemorris.com/classactiondefense/2026/09/25/the-class-action-weekly-wire-episode-166-job-applicants-seek-class-certification-in-mobley-v-workday-ai-bias-suit/"
+    },
+    {
+      "label": "CDF Labor Law: Federal Court Grants Preliminary Certification in Landmark AI Hiring Bias Case",
+      "url": "https://www.cdflaborlaw.com/blog/federal-court-grants-preliminary-certification-in-landmark-ai-hiring-bias-case"
+    },
+    {
+      "label": "CourtListener: Mobley v. Workday, Inc., 3:23-cv-00770",
+      "url": "https://www.courtlistener.com/docket/66831340/mobley-v-workday-inc/"
+    },
+    {
+      "label": "Startup Fortune: Workday asks a federal judge to break up the AI hiring bias case",
+      "url": "https://startupfortune.com/workday-asks-a-federal-judge-to-break-up-the-ai-hiring-bias-case-against-it/"
+    }
+  ],
+  "updatedAt": "2026-11-15T23:43:54+00:00"
+}
