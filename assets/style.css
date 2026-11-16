@@ -114,3 +114,16 @@ footer.foot p { margin: 0 0 4px; }
   .pager { grid-template-columns: 1fr; }
   .pager .next { grid-column: 1; }
 }
+
+.recent { margin-top: 24px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px 12px; }
+.recent-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 12px; }
+.recent h2 { font-size: 1rem; margin: 0; font-weight: 600; }
+.recent .last { font-size: 13px; color: var(--ink-3); font-variant-numeric: tabular-nums; }
+.recent ul { list-style: none; margin: 10px 0 0; padding: 0; }
+.recent li { display: flex; gap: 10px; align-items: baseline; padding: 5px 0; border-top: 1px solid var(--line); font-size: 14.5px; }
+.recent li:first-child { border-top: 0; }
+.recent .rd { flex: none; font-family: var(--f-mono); font-size: 12.5px; color: var(--ink-3); }
+.recent .rr { flex: none; font-size: 12.5px; color: var(--ink-3); text-decoration: none; min-width: 2.6em; }
+.recent .rt { color: var(--ink); text-decoration: none; min-width: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.recent .rt:hover { color: var(--accent); }
+.recent-note { margin: 8px 0 0; font-size: 12.5px; color: var(--ink-3); }

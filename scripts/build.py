@@ -9,6 +9,7 @@ body (one sentence per line, blank line between paragraphs), sources
 [{label, url}], updatedAt.
 """
 import html, json, os, re, shutil, sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -25,6 +26,38 @@ ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]{1,80}$")
 
 e = lambda s: html.escape(s or "", quote=True)
 fmt_date = lambda d: (d or "").replace("-", ".")
+KST = timezone(timedelta(hours=9))
+RECENT_N = 10
+
+
+def parse_ts(ts):
+    """ISO updatedAt -> aware datetime (None if missing/invalid)."""
+    try:
+        dt = datetime.fromisoformat(str(ts).replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+
+
+def kst_date(ts):
+    dt = parse_ts(ts)
+    return dt.astimezone(KST).strftime("%Y.%m.%d") if dt else ""
+
+
+def recent_box(posts, pre):
+    """Home-page box: posts most recently added or updated (by updatedAt, Korea time)."""
+    dated = sorted((p for p in posts if parse_ts(p.get("updatedAt"))),
+                   key=lambda p: parse_ts(p["updatedAt"]), reverse=True)
+    if not dated:
+        return ""
+    items = "".join(
+        f'<li><span class="rd">{e(kst_date(p["updatedAt"])[5:])}</span>'
+        f'<a class="rr" href="{pre}{p["region"]}/index.html">{e(RNAME[p["region"]])}</a>'
+        f'<a class="rt" href="{pre}posts/{p["id"]}/index.html">{e(p.get("title"))}</a></li>'
+        for p in dated[:RECENT_N])
+    return (f'<section class="recent"><div class="recent-head"><h2>최근 추가·갱신</h2>'
+            f'<span class="last">최종 업데이트 {e(kst_date(dated[0]["updatedAt"]))}</span></div><ul>{items}</ul>'
+            f'<p class="recent-note">아래 전체 목록은 사건 날짜순입니다.</p></section>')
 
 
 def load_posts():
@@ -207,7 +240,7 @@ def main():
     shutil.copy(ROOT / "assets" / "style.css", OUT / "assets" / "style.css")
     write(OUT / ".nojekyll", "")
 
-    write(OUT / "index.html", page(SITE_NAME, list_body(posts, "") + cjs, 0, current="home"))
+    write(OUT / "index.html", page(SITE_NAME, list_body(posts, "", recent_box(posts, "")) + cjs, 0, current="home"))
 
     for k, n in REGIONS:
         rp = [p for p in posts if p["region"] == k]
@@ -222,7 +255,7 @@ def main():
     about = """<section class="about"><h1>About</h1>
 <p>인공지능을 둘러싼 소송·판결, 입법·규제, 집행·조사, 정책·지침을 미국, 유럽, 중국, 일본, 한국, 그 밖의 나라로 나누어 정리하는 노트입니다.</p>
 <p>글은 짧은 문장에 번호를 붙여 사건의 배경, 쟁점, 판단, 의미를 차례로 따라가도록 썼습니다. 각 글 아래에 근거가 된 판결문과 보도를 적었습니다.</p>
-<p>매주 월요일 지난 한 주의 소식을 더합니다. 판결문 원문을 직접 확인한 글과 보도만을 근거로 한 글이 섞여 있으니, 업무에 쓸 때는 출처의 원문으로 다시 확인하세요.</p>
+<p>매일 아침 새 소식을 더합니다. 새로 올라오거나 고친 글은 첫 화면 위쪽 ‘최근 추가·갱신’에서 볼 수 있고, 그 아래 전체 목록은 사건이 일어난 날짜순입니다. 판결문 원문을 직접 확인한 글과 보도만을 근거로 한 글이 섞여 있으니, 업무에 쓸 때는 출처의 원문으로 다시 확인하세요.</p>
 </section>"""
     write(OUT / "about" / "index.html", page("About", about + cjs, 1, current="about"))
     write(OUT / "404.html", page("페이지를 찾을 수 없습니다", '<div class="empty"><strong>페이지를 찾을 수 없습니다</strong>주소가 바뀌었거나 삭제된 글일 수 있습니다.</div>', 0))
