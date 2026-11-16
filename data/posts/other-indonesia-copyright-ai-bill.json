@@ -1,0 +1,34 @@
+{
+  "id": "other-indonesia-copyright-ai-bill",
+  "region": "other",
+  "type": "입법·규제",
+  "status": "계류",
+  "date": "2026-11-11",
+  "title": "인도네시아 저작권법 개정안 국회 공청회: Google·Meta·TikTok, AI 학습 보상·AI 표시 의무에 반대",
+  "forum": "인도네시아 국회(DPR)",
+  "summary": "인도네시아가 AI 규정과 뉴스 이용 보상 의무를 담은 저작권법 개정을 추진 중이다. 2026년 11월 11일 국회 공청회에서 Meta와 TikTok이 Google에 이어 반대 의견을 냈다. 통과되면 동남아시아에서 AI를 저작권법에 넣은 첫 나라가 된다.",
+  "body": "인도네시아가 저작권법 개정을 추진하고 있음.\n핵심은 AI 관련 규정과 플랫폼의 뉴스 이용 보상 의무임.\n통과되면 동남아시아에서 AI를 저작권법에 직접 넣은 첫 나라가 된다고 보도됐음.\n\n2026년 11월 11일 인도네시아 국회(DPR) 공청회가 열렸음.\nMeta와 TikTok이 Google에 이어 개정안 일부에 반대 의견을 냈음.\nGoogle은 7월 개정안 공개 무렵부터 반대 입장을 밝혀 왔음.\n\n보도된 개정안 내용은 다음과 같음.\n디지털 플랫폼이 뉴스를 보여주면 언론사에 보상해야 함.\n뉴스를 모으거나, 다시 게재하거나, 링크 미리보기로 보여주거나, AI 학습에 쓰는 경우 국가가 감독하는 저작권 집중관리단체에 보상해야 함.\nAI로 창작자의 '고유한 스타일'을 모방하는 것을 금지함.\n콘텐츠에 AI를 썼는지 공개해야 함.\n위반하면 현지 영업허가가 취소될 수 있다고 함.\n조문 원문은 확인하지 못했음.\n\nAI 생성물의 보호 여부도 정리되는 중임.\n인도네시아 지식재산총국장은 정부와 국회가 전적으로 AI가 만든 창작물에는 저작권 보호를 주지 않기로 의견을 모았다고 밝혔다고 함.\n\n각 회사의 반대 논리는 이렇게 보도됐음.\nGoogle은 뉴스 링크에 돈을 내게 하면 결국 인도네시아 사람들의 뉴스 접근이 줄어든다고 했음.\nGoogle은 집중관리 방식의 라이선스와 AI 학습 의무 라이선스에도 반대했다고 함.\nMeta는 링크를 거는 것과 기사를 다시 게재하는 것은 다르고, 오히려 언론사가 트래픽과 수익을 잃을 수 있다고 했음.\nTikTok은 AI를 보조적으로만 쓴 경우에는 공개 의무를 적용하지 말아야 한다고 했음.\n플랫폼의 면책(safe harbour) 유지를 요청한 의견도 있었음.\n누가 어떤 의견을 냈는지는 매체마다 조금씩 다르게 정리돼 있음.\n\n공청회는 의견 청취 단계라서 법안 내용이 확정된 것은 아님.\nAI 학습 보상의 구체적 방식, 제재 수준, 통과 시점은 아직 정해지지 않았음.\n공청회 이후 표결이나 수정안 소식은 확인하지 못했음.\n\n이 개정안은 호주·캐나다식 뉴스 협상법과 AI 학습 보상 문제를 저작권법 하나로 묶었다는 점이 특징임.\nAI 학습에 집중관리단체를 통한 보상을 붙이는 방식은 한국의 AI 학습 보상 논의에도 참고가 될 수 있음.\n\n동남아에서 AI 학습 보상을 법으로 정하려는 첫 시도가 빅테크 반대에 부딪혔음.",
+  "sources": [
+    {
+      "label": "The Star (Reuters): Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/11/meta-tiktok-join-google-to-push-back-on-indonesia039s-planned-ai-copyright-law-revisions"
+    },
+    {
+      "label": "The Next Web: Meta and TikTok join Google to fight Indonesia's AI copyright bill",
+      "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google"
+    },
+    {
+      "label": "TechRepublic: Google, Meta, TikTok Oppose Indonesia's AI Copyright Bill",
+      "url": "https://www.techrepublic.com/article/news-google-meta-tiktok-indonesia-ai-copyright-apac/"
+    },
+    {
+      "label": "The Jakarta Post: Indonesia's planned copyright law puts Google, AI platforms on notice (2026-07-20)",
+      "url": "https://www.thejakartapost.com/indonesia/2026/07/20/indonesias-planned-copyright-law-puts-google-ai-platforms-on-notice"
+    },
+    {
+      "label": "Music Business Worldwide: Indonesia's copyright rewrite would ban AI from imitating creators",
+      "url": "https://musicbusinessworldwide.com/indonesias-copyright-rewrite-would-ban-ai-from-imitating-creators-and-googles-not-a-fan"
+    }
+  ],
+  "updatedAt": "2026-11-16T23:42:57+00:00"
+}

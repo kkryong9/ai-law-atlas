@@ -1,0 +1,42 @@
+{
+  "id": "us-fontainebleau-botach-ai-chats",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-10-21",
+  "title": "Fontainebleau Florida Hotel, LLC v. Botach (피고의 AI 챗봇 대화 기록 증거개시 명령)",
+  "forum": "미국 플로리다남부연방지방법원 (Marty Fulgueira Elfenbein 치안판사) · No. 1:25-cv-20251",
+  "summary": "마이애미의 퐁텐블로 호텔이 명예훼손으로 제소한 사건에서, 연방 치안판사가 2026년 10월 21일 피고가 AI 챗봇과 나눈 대화 중 호텔·직원·변호인에 관한 부분(삭제한 대화 포함)을 증거개시 대상으로 인정했다. 소송 자체나 판사에 관한 대화는 제외했고, 피고는 이에 불복하며 증거개시 정지를 구하고 있다.",
+  "body": "AI 챗봇과 나눈 대화도 민사소송 증거가 될 수 있다는 결정이 나왔음.\n마이애미 비치의 퐁텐블로(Fontainebleau) 호텔이 낸 명예훼손 소송에서 나온 결정임.\n법원은 플로리다남부연방지방법원이고, 사건번호는 No. 1:25-cv-20251임.\n결정한 사람은 Marty Fulgueira Elfenbein 치안판사(Magistrate Judge)임.\n치안판사는 연방지방법원에서 증거개시 같은 절차 문제를 주로 맡는 판사이고, 그 결정에는 지방법원 판사에게 이의를 낼 수 있음.\n\n피고는 랍비이자 작가인 Shmuley Boteach임.\n법원 기록상 이름 표기는 'Botach'임.\n호텔은 피고가 호텔과 직원에 관해 허위 사실을 퍼뜨렸다며 제소했음.\n피고는 소셜미디어 발언 금지명령을 거듭 어겨 제재로 답변서가 각하됐고, 책임 부분은 이미 궐석(default) 상태라고 보도됐음.\n그래서 남은 쟁점은 손해배상, 특히 징벌적 손해배상액임.\n\n미국 민사소송에는 증거개시(discovery) 절차가 있음.\n정식 재판 전에 상대방에게 관련 문서와 정보를 내놓게 하는 절차로, 우리 문서제출명령보다 훨씬 넓음.\n호텔은 피고가 AI 서비스와 나눈 대화 기록을 요구했음.\n\n2026년 10월 21일 치안판사는 25쪽짜리 결정으로 피고의 포괄적 이의를 일부 배척했음.\n호텔, 그 직원, 호텔 측 변호인에 관한 AI 대화는 증거개시 대상으로 인정했음.\n피고가 삭제한 대화도 포함된다고 보도됐음.\n대상 기간은 2024년 12월 3일 이후로 제한됐다고 함.\n반면 소송 자체에 관한 대화와 담당 판사들에 관한 대화 등에 대한 이의는 받아들였음.\n\n이유는 징벌적 손해배상임.\n징벌적 손해배상은 가해자의 악의 등이 인정될 때 실손해를 넘어 제재 목적으로 더 물리는 배상임.\n판사는 AI 대화가 피고에게 회사를 해칠 의도가 있었는지 보여줄 수 있다고 봤다고 보도됐음.\n\n'업무산출물(work product)' 보호도 다뤄졌음.\n업무산출물 법리는 소송을 대비해 만든 자료를 상대방 증거개시에서 보호하는 원칙임.\n판사는 변호인이 지시한 AI 사용인지 여부만으로 보호 여부를 일률적으로 가른 United States v. Heppner 판단을 그대로 따르지 않았다고 함.\n그리고 AI 서비스 제공자에게 기록을 받기 전에 피고가 업무산출물 주장을 할 수 있도록 당사자들에게 협의하라고 했음.\n호텔은 네 곳의 AI 서비스 제공자에게 연방민사소송규칙 제45조에 따른 제3자 소환장을 보낼 수 있게 됐다고 보도됐음.\n네 곳이 어디인지는 확인하지 못했음.\n\n이후 상황은 출처가 엇갈림.\nMealey's는 11월 보도에서 치안판사가 피고에게 AI 대화 제출과 함께, 삭제 여부를 보여주는 기록을 AI 제공자가 내놓는 데 동의하라고 명했다고 전했음.\n반면 10월 21일 결정은 동의를 강제하지 않았다는 해설도 있음.\n10월 28일 심리 후 나온 두 번째 명령의 내용은 확인하지 못했음.\n피고는 이 결정에 불복하며 증거개시의 긴급 정지를 구했다고 보도됐고, 정지 여부는 확인하지 못했음.\n\n이 결정은 치안판사 단계의 증거개시 결정이라 선례로서 힘은 제한적임.\n그래도 이용자의 AI 대화가 소송에서 상대방에게 공개될 수 있다는 점을 보여줌.\n삭제한 대화도 제공자 쪽 기록으로 다시 나올 수 있다는 점도 실무상 중요함.\n\nAI에게 털어놓은 말도 법정에 나올 수 있음.",
+  "sources": [
+    {
+      "label": "Justia: Fontainebleau Florida Hotel, LLC v. Botach, 1:25-cv-20251, Document 130 (S.D. Fla. 2026)",
+      "url": "https://law.justia.com/cases/federal/district-courts/florida/flsdce/1:2025cv20251/682106/130/"
+    },
+    {
+      "label": "Servient: 2026-10-21 order (PDF)",
+      "url": "https://servient.com/assets/pdfs/2026-10-21-fontainebleau-florida-hotel-v-botach.pdf"
+    },
+    {
+      "label": "Law360: Fontainebleau Wins Access To Some Of Rabbi's AI Chats",
+      "url": "https://www.law360.com/pulse/articles/2541170/fontainebleau-wins-access-to-some-of-rabbi-s-ai-chats"
+    },
+    {
+      "label": "Mealey's: Magistrate Judge Orders Man In Defamation Suit To Produce AI Chats",
+      "url": "https://www.mealeys.com/mealeys/mealeys-artificial-intelligence/articles/2549048"
+    },
+    {
+      "label": "Debevoise Data Blog: AI Chats May Be Work Product—Even When Lawyers Aren't Involved",
+      "url": "https://www.debevoisedatablog.com/2026/10/28/ai-chats-may-be-work-product-even-when-lawyers-arent-involved/"
+    },
+    {
+      "label": "eDiscovery LLC: Subpoenas to AI Service Providers Were Partially Approved, With Guardrails",
+      "url": "https://www.ediscoveryllc.com/subpoenas-to-ai-service-providers-were-partially-approved-with-guardrails/"
+    },
+    {
+      "label": "PacerMonitor: Fontainebleau Florida Hotel, LLC v. Botach (1:25-cv-20251)",
+      "url": "https://www.pacermonitor.com/public/case/56538963/Fontainebleau_Florida_Hotel,_LLC_v_Botach"
+    }
+  ],
+  "updatedAt": "2026-11-16T23:42:57+00:00"
+}

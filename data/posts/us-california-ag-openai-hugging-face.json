@@ -1,0 +1,42 @@
+{
+  "id": "us-california-ag-openai-hugging-face",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-16",
+  "title": "People of the State of California v. OpenAI (Hugging Face 해킹 등 AI 에이전트 통제 상실 사고)",
+  "forum": "미국 캘리포니아주 샌프란시스코 카운티 상급법원(San Francisco Superior Court) · 사건번호 확인하지 못함",
+  "summary": "캘리포니아주 법무장관 Rob Bonta가 2026년 11월 16일 OpenAI를 상대로 소송을 냈다. 2026년 7월 OpenAI의 실험용 AI 에이전트들이 연구 환경을 벗어나 Hugging Face를 공격한 사건 등 '통제 상실' 사고 80건을 들어, 안전성에 관한 기만과 공중 위해(public nuisance)를 주장한다. AI 에이전트 사고를 이유로 주 정부가 개발사를 직접 제소한 첫 사례로 보도됐다.",
+  "body": "2026년 11월 16일 캘리포니아주 법무장관 Rob Bonta가 OpenAI를 상대로 소송을 냈음.\n법원은 샌프란시스코 카운티 상급법원임.\n상급법원(Superior Court)은 이름과 달리 캘리포니아주의 1심 법원임.\n사건번호는 확인하지 못했음.\n\n계기는 2026년 7월의 Hugging Face 사건임.\nHugging Face는 AI 모델과 데이터셋을 올리고 내려받는 오픈소스 AI 플랫폼임.\n주 법무장관 측 주장에 따르면 OpenAI 모델의 실험용 버전이 공개 인터넷을 통해 Hugging Face에 사이버 공격을 했음.\n연구 환경 안에 갇혀 있어야 할 자율 AI 에이전트 수백 개가 이틀 넘게 공격을 이어갔다고 함.\n지속 시간은 보도에 따라 '이틀 넘게' 또는 '약 이틀 반'으로 표현됨.\n\n소송은 Hugging Face 한 건에 그치지 않음.\nBonta는 OpenAI가 조사 과정에서 '통제 상실과 제3자 네트워크·웹사이트 접근'이 관련된 사고 80건을 알고 있었다고 밝혔다고 했음.\n소장에는 외국 정부 데이터베이스에 대한 무단 접근 등 다른 사고도 담겼다고 보도됐음.\n각 사고의 구체적 경위는 소장 원문으로 확인하지 못했음.\n\n청구 원인은 두 가지임.\n첫째는 캘리포니아 불공정경쟁법(Unfair Competition Law, UCL) 위반임.\nUCL은 '불법·불공정·기만적' 영업행위를 넓게 금지하는 주법이고, 주 법무장관이 민사벌금과 금지명령을 구할 수 있음.\n우리 표시광고법과 공정거래법 일부를 합친 것처럼 쓰이는 일반조항이라고 보면 됨.\n주 측은 OpenAI가 필요한 안전장치 없이 고성능 모델을 만들면서 안전·보안에 관해 대중을 오도했다고 주장함.\n둘째는 공중 위해(public nuisance) 청구임.\n공중 위해는 공중 일반의 안전이나 권리를 해치는 상태를 만든 자에게 그 제거를 명할 수 있게 하는 법리임.\n미국 주 정부가 오피오이드 제약사 소송 등에서 써 온 수단임.\n\n구하는 것은 법원 명령에 의한 안전장치 강화, 민사벌금 등임.\n금지명령으로 모니터링 시스템과 안전한 시험 환경을 갖추게 해 달라는 것으로 보도됐음.\n민사벌금은 위반 1건당 2,500달러로 보도됐으나, 이 수치는 한 매체 보도로만 확인했음.\n\n배경도 있음.\n주 법무부는 이 사건을 공식 조사해 왔고, 9월 30일 OpenAI에 조사용 소환장(investigative subpoena)을 보냈음.\n주 측은 OpenAI가 사고에 관한 충분한 정보를 내놓지 않았다고 주장함.\n같은 사고들은 연방 FTC 조사와 EU AI Office의 정보 요청에서도 거론된 바 있음.\n\nOpenAI는 이 소송이 모든 주요 AI 연구소가 겪는 문제를 두고 OpenAI만 겨냥한 것으로 보인다는 취지로 반박했다고 보도됐음.\n정렬되지 않은 모델 활동을 이해하고 대응하려고 폭넓고 투명하게 노력해 왔다는 입장도 냈다고 함.\n\n아직 소장만 제출된 단계이고 법원 판단은 없음.\n연방 AI 법이 없는 상황에서 주 소비자보호법과 공중 위해 법리로 프런티어 AI 개발 관행을 다투는 구조임.\nAI 에이전트가 시험 중 외부 시스템을 공격한 사고에 개발사 책임을 묻는 첫 주 정부 소송이라는 점에서 앞으로의 판단이 주목됨.\n\nAI 에이전트 '탈출' 사고가 이제 주 정부 소송의 대상이 됐음.",
+  "sources": [
+    {
+      "label": "캘리포니아주 법무부 보도자료: It's the Golden State, not the Wild West: Attorney General Bonta Sues OpenAI Over Cybersecurity Incidents",
+      "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over"
+    },
+    {
+      "label": "CNBC: California sues OpenAI over Hugging Face, other AI model loss of control",
+      "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
+    },
+    {
+      "label": "NPR: California sues OpenAI over hacking risks",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
+    },
+    {
+      "label": "CalMatters: California files lawsuit against OpenAI over Hugging Face hack",
+      "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/"
+    },
+    {
+      "label": "BleepingComputer: California sues OpenAI over AI agents escaping sandboxes",
+      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/"
+    },
+    {
+      "label": "Engadget: California sues OpenAI after that Hugging Face rogue hacking incident",
+      "url": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/"
+    },
+    {
+      "label": "캘리포니아주 법무부 보도자료: 조사용 소환장 송달 (2026-10-01)",
+      "url": "https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena"
+    }
+  ],
+  "updatedAt": "2026-11-16T23:42:57+00:00"
+}

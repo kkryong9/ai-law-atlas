@@ -1,0 +1,34 @@
+{
+  "id": "us-elvis-anthropic-lyrics",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-10-23",
+  "title": "엘비스 프레슬리 음악 권리자들 v. Anthropic (가사 274곡 Claude 학습)",
+  "forum": "미국 캘리포니아북부연방지방법원 · No. 5:26-cv-12473",
+  "summary": "Authentic Brands Group, Raleigh Music Publishing 등 엘비스 프레슬리 곡의 권리자들이 2026년 10월 23일 Anthropic을 제소했다. 274곡의 가사를 허락 없이 Claude 학습에 쓰고, 출력으로 2차적저작물을 만들며, 기술적 보호조치 우회와 저작권관리정보 제거를 했다는 주장이다. Anthropic은 주장에 동의하지 않으며 적극 방어하겠다는 입장이다.",
+  "body": "엘비스 프레슬리 노래의 권리자들이 Anthropic을 상대로 저작권 소송을 냈음.\n소장 제출일은 2026년 10월 23일로 보도됐음.\n법원은 캘리포니아북부연방지방법원이고, 사건번호는 No. 5:26-cv-12473으로 보도됐음.\n참고로 이 정리는 Anthropic이 만든 AI인 Claude가 작성했음.\n\n원고는 Authentic Brands Group 계열사, Raleigh Music Publishing, 여러 신탁(trust)과 개인 1명 이상임.\nAuthentic Brands Group은 엘비스 등 유명인 브랜드와 지식재산을 보유·운영하는 미국 회사임.\n원고 대리인은 Richard Busch 변호사임.\nBusch는 Round Hill, Reservoir 등 다른 음악 출판사의 Anthropic 상대 소송도 맡고 있음.\n\n주장은 크게 세 갈래임.\n첫째, Anthropic이 프레슬리가 녹음한 274곡의 가사를 라이선스 없이 Claude 학습에 썼다는 것임.\n소장은 Common Crawl, The Pile, Internet Archive 같은 데이터셋에 가사가 허락 없이 들어 있었다고 지목했다고 함.\n둘째, Claude가 가사를 그대로 내놓지는 않아도 구조와 후렴을 살린 채 바꿔 쓴 2차적저작물을 만든다는 것임.\n소장은 Claude가 저작권 때문에 가사를 재현할 수 없다고 답하면서도 가사를 바탕으로 한 변형물은 문제없이 만든다고 주장했다고 함.\n다만 274곡 가운데 특정 곡을 Claude가 재현하거나 바꿔 쓴 구체적 예시는 소장에 없다고 보도됐음.\n셋째, 가사 사이트의 기술적 보호조치를 우회하고 작사·작곡자 표시 같은 저작권관리정보(CMI)를 지웠다는 것임.\n이는 미국 DMCA 제1201조(보호조치 우회 금지)와 제1202조(저작권관리정보 제거 금지) 청구임.\n\n청구액은 보도마다 다름.\n법정손해배상 상한인 곡당 15만 달러를 274곡에 곱한 약 4,110만 달러로 보도한 매체가 있음.\nVariety와 Music Business Worldwide는 약 4,860만 달러, '5,000만 달러 가까이'로 보도했음.\nDMCA 청구를 더했는지 여부에 따른 차이로 보이나 확인하지 못했음.\n원고는 침해 금지, 무단 복제본 폐기, 배심 재판도 구함.\n\n미국 저작권법의 법정손해배상(statutory damages)은 실제 손해를 증명하지 않아도 저작물 1건당 법이 정한 범위에서 배상을 받게 하는 제도임.\n고의 침해면 1건당 최대 15만 달러까지 가능함.\n그래서 곡 수가 많아질수록 청구액이 커짐.\n\nAnthropic은 Engadget에 주장에 동의하지 않으며 적극 방어하겠다는 짧은 입장을 냈음.\n\n이 사건은 Anthropic을 상대로 한 음악 가사 소송 흐름의 하나임.\nUMG·Concord·ABKCO 소송, BMG 소송, Round Hill과 Reservoir 소송이 이미 진행 중임.\n같은 프레슬리 권리자들은 11월 6일 AI 음악 생성 서비스 Suno도 따로 제소했음.\n가장 오래된 Concord 사건에서 공정이용 판단이 먼저 나오면 이 사건에도 영향을 줄 것으로 보임.\n\nAI 학습 가사 소송이 대형 카탈로그 보유자로 계속 번지고 있음.",
+  "sources": [
+    {
+      "label": "Variety: Elvis Presley's Music Owners Sue Anthropic for Copyright Infringement",
+      "url": "https://variety.com/2026/music/news/elvis-presley-music-sue-anthropic-copyright-infringement-1236931149/"
+    },
+    {
+      "label": "Engadget: Elvis Presley's estate is suing Anthropic over copyright infringement",
+      "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/"
+    },
+    {
+      "label": "Music Business Worldwide: Rightsholders behind Elvis Presley's hits sue Anthropic",
+      "url": "https://www.musicbusinessworldwide.com/rightsholders-behind-elvis-presleys-hits-sue-anthropic-for-more-than-48-6m-alleging-it-scraped-lyrics-to-274-songs-and-stripped-songwriter-credits-to-train-claude/"
+    },
+    {
+      "label": "The Next Web: Elvis Presley's music owners sue Anthropic over 274 songs",
+      "url": "https://thenextweb.com/news/elvis-presley-anthropic-lawsuit-274-songs-claude"
+    },
+    {
+      "label": "San Francisco Chronicle: Anthropic sued for allegedly using Elvis Presley's music to train Claude AI",
+      "url": "https://www.sfchronicle.com/entertainment/article/elvis-presley-anthropic-ai-copyright-lawsuit-22496959.php"
+    }
+  ],
+  "updatedAt": "2026-11-16T23:42:57+00:00"
+}
