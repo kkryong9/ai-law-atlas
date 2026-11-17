@@ -1,0 +1,26 @@
+{
+  "id": "eu-fria-template-consultation",
+  "region": "eu",
+  "type": "정책·지침",
+  "status": "발표",
+  "date": "2026-11-16",
+  "title": "집행위원회, AI Act 제27조 기본권 영향평가(FRIA) 템플릿 초안 공개·의견수렴",
+  "forum": "EU 집행위원회 · AI Office",
+  "summary": "EU 집행위원회가 2026년 11월 16일 고위험 AI 배포자(deployer)가 써야 하는 기본권 영향평가(FRIA) 템플릿 초안과 설명 고시를 공개하고 2027년 1월 15일까지 의견을 받는다. 실제 배포자가 초안을 시험 적용해 보는 자발적 테스트 참여 신청은 2026년 12월 4일까지다.",
+  "body": "2026년 11월 16일 EU 집행위원회가 AI Act 기본권 영향평가 템플릿 초안을 공개했음.\n기본권 영향평가는 영어로 Fundamental Rights Impact Assessment, 줄여서 FRIA라고 부름.\n초안과 함께 설명 고시(explanatory notice)도 나왔음.\n의견 제출 기한은 2027년 1월 15일임.\n\n초안은 AI Office가 만들었음.\nAI Act 제27조 제5항이 AI Office에 질문서 형식의 템플릿을 만들라고 정해 두었기 때문임.\nEU 기본권청(FRA)의 의견을 받아 작성했다고 밝혔음.\n\n배경을 보면 이렇음.\nAI Act는 고위험 AI를 만드는 '제공자(provider)'와 그걸 가져다 쓰는 '배포자(deployer)'를 나눠 의무를 줌.\n제27조는 배포자 중 일부에게 고위험 AI를 처음 쓰기 전에 기본권에 미칠 영향을 평가하라고 요구함.\n대상은 공공기관, 공공서비스를 제공하는 민간 기관, 그리고 신용평가나 생명·건강보험 위험평가에 AI를 쓰는 배포자임.\n평가를 마치면 결과를 시장감시당국에 통지해야 하고, 이때 채운 템플릿을 제출하게 됨.\n\n초안은 평가에 담을 내용을 질문 형식으로 정리했음.\nAI를 어떤 절차에 어떻게 쓰려는지, 영향을 받는 사람들이 누구인지, 어떤 기본권 위험이 있는지, 사람의 감독과 위험 완화 조치를 어떻게 하는지 등임.\n이미 GDPR상 개인정보 영향평가(DPIA)를 했다면 그 내용을 끌어오거나 참조할 수 있게 했다고 보도됐음.\n초안의 개별 질문 문항 전문은 직접 확인하지 못했음.\n\n의견수렴과 별도로 시범 테스트도 함.\n실제 배포자가 초안을 업무에 시험 적용해 볼 수 있도록 자발적 참여자를 모집함.\n참여 신청 기한은 2026년 12월 4일임.\n템플릿은 확정 뒤 AI Act 단일정보플랫폼(Single Information Platform)에서 자동화 도구 형태로 제공될 예정이라고 함.\n\n한계도 분명함.\n지금은 초안이라 1월 이후 내용이 바뀔 수 있음.\n템플릿을 썼다고 해서 그 자체로 제27조 의무를 다했다고 인정되는 것은 아니라는 설명도 있음.\n보도에 따르면 해당 의무는 2027년 12월 2일부터 적용될 예정임.\n이 적용일은 집행위 원문으로 직접 확인하지는 못했음.\n\n한국 AI기본법도 고영향 AI 사업자에게 영향평가 노력 의무를 두고 있음.\nEU가 어떤 문항으로 기본권 영향을 묻는지는 국내 실무 양식을 만들 때 참고가 될 만함.\n\nEU 고위험 AI 배포자 의무가 '무엇을 적어 내야 하는가' 수준까지 구체화되기 시작했음.",
+  "sources": [
+    {
+      "label": "European Commission: Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI Act",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act"
+    },
+    {
+      "label": "LexisNexis UK: European Commission consults on draft FRIA template and explanatory notice (feedback by 15 January 2027)",
+      "url": "https://www.lexisnexis.com/en-gb/legal/news/commission-seeks-feedback-on-draft-fundamental-rights-impact-assessment-template-under-eu-ai-act"
+    },
+    {
+      "label": "AI Act Service Desk: Article 27",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-27"
+    }
+  ],
+  "updatedAt": "2026-11-17T23:41:05+00:00"
+}
