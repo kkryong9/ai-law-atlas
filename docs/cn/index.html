@@ -409,7 +409,7 @@ ai 이용자는 게시하기 전에 ai 생성 콘텐츠가 진짜인지, 믿을 
 function run(){var s=q.value.trim().toLowerCase(),ty=t.value,n=0;posts.forEach(function(p){var ok=(!ty||p.dataset.type===ty)&&(!s||p.dataset.hay.indexOf(s)>=0);p.hidden=!ok;if(ok)n++;});none.hidden=n>0;}
 q.addEventListener('input',run);t.addEventListener('change',run);})();
 </script><script>
-(function(){var c={"us": 29, "eu": 12, "cn": 12, "jp": 5, "kr": 16, "other": 8};[].forEach.call(document.querySelectorAll('.ct[data-region]'),function(s){s.textContent=c[s.dataset.region]||'0';});})();
+(function(){var c={"us": 32, "eu": 12, "cn": 12, "jp": 5, "kr": 16, "other": 9};[].forEach.call(document.querySelectorAll('.ct[data-region]'),function(s){s.textContent=c[s.dataset.region]||'0';});})();
 </script>
   </main>
   <footer class="foot">
