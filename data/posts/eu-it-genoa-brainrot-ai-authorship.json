@@ -1,0 +1,30 @@
+{
+  "id": "eu-it-genoa-brainrot-ai-authorship",
+  "region": "eu",
+  "type": "소송·판결",
+  "status": "결정·판결",
+  "date": "2026-11-06",
+  "title": "이탈리아 제노바 법원, 'Italian Brainrot' AI 캐릭터 저작권 가처분 기각 (ChatGPT 프롬프트 6~7개로는 저작자 아님)",
+  "forum": "이탈리아 제노바 지방법원(Tribunale di Genova) 제5민사부 · 결정 번호 3178/2026으로 보도",
+  "summary": "이탈리아 제노바 지방법원이 2026년 11월 6일 ChatGPT로 만든 'Italian Brainrot' 캐릭터의 저작권을 주장하며 굿즈 판매 금지를 구한 긴급 가처분을 기각했다. 약 15분 동안 6~7개의 일반적인 프롬프트를 입력한 것만으로는 최종 이미지의 표현 형식이 인간의 창작적 선택에서 나왔다고 볼 수 없다는 이유였다.",
+  "body": "2026년 11월 6일 이탈리아 제노바 지방법원이 AI 생성 캐릭터의 저작권 주장을 받아들이지 않았음.\n제5민사부의 결정이고, 결정 번호는 3178/2026으로 보도됐음.\n결정문 원문은 직접 확인하지 못했고 이탈리아 법률 매체 보도를 바탕으로 정리함.\n\n'Italian Brainrot'는 2025년 무렵 틱톡 등에서 유행한 밈 캐릭터들임.\nAI로 만든 기괴한 동물·사물 캐릭터에 이탈리아어풍 이름을 붙인 것이 특징임.\n\n신청인은 프랑스의 권리관리 회사와 콘텐츠 제작자 2명으로 보도됐음.\n제작자 중 1명은 인도네시아인, 1명은 부모가 대리한 브라질 미성년자라고 함.\n상대방은 'Skifidol Italian Brainrot' 굿즈를 판매한 회사 2곳임.\n문제 된 상품은 트레이딩 카드, 스티커, 수집품 등임.\n\n신청인들은 캐릭터가 자신들의 저작물이므로 굿즈 판매를 긴급히 멈춰 달라고 했음.\n이탈리아 민사소송법의 긴급 가처분(provvedimento d'urgenza)을 쓴 것으로 보임.\n\n법원이 본 쟁점은 AI로 만든 이미지에 인간 저작자가 있느냐였음.\n보도에 따르면 캐릭터는 약 15분 동안 ChatGPT에 6~7개의 요청을 넣어 만들어졌음.\n법원은 그 지시가 꽤 일반적(generic)이라고 봤음.\n일반적인 프롬프트만으로는 최종 이미지의 구체적 표현 형식이 인간의 창작적 선택에서 나왔다고 보기 어렵다고 판단했음.\n그리고 스스로 저작자라고 주장하는 것만으로는 부족하고 이를 증명해야 한다고 했음.\n이탈리아 언론은 법원이 AI 관여 작품에 대해 '엄격한 증명'을 요구했다고 평가했음.\n\n이탈리아는 2025년 AI 법을 만들면서 저작권법도 고쳤다고 보도됐음.\n개정 취지는 AI의 도움을 받은 작품도 인간 저자의 지적 노력의 결과라면 보호된다는 것으로 알려져 있음.\n이번 결정은 이 조항 아래에서 '인간의 지적 노력'을 얼마나 증명해야 하는지 보여 준 초기 사례로 소개됨.\n다만 결정이 이 조항을 어떻게 인용했는지는 원문으로 확인하지 못했음.\n\n이번 결정은 본안 판결이 아니라 가처분 단계의 판단임.\n항고나 본안 소송이 이어졌는지는 확인하지 못했음.\n미국 저작권청과 법원도 인간 저작자 요건을 요구해 왔고, 한국 저작권위원회도 AI 활용 저작물 등록 안내서에서 비슷한 입장을 밝혔음.\n\n한 줄 정리: '프롬프트 몇 줄'로는 AI 이미지의 저작자가 될 수 없다는 유럽 법원의 판단이 하나 더 나왔음.",
+  "sources": [
+    {
+      "label": "Il Sole 24 Ore NT+ Diritto: Il Tribunale di Genova impone la prova rigorosa sull'opera generata tramite IA",
+      "url": "https://ntplusdiritto.ilsole24ore.com/art/il-tribunale-genova-impone-prova-rigorosa-sull-opera-generata-tramite-ia-AJJkJLJC"
+    },
+    {
+      "label": "La Legge per Tutti: Diritto d'autore e IA: per il giudice 15 minuti di Brainrot non bastano",
+      "url": "https://www.laleggepertutti.it/849833_diritto-dautore-e-ia-per-il-giudice-15-minuti-di-brainrot-non-bastano"
+    },
+    {
+      "label": "Diritto.it: Opere generate con AI: diritto d'autore e prompt generici",
+      "url": "https://www.diritto.it/opere-generate-con-ai-diritto-autore/"
+    },
+    {
+      "label": "PPC Land: Brainrot creators lose Genoa copyright bid over six ChatGPT prompts",
+      "url": "https://ppc.land/brainrot-creators-lose-genoa-copyright-bid-over-six-chatgpt-prompts/"
+    }
+  ],
+  "updatedAt": "2026-11-19T23:41:33+00:00"
+}

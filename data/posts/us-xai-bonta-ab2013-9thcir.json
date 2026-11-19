@@ -1,0 +1,42 @@
+{
+  "id": "us-xai-bonta-ab2013-9thcir",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-18",
+  "title": "X.AI LLC v. Bonta (캘리포니아 AI 학습데이터 공개법 AB 2013 위헌 소송, 제9연방항소법원 구두변론)",
+  "forum": "미국 제9연방항소법원 · No. 26-1591 (원심: 캘리포니아중부연방지법 No. 2:25-cv-12295, Jesus G. Bernal 판사)",
+  "summary": "xAI가 캘리포니아의 생성형 AI 학습데이터 공개법(AB 2013)의 효력을 막아 달라며 낸 항소 사건에서 제9연방항소법원이 2026년 11월 18일 구두변론을 열었다. 1심은 2026년 3월 가처분을 기각했고, 항소심 재판부는 xAI 주장에 회의적이었다고 보도됐다.",
+  "body": "2026년 11월 18일 미국 제9연방항소법원이 xAI 사건의 구두변론을 열었음.\nxAI는 일론 머스크가 소유한 AI 회사로 챗봇 Grok을 만듦.\n상대방은 캘리포니아주 법무장관 롭 본타(Rob Bonta)임.\n항소심 사건번호는 No. 26-1591임.\n\n다툼의 대상은 캘리포니아 AB 2013임.\n생성형 AI 개발사가 모델 학습에 쓴 데이터에 관한 요약 정보를 웹사이트에 공개하도록 한 법임.\n데이터의 출처, 저작권 보호 자료나 개인정보 포함 여부 같은 항목을 밝히게 하는 구조로 알려져 있음.\n\nxAI는 2025년 12월 29일 로스앤젤레스 연방법원에 소송을 냈음.\n사건번호는 No. 2:25-cv-12295이고 담당은 Jesus G. Bernal 판사임.\nxAI는 2026년 1월 16일 법 집행을 막아 달라는 예비적 금지명령(preliminary injunction)을 신청했음.\n예비적 금지명령은 본안 판결 전에 법 집행 등을 임시로 멈추게 하는 미국 법원의 처분으로, 한국의 가처분과 비슷함.\n\n1심은 2026년 3월 4일 신청을 기각했음.\n3월 5일로 적은 보도도 있어 날짜는 하루 차이가 있음.\nxAI의 주장은 크게 두 갈래였음.\n첫째, 학습데이터는 영업비밀인데 공개를 강제하는 것은 재산을 보상 없이 빼앗는 것이라는 주장임.\n판사는 학습데이터가 이론상 영업비밀일 수는 있다고 인정했음.\n하지만 xAI가 자기 데이터나 처리 방법이 경쟁사보다 특별히 민감하다는 점을 구체적으로 보이지 못했다고 봤음.\n둘째, 원하지 않는 말을 강제하는 것이어서 수정헌법 제1조(표현의 자유)에 어긋난다는 주장임.\n판사는 이 법이 수정헌법 제1조를 위반하거나 위헌적으로 모호할 가능성이 낮다고 봤음.\n가처분이 기각됐으므로 소송 중에도 법은 효력을 유지함.\n\n항소심의 핵심도 표현의 자유 쟁점임.\n미국에서는 '상업적 표현'에 대한 공개 강제는 비교적 느슨한 심사를 받음.\n반대로 비상업적 표현을 강제하면 '엄격 심사'라는 아주 까다로운 기준이 적용됨.\n캘리포니아 측은 이 법이 상업적 표현에 관한 공개 의무라고 주장했음.\n보도에 따르면 재판부는 xAI에 '차가운 반응'을 보였고 양측 모두에 날카로운 질문을 던졌다고 함.\n재판부 구성은 확인하지 못했음.\n\n항소법원 판결은 아직 나오지 않았음.\n만약 학습데이터 요약을 엄격 심사 대상인 강제 표현으로 본다면 다른 주의 AI 투명성 법에도 영향이 클 것으로 보임.\n반대로 1심이 유지되면 AI 학습데이터 공개 의무의 합헌성을 연방항소법원이 처음 확인하는 셈이 됨.\nEU AI Act도 범용 AI 모델 제공자에게 학습 콘텐츠 요약 공개를 요구하고 있어 비교해 볼 만함.\n\n한 줄 정리: 'AI 학습데이터 공개 의무가 영업비밀·표현의 자유를 침해하느냐'를 다루는 첫 연방항소심이 변론을 마쳤음.",
+  "sources": [
+    {
+      "label": "MLQ: Appeals judges question xAI's bid to block California's AI training data law",
+      "url": "https://mlq.ai/news/appeals-judges-question-xais-bid-to-block-californias-ai-training-data-law/"
+    },
+    {
+      "label": "Startup Fortune: xAI tells Ninth Circuit California's AI training data law is unconstitutional",
+      "url": "https://startupfortune.com/xai-tells-ninth-circuit-californias-ai-training-data-law-is-unconstitutional/"
+    },
+    {
+      "label": "新浪财经: 马斯克的xAI请求美国上诉法院阻止加州实施AI信息披露法 (2026-11-19)",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizfunf4241612.shtml"
+    },
+    {
+      "label": "PPC Land: Court denies xAI's bid to block California AI training data law",
+      "url": "https://ppc.land/court-denies-xais-bid-to-block-california-ai-training-data-law/"
+    },
+    {
+      "label": "Reason (Volokh Conspiracy): California AI model training disclosure law likely doesn't violate First Amendment",
+      "url": "https://reason.com/volokh/2026/03/10/california-ai-model-training-disclosure-law-likely-doesnt-violate-first-amendment"
+    },
+    {
+      "label": "CourtListener: X.AI LLC v. Bonta 소장 (C.D. Cal.)",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cacd.1000848/gov.uscourts.cacd.1000848.1.0.pdf"
+    },
+    {
+      "label": "Institute for Law & AI: xAI's Challenge to California's AB2013",
+      "url": "https://law-ai.org/xais-challenge-to-californias-ai-training-data-transparency-law-ab2013/"
+    }
+  ],
+  "updatedAt": "2026-11-19T23:41:33+00:00"
+}

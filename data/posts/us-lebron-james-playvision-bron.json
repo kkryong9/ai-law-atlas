@@ -1,0 +1,30 @@
+{
+  "id": "us-lebron-james-playvision-bron",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-17",
+  "title": "LeBron James 외 v. PlayVision Inc. (AI 스포츠베팅 앱 'Bron'의 AI 생성 르브론 광고)",
+  "forum": "미국 뉴욕남부연방지방법원 · 사건번호 확인 못 함",
+  "summary": "르브론 제임스와 LBJ Trademarks LLC가 2026년 11월 17일 AI 스포츠베팅 분석 앱 'Bron' 운영사 PlayVision과 공동창업자들을 뉴욕남부연방지법에 제소했다. AI로 만든 자신의 모습과 목소리를 광고에 쓰고 별명 'Bron'으로 보증 관계를 오인시켰다며 퍼블리시티권 침해와 상표권 침해를 주장했다.",
+  "body": "2026년 11월 17일 NBA 선수 르브론 제임스가 AI 스타트업을 상대로 소송을 냈음.\n원고는 제임스 본인과 그의 상표 관리 회사 LBJ Trademarks LLC임.\n피고는 PlayVision Inc.와 공동창업자 아니시 굽타(Anish Gupta), 마크 조그비(Marc Zoghby)임.\n조그비의 철자는 보도마다 Zoghby와 Zogby로 엇갈려 확인하지 못했음.\n법원은 맨해튼에 있는 뉴욕남부연방지방법원임.\n사건번호는 확인하지 못했음.\n\nPlayVision은 'Bron'이라는 앱을 운영함.\n스포츠 베팅을 할 때 참고할 분석 정보를 AI로 제공하는 앱임.\n'Bron'은 르브론 제임스의 널리 알려진 별명이기도 함.\n\n문제가 된 것은 11월 초 X(옛 트위터)에 올라온 광고 영상임.\n영상에는 AI로 만든 르브론 제임스가 라커룸에 앉아 있었다고 함.\n등번호 23번에 등에 'Bron'이 적힌 유니폼을 입고 있었다고 함.\n소장에 따르면 이 광고는 하루 만에 약 100만 회 조회됐음.\n제임스 측은 AI가 자신의 외모뿐 아니라 목소리까지 흉내 냈다고 주장함.\n\n청구 원인은 크게 두 가지로 보도됐음.\n하나는 퍼블리시티권 침해임.\n미국에서 퍼블리시티권은 이름·얼굴·목소리 같은 신원 요소를 허락 없이 상업적으로 쓰지 못하게 하는 권리임.\n연방법이 아니라 주법으로 보호되고, 뉴욕은 민권법(Civil Rights Law)에 관련 규정을 두고 있음.\n다만 이 소장이 어느 주의 어떤 조항을 근거로 했는지는 확인하지 못했음.\n다른 하나는 상표권 침해임.\n'Bron' 명칭을 써서 소비자가 제임스가 앱을 보증하거나 관련이 있다고 오인하게 만들었다는 주장임.\n미국 연방 상표법(Lanham Act)은 이런 '허위 보증·출처 혼동'을 막는 규정을 두고 있음.\n\n제임스 측은 금지명령(injunction)과 손해배상을 함께 구했음.\n금지 대상으로 'Bron', 'LeBron', 'King James', 'LBJ' 등 자신과 연결된 명칭 사용을 들었음.\nAI로 생성하거나 흉내 낸 자신의 모습·목소리 사용 금지도 함께 구했음.\n배심재판도 신청했음.\n소장은 퀸 엠마누엘 소속 알렉스 스피로 변호사 등이 작성했다고 보도됐음.\n\n보도에 따르면 회사는 광고를 내렸음.\n굽타는 앱 이름을 바꾸겠다는 취지로 새 이름을 예고했지만, 제소 당시 앱은 여전히 'Bron'으로 운영되고 있었다고 함.\nPlayVision의 공식 답변서는 아직 제출되지 않은 것으로 보도됐음.\n\n이 사건은 아직 소장 단계이고 법원 판단은 없음.\n그래도 유명인 이름·별명에 대한 상표권과 AI 생성 외모·목소리에 대한 퍼블리시티권이 한 소송에서 함께 다뤄진다는 점이 눈여겨볼 지점임.\n한국에서도 퍼블리시티권 제정 논의와 AI 음성 가처분 사례가 이어지고 있어 비교해 볼 만함.\n\n한 줄 정리: AI로 만든 '가짜 보증 광고'에 유명인이 상표권과 퍼블리시티권을 함께 들고 나선 사건임.",
+  "sources": [
+    {
+      "label": "CNBC: LeBron James sues startup over viral AI ad allegedly exploiting his likeness (2026-11-18)",
+      "url": "https://www.cnbc.com/2026/11/18/lebron-james-startup-ai-lawsuit.html"
+    },
+    {
+      "label": "Sportico: LeBron James Lawsuit Tests AI Use of Athlete NIL",
+      "url": "https://www.sportico.com/law/analysis/2026/lebron-james-ai-lawsuit-bron-legal-analysis-1234958821/"
+    },
+    {
+      "label": "Yahoo Sports: LeBron James sues AI sports-betting analytics app over alleged bogus endorsement",
+      "url": "https://sports.yahoo.com/articles/lebron-james-sues-ai-sports-220123857.html"
+    },
+    {
+      "label": "Law Commentary: LeBron James Sues AI Betting App",
+      "url": "https://www.lawcommentary.com/articles/lebron-james-ai-betting-app-lawsuit-name-likeness-bron"
+    }
+  ],
+  "updatedAt": "2026-11-19T23:41:33+00:00"
+}
