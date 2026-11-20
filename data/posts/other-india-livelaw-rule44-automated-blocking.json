@@ -1,0 +1,26 @@
+{
+  "id": "other-india-livelaw-rule44-automated-blocking",
+  "region": "other",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-19",
+  "title": "LiveLaw Media v. Union of India & Meta (인도 IT규칙 제4조(4) 자동 차단 의무 위헌 소송)",
+  "forum": "인도 델리고등법원 · 사건번호 미확인",
+  "summary": "인도 법률매체 LiveLaw가 플랫폼에 자동화 도구로 콘텐츠를 차단하게 하는 IT규칙 제4조(4)가 위헌·월권이라며 소송을 냈음. 델리고등법원은 2026년 11월 19일 인도 정부와 Meta에 통지(notice)를 발부했음. 자동 필터링이 언론 보도를 이유 없이 지운 사례가 발단이라 알고리즘 콘텐츠 관리의 법적 한계가 쟁점임.",
+  "body": "2026년 11월 19일 인도 델리고등법원이 LiveLaw Media의 청구에 대해 인도 연방정부와 Meta에 통지(notice)를 발부했음.\n통지 발부는 법원이 청구를 일단 심리 대상으로 받아들이고 상대방에게 답변을 요구하는 절차임.\n본안 판단이나 가처분 결정은 아님.\n사건번호는 확인하지 못했음.\n\nLiveLaw는 인도의 대표적인 법률 전문 매체임.\n인도 대법원 심리 내용을 Instagram 릴스(짧은 영상)로 보도했는데, 그중 2건이 업로드 15분 만에 아무 명령이나 이유 없이 차단됐다고 주장함.\n이 2건은 지금도 인도 내에서 볼 수 없는 상태라고 함.\n\n문제의 근거는 인도 정보기술규칙(IT Rules, 2021) 제4조(4)임.\n이 조항은 대형 소셜미디어 플랫폼에 자동화 도구를 이용한 콘텐츠 식별·차단 의무를 부과함.\n원래는 자동화 도구 도입에 '노력한다(endeavour)'는 수준이었음.\nLiveLaw는 2026년 개정 이후 이미 차단된 콘텐츠와 '정확히 동일한' 콘텐츠는 플랫폼이 의무적으로 차단해야 하게 됐다고 주장함.\n보도에 따르면 이 개정은 2026년 2월 10일 고시되고 2월 20일 시행됐음.\nLiveLaw는 전자정보기술부(MeitY)가 2026년 10월 8일과 10일 낸 권고(advisory) 2건도 법적 근거가 없다며 함께 다툼.\n\nLiveLaw의 주장은 크게 세 가지임.\n첫째, 이 조항은 모법인 IT법이 위임한 범위를 넘었다는 것임.\n둘째, 플랫폼이 사실상 콘텐츠의 위법성을 스스로 판단하게 만들어, IT법 제69A조 차단 절차의 절차적 보호장치를 우회한다는 것임.\n셋째, 인도 대법원이 Shreya Singhal v. Union of India (2015)에서 인정한 표현의 자유 보호 법리에 반한다는 것임.\nShreya Singhal은 온라인 표현 규제 조항을 위헌 무효로 하고 플랫폼의 삭제 의무를 법원 명령 등으로 한정한 인도의 대표 판례임.\n\nLiveLaw는 법원 명령 등 정식 근거 없이 제4조(4)만을 근거로 자사 콘텐츠를 제한하지 못하게 하는 임시 명령도 신청했음.\n법원이 이 임시 명령을 내렸는지는 확인하지 못했음.\n일부 보도는 이번 통지에 본안에 관한 판단이나 임시 제한 명령이 포함되지 않았다고 전함.\n\n이 사건은 AI·알고리즘 기반 자동 콘텐츠 관리가 언론 보도까지 걸러낼 때 누가 책임지는지를 묻는 사건임.\n인도는 별도의 AI법 없이 IT규칙 개정으로 딥페이크·합성정보와 플랫폼 의무를 규율해 왔다는 점에서도 의미가 있음.\n제4조(4)는 과거 델리고등법원의 딥페이크 인격권 사건에서 자동 삭제 근거로 원용되기도 했음.\n\n자동 필터링 의무의 위헌성이 인도 법원에서 본격적으로 다퉈지기 시작했음.",
+  "sources": [
+    {
+      "label": "LiveLaw: Delhi High Court Issues Notice On LiveLaw's Plea Against Take Down Of Instagram Reels, Mandatory Automated Content Blocking Under IT Rules",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-livelaw-reels-take-down-it-rules-content-blocking-559088"
+    },
+    {
+      "label": "MediaNama: Delhi HC issues notice on LiveLaw's challenge to automated content blocking under IT Rules",
+      "url": "https://www.medianama.com/2026/11/223-delhi-hc-livelaws-content-blocking-it-rules/"
+    },
+    {
+      "label": "Internet Freedom Foundation: Delhi HC issues notice on LiveLaw's constitutional challenge to Meta's automated filter and Rule 4(4) of the IT Rules",
+      "url": "https://internetfreedom.in/delhi-hc-issues-notice-on-livelaws-constitutional-challenge-to-metas-automated-filter-and-rule-4-4-of-the-it-rules/"
+    }
+  ],
+  "updatedAt": "2026-11-20T23:41:40+00:00"
+}
