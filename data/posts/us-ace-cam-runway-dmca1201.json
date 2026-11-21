@@ -1,0 +1,38 @@
+{
+  "id": "us-ace-cam-runway-dmca1201",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-10-30",
+  "title": "Ace Cam, Inc. v. Runway AI, Inc. (YouTube 영상 수집의 DMCA 기술적 보호조치 우회 주장, 각하 신청 기각)",
+  "forum": "미국 뉴욕남부연방지방법원 · No. 1:26-cv-01362-LAK (Lewis A. Kaplan 판사)",
+  "summary": "AI 영상 생성 기업 Runway가 YouTube 영상을 학습용으로 내려받으면서 YouTube의 기술적 보호조치를 우회했다는 집단소송에서, Kaplan 판사가 Runway의 각하 신청을 기각했음. 누구나 무료로 볼 수 있는 YouTube 영상이라도 그 보호조치가 DMCA 제1201조(a)의 '접근통제'에 해당할 수 있다고 본 것임. AI 학습의 공정이용 여부와 별개로 '데이터 수집 방식' 자체를 문제 삼는 소송 전략이 첫 관문을 통과했음.",
+  "body": "미국 뉴욕남부연방지방법원 Lewis A. Kaplan 판사가 2026년 10월 30일 AI 영상 생성 기업 Runway의 각하 신청(motion to dismiss)을 기각했음.\n사건명은 Ace Cam, Inc. v. Runway AI, Inc.이고 사건번호는 No. 1:26-cv-01362-LAK임.\n각하 신청은 원고 주장을 모두 사실로 보더라도 법적으로 청구가 성립하지 않는다며 본격 심리 전에 사건을 끝내 달라는 절차임.\n기각됐다는 것은 원고가 이겼다는 뜻이 아니라 소송이 증거조사 단계로 넘어간다는 뜻임.\n\n원고 Ace Cam은 'Random Golf Club'이라는 이름으로 활동하는 YouTube 채널 운영사임.\n소장은 2026년 2월에 제기됐고, 제기일은 2월 18일과 2월 20일로 출처마다 다름.\n이후 비슷한 YouTube 창작자 소송들이 병합돼 Kaplan 판사가 함께 맡고 있음.\n피고 Runway는 텍스트로 영상을 만드는 생성형 AI 서비스를 운영하는 미국 스타트업임.\n\n이 사건의 특징은 저작권 침해가 아니라 DMCA 제1201조(a) 하나만 청구했다는 점임.\nDMCA 제1201조는 저작물에 걸린 기술적 보호조치(TPM)를 우회하는 행위를 금지함.\n그중 (a)항은 저작물에 대한 '접근'을 통제하는 조치의 우회를 금지함.\n'복제'를 통제하는 조치는 (b)항이 다루는데, 복제통제 우회 자체는 (a)항처럼 직접 금지되지 않는다는 해석이 있음.\n그래서 YouTube 보호조치가 접근통제인지 복제통제인지가 핵심 쟁점이 됨.\n\n원고 주장은 Runway가 다운로드 도구와 IP 주소를 계속 바꾸는 방식(IP rotation)으로 YouTube의 탐지와 차단을 피해 영상을 대량으로 받아 학습에 썼다는 것임.\n보도에 따르면 원고는 YouTube가 검사를 통과하지 못한 이용자의 재생을 끊는다는 점도 주장했음.\n\nRunway의 반론은 이랬음.\nYouTube 영상은 누구나 브라우저로 무료로 볼 수 있음.\n그러니 YouTube의 다운로드 방지 조치는 기껏해야 복제통제이고 접근통제가 아님.\n접근통제라면 비밀번호, 유료 결제벽, 암호화 같은 것이어야 한다는 주장이었음.\n또 그 조치는 YouTube가 만든 것이므로 창작자들이 권리를 주장할 수 없다는 주장도 했음.\n\n법원은 소송 초기 단계에서 두 주장을 모두 받아들이지 않았음.\nYouTube 보호조치가 접근통제에 해당한다는 원고 주장이 그럴듯하다(plausible)고 봤음.\n하나의 조치가 접근통제이면서 동시에 복제통제일 수 있다는 항소법원 판단도 근거로 들었다고 보도됐음.\n판결문에는 \"YouTube에 올라간 콘텐츠가 공개돼 있다고 해서 보호받지 못하는 것은 아니다\"라는 취지의 문장이 있다고 보도됐음.\n다만 Runway는 이후 단계에서 같은 주장을 다시 할 수 있음.\n\n이 판단이 중요한 이유가 있음.\nAI 학습 소송의 주전장은 지금까지 공정이용(fair use)이었고, 일부 법원은 학습 자체를 공정이용으로 봤음.\nDMCA 제1201조 청구는 '학습이 공정이용이냐'를 건너뛰고 '애초에 데이터를 보호조치를 뚫고 가져왔느냐'를 묻는 구조임.\n공정이용 항변이 제1201조 위반에는 통하지 않는다는 해석이 유력하다는 점에서 원고들이 이 길을 택하고 있음.\nNvidia, Snap, ByteDance, Apple, Suno 등을 상대로 한 유사 소송도 진행 중이고, 법원 판단이 엇갈리는 상황임.\n\n한계도 있음.\n판결문 원문은 직접 열람하지 못했고, 위 내용은 판결을 정리한 블로그·로펌 자료·법률 매체 보도에 따른 것임.\n클래스(집단) 인증은 아직 이뤄지지 않았고, 원고 주장은 증명되지 않은 상태임.\n학습에 쓰였다는 영상 수 등 일부 수치는 출처마다 달라 적지 않았음.\n\nAI 학습데이터 분쟁에서 '어떻게 모았느냐'가 '무엇을 모았느냐' 못지않은 쟁점이 되고 있음.",
+  "sources": [
+    {
+      "label": "SDNY Blog, Ace Cam v. Runway AI Opinion Denying MTD (2026-10-30, PDF)",
+      "url": "https://www.sdnyblog.com/files/2026/11/26-Civ.-01362-2026.10.30-Ace-Cam-v.-Runway-AI-Opinion-Denying-MTD.pdf"
+    },
+    {
+      "label": "SDNY Blog, Judge Kaplan: Evasion Of YouTube's Anti-Scraping Measures By AI Firm Can Violate DMCA",
+      "url": "https://www.sdnyblog.com/judge-kaplan-evasion-of-youtubes-anti-scraping-measures-by-ai-firm-can-violate-dmca-even-for-free-public-videos/"
+    },
+    {
+      "label": "ChatGPT Is Eating the World, Judge Kaplan denies Runway AI's motion to dismiss (2026-11-02)",
+      "url": "https://chatgptiseatingtheworld.com/2026/11/02/judge-kaplan-denies-runway-ais-motion-to-dismiss-dmca-anti-circumvention-claim-re-youtube-videos/"
+    },
+    {
+      "label": "Mealey's, AI Text-To-Video Company Must Face DMCA Circumvention Claims",
+      "url": "https://www.mealeys.com/mealeys/mealeys-copyright/articles/2546420"
+    },
+    {
+      "label": "Loeb & Loeb, Ace Cam, Inc. v. Runway AI, Inc.",
+      "url": "https://www.loeb.com/en/insights/publications/2026/11/ace-cam-inc-v-runway-ai-inc"
+    },
+    {
+      "label": "Chambers, DMCA Section 1201 Claims: The New Battleground for AI and Data Scraping Litigation",
+      "url": "https://chambers.com/articles/dmca-section-1201-claims-the-new-battleground-for-ai-and-data-scraping-litigation"
+    }
+  ],
+  "updatedAt": "2026-11-21T23:42:44Z"
+}
