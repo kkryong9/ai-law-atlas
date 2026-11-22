@@ -10,9 +10,17 @@
     {
       "label": "JD Supra",
       "url": "https://www.jdsupra.com/authors/daniel-hinckley/artificial-intelligence/"
+    },
+    {
+      "label": "PPC Land – Colorado bans ID-only age checks for AI chatbots in adopted rules",
+      "url": "https://ppc.land/colorado-bans-id-only-age-checks-for-ai-chatbots-in-adopted-rules/"
+    },
+    {
+      "label": "Norton Rose Fulbright – X.AI sues, DOJ intervenes, enforcement of Colorado's AI Act suspended",
+      "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/de3ad9de/xai-sues-doj-intervenes-enforcement-of-colorado-ai-act-suspended"
     }
   ],
-  "updatedAt": "2026-10-25T14:30:00.000Z",
-  "body": "콜로라도는 2024년에 미국 최초의 포괄적 주 AI법을 만든 곳임.\nS.B. 24-205임.\n\n2026년 5월 14일 폴리스 주지사가 새 법 S.B. 26-189에 서명했음.\n2024년 법을 폐지하고 새 법으로 갈아끼운 것임.\n\n연방 선점 압박과 업계 반발 속에서 첫 주 AI법이 다시 짜인 사례임.\n다만 무엇이 어떻게 바뀌었는지는 이 정리에서 원문으로 확인하지 못했음.",
+  "updatedAt": "2026-11-22T23:42:02+00:00",
+  "body": "콜로라도는 2024년에 미국 최초의 포괄적 주 AI법을 만든 곳임.\nS.B. 24-205임.\n\n2026년 5월 14일 폴리스 주지사가 새 법 S.B. 26-189에 서명했음.\n2024년 법을 폐지하고 새 법으로 갈아끼운 것임.\n\n연방 선점 압박과 업계 반발 속에서 첫 주 AI법이 다시 짜인 사례임.\n다만 무엇이 어떻게 바뀌었는지는 이 정리에서 원문으로 확인하지 못했음.\n\n[2026-11-19 추가] 콜로라도주 법무부가 S.B. 26-189와 챗봇안전법(H.B. 26-1263)을 함께 시행하는 규칙을 채택했음.\n새 법은 자동화 의사결정기술(ADMT)을 쓰는 '중대한 결정'에 대해 개발자 문서 제공, 불리한 결과에 대한 소비자 고지, 사람의 검토 요청권 등을 정한 것으로 해설됨.\n다만 xAI가 낸 위헌 소송에서 연방법원이 2026년 4월 27일 집행을 일시 막아 두었기 때문에 실제 집행은 가처분 판단 이후로 미뤄짐.\n자세한 내용은 별도 글 '콜로라도 법무부, 자동화 의사결정기술법·챗봇안전법 시행규칙 채택'에 정리했음.",
   "id": "us-colorado"
 }

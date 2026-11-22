@@ -1,0 +1,42 @@
+{
+  "id": "us-colorado-admt-chatbot-rules",
+  "region": "us",
+  "type": "입법·규제",
+  "status": "발표",
+  "date": "2026-11-19",
+  "title": "콜로라도 법무부, 자동화 의사결정기술법(S.B. 26-189)·챗봇안전법(H.B. 26-1263) 시행규칙 채택",
+  "forum": "미국 콜로라도주 법무부(Department of Law) · 4 CCR 904-6(보도 기준)",
+  "summary": "콜로라도주 법무부가 2026년 11월 19일 자동화 의사결정기술(ADMT)법과 챗봇안전법을 함께 시행하는 약 76쪽 분량의 규칙을 채택했음. 챗봇 운영자의 연령 추정 의무 등이 구체화됐지만 시행일은 주 국무장관 공고에 연동돼 아직 확정되지 않았음. xAI의 위헌 소송에서 나온 연방법원 명령 때문에 실제 집행은 가처분 판단 뒤로 미뤄져 있음.",
+  "body": "미국 콜로라도주 법무부(Department of Law)가 2026년 11월 19일 AI 관련 두 법률의 시행규칙을 채택했음.\n대상은 자동화 의사결정기술법(ADMT Act, S.B. 26-189)과 챗봇안전법(Chatbot Safety Act, H.B. 26-1263)임.\n주 법무장관실 AI 규칙제정 페이지에 11월 19일 채택 사실이 게시됐다고 보도됐음.\n\n규칙은 약 76쪽 분량이고 두 법을 한 번에 다룸.\n한 업계 보도는 규칙이 4 CCR 904-6으로 편제되고, 그중 규칙 9~14가 챗봇안전법을 다룬다고 전했음.\n편제 번호와 조문 구성은 규칙 원문으로 직접 확인하지는 못했음.\n\n배경부터 보면 이럼.\n콜로라도는 2024년 미국 최초의 포괄적 주 AI법(S.B. 24-205)을 만든 곳임.\n그런데 2026년 5월 S.B. 26-189로 그 법을 폐지하고 다시 만들었음.\n새 법은 채용·대출 같은 '중대한 결정'에 쓰이는 자동화 의사결정기술(ADMT)을 규율함.\n개발자는 도입 기업(deployer)에 관련 문서를 줘야 하고, 도입 기업은 소비자에게 불리한 결과가 나오면 고지·설명을 해야 함.\n소비자가 의미 있는 사람의 검토를 요청할 권리도 들어 있다고 해설됨.\n집행은 주 법무장관이 맡고, 첫 위반에는 2030년까지 60일 시정기간이 주어진다고 함.\n\n챗봇안전법은 대화형 AI 서비스 운영자를 대상으로 함.\n운영자는 이용자 연령을 추정해야 하고, 이용자가 미성년자면 챗봇이라는 사실을 주기적으로 알려야 함.\n자살·자해 대응 절차, 미성년자나 부모가 개인정보·계정 설정을 조정하는 도구, 미성년자 대상 '참여 유도형 보상' 금지 등도 보도됐음.\n위반은 콜로라도 소비자보호법상 기만적 거래행위로 보고, 위반 1건당 1,000달러 민사벌금이 붙는다고 함.\n두 법 모두 2027년 1월 1일 시행으로 정리됨.\n챗봇안전법 서명일은 2026년 5월 29일이라는 자료와 7월 1일이라는 자료가 엇갈림.\n\n규칙제정 경과는 이럼.\n2026년 8월 11일 규칙안이 제출됐고, 10월 6일 수정안이 나왔고, 10월 26일 공청회가 열렸음.\n챗봇안전법은 규칙 제정을 의무로 정하지 않았지만, 법무장관실은 연례보고서 내용 등 의무를 분명히 하려고 규칙을 만든다고 설명했음.\n챗봇 운영자의 첫 연례보고는 2027년 7월 1일부터임.\n\n연령 확인 부분이 실무상 눈에 띔.\n8월 규칙안은 '상업적으로 합리적인' 연령 추정 방법을 요구했고, 이용자의 자기 신고만으로는 부족하다고 정했음.\n채택본은 정부 발급 신분증만으로 연령을 확인하는 방식을 금지했다고 보도됐음.\n다만 이 부분은 한 매체 보도에 기초한 것이고 채택 규칙 원문으로 확인하지 못했음.\n\n시행일은 아직 확정되지 않았음.\n규칙안은 2027년 1월 1일을 시행일로 적었지만, 채택본 규칙 1.3은 주 국무장관이 콜로라도 규칙집에 공고하는 시행일을 따르도록 바뀌었다고 보도됐음.\n주 국무장관 기록에는 11월 20일 법무장관 의견서가 요청된 것으로 나온다고 함.\n\n소송과도 맞물려 있음.\nxAI는 2026년 봄 콜로라도 AI법이 위헌이라며 연방법원에 소송을 냈고, 미국 법무부가 이 소송에 참가했음.\n법원은 2026년 4월 27일 명령으로 법무장관의 집행(조사 포함)을 일시 막았음.\n그 명령에 따르면 xAI는 시행규칙이 '최종 채택'된 뒤 28일 안에 가처분(preliminary injunction)을 신청해야 함.\n그리고 법원이 그 가처분 신청을 판단한 날로부터 14일이 지날 때까지 발생한 위반은 집행할 수 없음.\n11월 19일을 최종 채택일로 보면 신청 기한은 12월 17일이 됨.\n그런데 명령이 '최종 채택'을 정의하지 않아 기한이 더 늦어질 수 있다는 분석도 있음.\nxAI가 가처분을 신청했는지는 확인하지 못했음.\n\n정리하면 규칙은 만들어졌지만 실제 집행은 연방법원 판단을 기다려야 함.\n연방정부가 주 AI법 선점을 추진하는 상황이라 xAI 사건 결과가 다른 주에도 영향을 줄 수 있음.\n한국 AI기본법의 고영향 AI 규율과 비교해 볼 만한 미국 주 단위 사례임.\n한 줄 요약: 콜로라도가 AI 의사결정·챗봇 규칙을 확정했으나 xAI 소송 때문에 집행은 묶여 있음.",
+  "sources": [
+    {
+      "label": "Colorado Department of Law – ADMT & Chatbot Safety Act 규칙제정 페이지",
+      "url": "https://coag.gov/ai/"
+    },
+    {
+      "label": "PPC Land – Colorado bans ID-only age checks for AI chatbots in adopted rules",
+      "url": "https://ppc.land/colorado-bans-id-only-age-checks-for-ai-chatbots-in-adopted-rules/"
+    },
+    {
+      "label": "PPC Land – Court blocks Colorado AI law enforcement until 14 days after xAI ruling",
+      "url": "https://ppc.land/court-blocks-colorado-ai-law-enforcement-until-14-days-after-xai-ruling/"
+    },
+    {
+      "label": "Norton Rose Fulbright – X.AI sues, DOJ intervenes, enforcement of Colorado's AI Act suspended",
+      "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/de3ad9de/xai-sues-doj-intervenes-enforcement-of-colorado-ai-act-suspended"
+    },
+    {
+      "label": "Akin Gump – Colorado AG Releases Interim Draft Rules Implementing ADMT and Chatbot Safety Acts",
+      "url": "https://www.akingump.com/en/insights/ai-law-and-regulation-tracker/colorado-attorney-general-releases-interim-draft-rules-implementing-admt-and-chatbot-safety-acts"
+    },
+    {
+      "label": "Cloud Security Alliance – Colorado's Chatbot Safety Act: A New Compliance Floor",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-colorado-ai-chatbot-safety-admt-20260711-c/"
+    },
+    {
+      "label": "Colorado General Assembly – HB26-1263",
+      "url": "https://leg.colorado.gov/bills/HB26-1263"
+    }
+  ],
+  "updatedAt": "2026-11-22T23:42:02+00:00"
+}

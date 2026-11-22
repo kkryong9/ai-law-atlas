@@ -1,0 +1,34 @@
+{
+  "id": "us-carlson-anthropic-meta",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11",
+  "title": "Carlson LLC v. Anthropic PBC & Meta ('Don't Sweat the Small Stuff' 자기계발서 무단 학습)",
+  "forum": "미국 북부캘리포니아 연방지방법원 · No. 3:26-cv-14248",
+  "summary": "'Don't Sweat the Small Stuff' 시리즈의 저작권자 Carlson LLC가 Anthropic과 Meta가 자기계발서 20여 권을 해적판 사이트와 무단 스캔으로 확보해 AI를 학습시켰다며 북부캘리포니아 연방법원에 소송을 냈음. 저작물 1건당 최대 15만 달러의 법정손해배상을 구한다고 보도됐음. Bartz v. Anthropic 합의 이후에도 해적판 취득 경로를 문제 삼는 개별 소송이 이어지고 있음.",
+  "body": "자기계발서 'Don't Sweat the Small Stuff'(국내 번역서 '사소한 것에 목숨 걸지 마라') 시리즈의 저작권자가 Anthropic과 Meta를 상대로 저작권 침해 소송을 냈음.\n소송은 북부캘리포니아 연방지방법원에 2026년 11월 19~20일경 제기됐다고 보도됐음.\n사건명은 Carlson LLC v. Anthropic PBC et al.이고, 법원 사건기록 목록상 사건번호는 3:26-cv-14248임.\n정확한 제소일과 배정 판사는 확인하지 못했음.\n\n원고 Carlson LLC는 리처드 칼슨과 크리스틴 칼슨 부부가 쓴 책들의 등록 저작권자임.\n리처드 칼슨은 2006년에 사망했음.\n피고는 Claude를 만드는 Anthropic과 Meta AI를 만드는 Meta임.\n\n원고 주장은 이렇음.\n두 회사가 자기계발 분야 책 20여 권을 허락 없이 가져다 AI 학습에 썼다는 것임.\n해적판 도서 사이트(Books3, Anna's Archive 등)에서 책을 받았고, 실물 책도 허락 없이 스캔했다고 주장했다고 보도됐음.\n청구액은 침해 저작물 1건당 최대 15만 달러로 보도됐음.\n미국 저작권법은 실제 손해를 증명하지 않아도 법정손해배상(statutory damages)을 청구할 수 있게 하고, 고의 침해면 1건당 최대 15만 달러까지 인정함.\n서로 별개 회사인 두 피고를 한 소송에 묶었는데, 두 회사가 함께 복제했다는 구체적 주장은 소장에 없다는 지적도 보도됐음.\n\n이 사건이 눈에 띄는 이유는 이미 같은 쟁점의 선례가 있기 때문임.\nAnthropic에 대해서는 2025년 Bartz v. Anthropic 사건에서 알섭(Alsup) 판사가 '책으로 AI를 학습시킨 것 자체는 공정이용(fair use)'이라고 봤음.\n그러나 해적판 사이트에서 받은 책 수백만 권을 '중앙 도서관'으로 보관한 부분은 공정이용이 아니라고 봤음.\n공정이용은 이용 목적, 저작물 성격, 이용 분량, 시장에 미치는 영향 네 요소로 판단하는 미국 저작권법상 항변임.\n이후 Anthropic은 저자들과 집단소송 합의를 했고, 법원은 2026년 7월 최종 승인했으며 저작물당 약 3,000달러 수준으로 보도됐음.\nMeta에 대해서는 2025년 Kadrey v. Meta 사건에서 법원이 원고 저자들이 시장 피해를 증명하지 못했다며 Meta 손을 들어준 바 있음.\n\n이번 원고는 해적판 취득 경로를 전면에 내세웠음.\n학습 자체보다 '어디서 어떻게 가져왔느냐'를 다투는 것이 Bartz 이후 원고들의 전략으로 보임.\n원고가 Bartz 합의 대상 저작물에 포함됐는지, 합의에서 빠졌는지(opt-out)는 확인하지 못했음.\n\n아직 소장 단계여서 주장은 법원에서 검증되지 않았음.\n두 회사의 공식 입장도 확인하지 못했음.\n한 줄 요약: Bartz 합의 이후에도 '해적판 학습' 책임을 묻는 개별 저작권자 소송이 계속 나오고 있음.",
+  "sources": [
+    {
+      "label": "Law360 – Self-Help Gurus Say Anthropic, Meta Helped Themselves To IP",
+      "url": "https://www.law360.com/articles/2554403/self-help-gurus-say-anthropic-meta-helped-themselves-to-ip"
+    },
+    {
+      "label": "VitalLaw – Anthropic and Meta self-helped themselves to AI training materials, new lawsuit asserts",
+      "url": "https://www.vitallaw.com/news/copyright-news-anthropic-and-meta-self-helped-themselves-to-ai-training-materials-new-lawsuit-asserts/ipm01eea3882904794aa786ea89a4f8e8a780"
+    },
+    {
+      "label": "Justia Dockets – Carlson LLC v. Anthropic PBC et al, 3:2026cv14248",
+      "url": "https://dockets.justia.com/docket/california/candce/3:2026cv14248/484400"
+    },
+    {
+      "label": "XboxDynasty – Meta: Bis zu 150.000 Dollar pro Buch gefordert",
+      "url": "https://www.xboxdynasty.de/news/meta/bis-zu-150-000-dollar-pro-buch-gefordert/comment-page-1/"
+    },
+    {
+      "label": "NPR – Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit",
+      "url": "https://www.npr.org/2025/09/05/nx-s1-5529404/anthropic-settlement-authors-copyright-ai"
+    }
+  ],
+  "updatedAt": "2026-11-22T23:42:02+00:00"
+}
