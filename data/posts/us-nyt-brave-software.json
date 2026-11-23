@@ -1,0 +1,34 @@
+{
+  "id": "us-nyt-brave-software",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "진행 중",
+  "date": "2026-11-02",
+  "title": "New York Times Co. v. Brave Software Inc. · Daily News LP v. Brave Software Inc. (검색 색인을 AI 기업에 판매·페이월 우회 주장)",
+  "forum": "미국 뉴욕남부연방지방법원 · No. 1:26-cv-09549 (NYT), No. 1:26-cv-09554 (Daily News 외)",
+  "summary": "뉴욕타임스와 Daily News·Chicago Tribune·Orlando Sentinel이 2026년 11월 2일 브라우저·검색엔진 회사 Brave를 뉴욕남부연방지방법원에 제소했다. Brave가 기사를 무단 수집해 300억 페이지 규모 검색 색인을 만들고 API로 AI 기업들에 팔았으며, 브라우저의 '페이월 차단' 기능이 유료 장벽을 우회한다는 주장(저작권 침해·DMCA)이다.",
+  "body": "뉴욕타임스가 AI 기업이 아니라 그 '공급자'인 검색엔진 회사를 상대로 소송을 냈음.\n피고는 Brave 브라우저와 Brave Search를 운영하는 Brave Software임.\n2026년 11월 2일 뉴욕남부연방지방법원에 제소됐음.\n사건명은 New York Times Co. v. Brave Software Inc., 사건번호 No. 1:26-cv-09549임.\n\n같은 날 별도 소송도 나왔음.\nDaily News, Chicago Tribune, Orlando Sentinel이 같은 법원에 비슷한 소송을 냈음.\n사건명은 Daily News LP v. Brave Software Inc., 사건번호 No. 1:26-cv-09554임.\n세 신문은 헤지펀드 Alden Global Capital 계열 신문사라고 보도됐음.\n\n원고들의 주장은 크게 두 갈래임.\n첫째는 검색 색인과 AI 판매임.\nBrave가 일반적인 방식으로 자신을 밝히지 않는 크롤러로 300억 페이지 이상의 'Brave Index'를 만들었다는 주장임.\n그리고 이 색인을 Search API 등으로 AI 개발사에 유료 제공했다고 함.\n소장에는 Anthropic, Perplexity, Mistral, xAI, Cohere가 Brave 서비스 이용 기업으로 언급됐음.\n다만 이들 AI 기업은 피고가 아님.\n\n둘째는 페이월 우회임.\nBrave 브라우저에 기본 설정된 'Paywall blocker' 기능이 구독 장벽을 넘어 잠긴 기사를 보여준다는 주장임.\n이 부분은 DMCA 청구로 구성됐다고 보도됐음.\nDMCA 제1201조는 저작물 접근을 통제하는 기술적 보호조치를 우회하는 행위를 별도로 금지하는 규정임.\n저작권 침해가 성립하는지와 별개로, 보호장치를 무력화한 것 자체를 문제 삼는 구조임.\n\n청구 내용은 무단 수집·복제·배포 금지명령과 손해배상임.\n페이월 우회 기능을 끄고 AI 기업과의 상업 계약을 끝내라는 요구도 포함됐다고 함.\n손해배상액은 특정하지 않았다고 보도됐음.\n\n배경도 있음.\nBrave는 2025년 News Corp(월스트리트저널·뉴욕포스트 모회사)를 상대로 먼저 소송을 걸어 침해가 없다는 확인을 구했음.\nNews Corp는 2026년 7월 반소 등으로 Brave가 기사를 긁어 AI 기업에 되팔았다고 주장했음.\n뉴스 업계가 AI 모델 개발사뿐 아니라 검색 데이터 공급망 전체로 전선을 넓히는 흐름임.\n\nBrave의 공식 대응은 보도 시점까지 확인되지 않았음.\nPerplexity는 소장 속 주장을 부인했다고 보도됐음.\n담당 판사와 소장에 기재된 청구 항목 전체는 확인하지 못했음.\n모든 내용은 아직 법원이 판단하지 않은 원고 측 주장임.\n\n한 줄 정리: 언론사 소송의 표적이 AI 모델에서 AI에 데이터를 파는 검색 색인 사업자로 넓어졌음.",
+  "sources": [
+    {
+      "label": "The Next Web — New York Times and three other US papers sue Brave over AI scraping",
+      "url": "https://thenextweb.com/news/nyt-newspapers-sue-brave-ai-scraping"
+    },
+    {
+      "label": "MLex — Brave faces US infringement, circumvention claims for AI copying from New York Times",
+      "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2545132"
+    },
+    {
+      "label": "BetaNews — Brave search paywall lawsuit (NYT)",
+      "url": "https://betanews.com/article/brave-search-paywall-lawsuit-nyt/"
+    },
+    {
+      "label": "Press Gazette — Who's suing AI: US newspapers sue Brave Software",
+      "url": "https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/"
+    },
+    {
+      "label": "Semafor — News Corp accuses search engine Brave of AI copyright infringement (2026-07-21)",
+      "url": "https://semafor.com/article/07/21/2026/newscorp-accuses-search-engine-brave-of-ai-copyright-infringement"
+    }
+  ],
+  "updatedAt": "2026-11-23T23:42:08Z"
+}

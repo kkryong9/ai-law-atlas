@@ -1,0 +1,34 @@
+{
+  "id": "us-clf-shell-expert-ai-prompts",
+  "region": "us",
+  "type": "소송·판결",
+  "status": "결정·판결",
+  "date": "2026-11",
+  "title": "Conservation Law Foundation v. Shell Oil (Equilon Enterprises) — 전문가 증인의 AI 프롬프트 공개 명령 지방법원 판사가 유지",
+  "forum": "미국 코네티컷연방지방법원 (Vernon D. Oliver 판사 / Thomas O. Farrish 치안판사)",
+  "summary": "기후 관련 환경소송에서 원고 측 전문가가 GPT-4o로 피고 제출 문서를 걸러낸 사실이 드러나자, 치안판사가 2026년 5월 그 AI 프롬프트를 공개하라고 명령했다. 원고가 이의를 냈으나 지방법원 판사 Vernon Oliver가 2026년 11월 이를 유지하며 프롬프트는 전문가 의견의 '기초'라고 판단했다고 보도됐다.",
+  "body": "전문가 증인이 쓴 AI 프롬프트도 상대방에게 내줘야 한다는 판단이 지방법원 판사 단계에서 유지됐음.\n사건은 코네티컷연방지방법원의 환경소송임.\n원고는 환경단체 Conservation Law Foundation(CLF)임.\n피고는 Shell 측이며, 보도에 따라 사건명이 'v. Shell Oil' 또는 'v. Equilon Enterprises'로 다르게 표기됨.\nEquilon Enterprises는 Shell 계열 미국 정유·유통 법인임.\n사건번호는 확인하지 못했음.\n\n미국 소송에서는 재판 전에 증거개시(discovery)를 함.\n특히 전문가 증인은 의견의 근거가 된 사실과 자료를 상대방에게 공개해야 함(연방민사소송규칙 제26조).\n반면 전문가의 초안이나 변호인과의 일정한 교신은 보호됨.\n쟁점은 AI 프롬프트가 '근거 자료'인지, 보호되는 '초안·메모'인지였음.\n\n원고 측 전문가는 과학사학자 Naomi Oreskes라고 보도됐음.\n전문가 팀은 Microsoft Azure의 비공개 서버로 OpenAI GPT-4o를 이용해 Shell이 제출한 문서 중 관련 문서를 골라냈음.\n\n2026년 5월 18일 Thomas O. Farrish 치안판사가 먼저 결정했음.\nCLF에게 전문가가 쓴 AI 프롬프트나 질의를 공개하거나, 그런 자료가 없다면 선서한 답변으로 밝히라고 명령했음.\nCLF는 제26조가 AI 프롬프트에 미치지 않는다고 주장했으나 배척됐음.\n당사자 사이 합의(전문가 '메모·초안·교신' 보호 약정)가 프롬프트를 덮는다는 주장도 배척됐음.\n합의 문언이 AI 프롬프트까지 포함한다고 볼 만큼 명확하지 않다는 이유였음.\n'단순 검색어였다'는 주장도, 전문가의 연구조원이 선서진술서에서 스스로 '프롬프트'라는 말을 썼다는 점 때문에 받아들여지지 않았음.\n이 명령은 CLF의 신청으로 6월 일단 정지됐음.\n\n2026년 11월 Vernon Oliver 지방법원 판사가 CLF의 이의를 받아들이지 않고 명령을 유지했다고 보도됐음.\nOliver 판사는 프롬프트가 전문가 의견의 '기초(the basis)'를 이룬다고 봤음.\n따라서 공개가 면제될 수 있는 초안 관련 메모와는 구별된다고 판단했음.\n한 보도는 결정일을 11월 20일로 적었으나 다른 출처로 정확한 날짜를 확인하지는 못했음.\n같은 보도는 정지를 풀고 12월 18일까지 이행하라고 했다고 전하지만, 이 부분도 단일 출처임.\n\n의미는 큼.\n전문가 보고서 작성에 AI로 문서를 분류·요약했다면 그 지시문 자체가 공격 대상이 될 수 있음.\n어떤 문서를 빼고 넣었는지가 프롬프트에 드러나기 때문임.\n최근 미국 법원이 당사자의 AI 대화 기록을 증거개시 대상으로 보는 결정이 이어지는 흐름과도 맞닿음.\n한국 소송에서도 감정인이나 전문가 의견서의 AI 활용 범위를 어떻게 검증할지 참고할 만함.\n\n한 줄 정리: 전문가가 AI에 무엇을 시켰는지도 전문가 의견의 근거로서 공개 대상이 됨.",
+  "sources": [
+    {
+      "label": "Rallies (Reuters 기사 요약) — Expert's AI prompts in environmental lawsuit must be disclosed, US judge rules",
+      "url": "https://rallies.ai/news/experts-ai-prompts-in-environmental-lawsuit-must-be-disclosed-us-judge-rules-5045912df4d323cb"
+    },
+    {
+      "label": "Legal AI Weekly — Expert Must Disclose AI Prompts",
+      "url": "https://oliverwickardai.substack.com/p/legal-ai-weekly-impeachment-for-judges"
+    },
+    {
+      "label": "Mayer Brown — Court Orders Disclosure of Expert Witness's AI Prompts (2026-06)",
+      "url": "https://www.mayerbrown.com/en/insights/publications/2026/06/court-orders-disclosure-of-expert-witnesss-ai-prompts-what-litigators-need-to-know"
+    },
+    {
+      "label": "Esquire Deposition Solutions — AI Prompts Are Discoverable as Expert's Methodology",
+      "url": "https://www.esquiresolutions.com/ai-prompts-are-discoverable-as-experts-methodology/"
+    },
+    {
+      "label": "Reason (Volokh Conspiracy) — AI Prompts Used by Expert Are Subject to Compelled Discovery (2026-05-26)",
+      "url": "https://reason.com/volokh/2026/05/26/ai-prompts-used-by-expert-are-subject-to-compelled-discovery/"
+    }
+  ],
+  "updatedAt": "2026-11-23T23:42:08Z"
+}
