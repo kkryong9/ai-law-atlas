@@ -1,0 +1,46 @@
+{
+  "id": "us-ny-ai-chatbot-toy-moratorium",
+  "region": "us",
+  "type": "입법·규제",
+  "status": "제정·시행",
+  "date": "2026-11-24",
+  "title": "뉴욕주 AI 챗봇 장난감 5년 판매 금지법 서명 (S.9408-A/A.11144-B)",
+  "forum": "미국 뉴욕주 (주지사 서명, 법무장관 집행)",
+  "summary": "뉴욕주 호컬 주지사가 2026년 11월 24일 아이들과 대화하는 AI 챗봇 장난감의 제조·유통·판매를 5년간 금지하는 법에 서명했음. 위반 시 하루 최대 1만 5천 달러의 민사제재금이 부과되고 주 법무장관이 집행함. 보도에 따르면 캘리포니아에 이어 두 번째 주이며, 서명 후 90일 뒤인 2027년 2월 시행됨.",
+  "body": "뉴욕주가 AI 챗봇이 들어간 어린이 장난감의 판매를 5년간 막았음.\n캐시 호컬 주지사가 2026년 11월 24일 법안에 서명했음.\n법안 번호는 상원 S.9408-A, 하원 A.11144-B임.\n일부 매체는 서명일을 11월 25일로 적었지만, 주지사실과 NBC 보도는 11월 24일로 적고 있음.\n\n법안은 앤드루 구나르데스 주 상원의원과 레베카 카사이 주 하원의원이 냈음.\n상원은 2026년 6월 초 이 법안을 통과시켰음.\n\n대상은 인터넷에 연결돼 아이와 대화하는 인형, 로봇, 봉제 인형 같은 장난감임.\n법안 문언은 '챗봇 장난감'을 어린이 장난감에 내장되거나 연동된 AI 컴패니언으로 정의함.\n여기서 '어린이'는 13세 미만임.\n금지되는 행위는 뉴욕주 안에서 이런 장난감을 만들고, 유통하고, 판매 목적으로 보유하고, 파는 것임.\n이미 장난감을 가진 가정에 버리라고 요구하는 법은 아니라고 보도됐음.\n\n위반하면 위반 1건당 하루 최대 1만 5천 달러의 민사제재금이 부과됨.\n집행은 뉴욕주 법무장관이 맡고, 법무장관은 금지명령(injunction)도 청구할 수 있음.\n금지명령은 법원이 특정 행위를 하지 말라고 명하는 것으로, 우리 법의 금지청구와 비슷함.\n\n시행일은 서명 후 90일 뒤임.\n한 매체는 이를 2027년 2월 22일로 계산했음.\n정확한 시행일을 법률 원문에서 직접 확인하지는 못했음.\n금지 기간은 5년이고, 그 사이 주가 장난감이 아이들에게 주는 영향을 연구한다는 취지임.\n구나르데스 의원은 이 유예 기간에 영향을 연구하고 '똑똑한 보호장치'를 만들겠다고 했음.\n\n배경은 이렇음.\nAI 컴패니언이 아이에게 정서적 의존을 만들고 부적절한 대화를 할 수 있다는 우려가 컸음.\n보도에 따르면 캘리포니아가 2026년 9월 비슷한 유예 법을 먼저 만들었고, 뉴욕은 두 번째 주임.\n캘리포니아 법의 구체적인 내용과 법안 번호는 확인하지 못했음.\n뉴욕은 10월 28일에도 미성년자에게 위험한 AI 컴패니언 챗봇 기능을 금지하는 법에 서명한 바 있음.\n그 법은 챗봇 서비스 자체를 규율하고, 이번 법은 장난감이라는 물건의 판매를 막는다는 점이 다름.\n\n연말 쇼핑 시즌을 앞두고 서명이 이뤄졌다는 점도 눈에 띔.\n다만 시행 전이라 이번 연말 판매에는 법이 아직 적용되지 않음.\n주지사는 부모들에게 장난감을 사기 전 AI 컴패니언이 들어 있는지 확인하라고 당부했다고 보도됐음.\n\n장난감 업계 단체의 구체적인 반응이나 소송 제기 여부는 확인하지 못했음.\n제품 판매를 통째로 막는 방식이라 표현의 자유나 연방 선점(행정명령 14365) 논쟁으로 번질 가능성은 있음.\n\n한 줄 요약: 규제의 대상이 '챗봇 서비스'에서 '아이 손에 들린 AI 기기'로 넓어졌음.",
+  "sources": [
+    {
+      "label": "뉴욕주지사실 보도자료: Governor Hochul Signs Five-Year Ban on AI Chatbot Toys",
+      "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
+    },
+    {
+      "label": "NBC News: New York governor Kathy Hochul signs AI toy ban into law",
+      "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
+    },
+    {
+      "label": "PIX11: AI chatbot toys temporarily banned in NY",
+      "url": "https://pix11.com/news/local-news/ai-chatbot-toys-temporarily-banned-in-ny-gov-hochul/"
+    },
+    {
+      "label": "WSHU: New York bans AI chatbot toys",
+      "url": "https://www.wshu.org/2026-11-24/new-york-bans-ai-chatbot-toys"
+    },
+    {
+      "label": "CBS6 Albany: Gov. Hochul signs five-year ban on AI chatbot toys",
+      "url": "https://cbs6albany.com/news/local/gov-hochul-signs-five-year-ban-on-ai-chatbot-toys-in-new-york-chatgpt-child-safety-law-attorney-general-letitia-james-minors-foster-emotional-dependency-s9408a/a11144b-legislation-animals-hold-conversations-dangerous-cbs6-wrgb"
+    },
+    {
+      "label": "뉴욕주 상원: S.9408 법안",
+      "url": "https://www.nysenate.gov/legislation/bills/2025/S9408"
+    },
+    {
+      "label": "뉴욕주 상원: A.11144-B 법안 원문",
+      "url": "https://legislation.nysenate.gov/pdf/bills/2025/A11144B"
+    },
+    {
+      "label": "뉴욕주 상원 보도자료: Sen. Gounardes' Moratorium on AI Chatbot Toys Passes State Senate",
+      "url": "https://www.nysenate.gov/newsroom/press-releases/2026/andrew-gounardes/sen-gounardes-moratorium-ai-chatbot-toys-passes-state"
+    }
+  ],
+  "updatedAt": "2026-11-25T23:42:21+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "other-gpa-agentic-ai-resolution",
+  "region": "other",
+  "type": "정책·지침",
+  "status": "발표",
+  "date": "2026-11-19",
+  "title": "글로벌 프라이버시 총회(GPA), '프라이버시 보호형 에이전트 AI' 결의 채택 (제48차 총회, 브뤼셀)",
+  "forum": "Global Privacy Assembly 제48차 연차총회 비공개 세션",
+  "summary": "세계 개인정보 감독기구들의 협의체인 글로벌 프라이버시 총회(GPA)가 2026년 11월 브뤼셀 총회에서 AI 에이전트에 관한 결의를 채택했음. 자율적으로 행동하는 AI 에이전트를 쓰는 기관에 인간 감독, 시험·실시간 모니터링, 에이전트 목록 관리, 정지 능력 등을 요구하는 내용임. 법적 구속력은 없으며, 보도에 따르면 미국 FTC는 기권했음.",
+  "body": "세계 개인정보 감독기구들이 AI 에이전트에 관한 공동 결의를 냈음.\n글로벌 프라이버시 총회(Global Privacy Assembly, GPA)가 '프라이버시 보호형 에이전트 AI에 관한 결의'를 채택했음.\n제48차 연차총회는 2026년 11월 벨기에 브뤼셀에서 IAPP 유럽 대회와 함께 열렸음.\n\nGPA는 80여 개국 개인정보 감독기구가 모이는 국제 협의체임.\n한국 개인정보위, 일본 개인정보보호위원회, 영국 ICO, 프랑스 CNIL 등이 회원임.\n이번 총회 의장은 캐나다 프라이버시 커미셔너였음.\n\n결의는 회원기관만 참여하는 비공개 세션에서 채택됐음.\n비공개 세션 날짜는 11월 16~17일로 보도됐고, 결과는 11월 19일 캐나다 프라이버시 커미셔너가 발표했음.\n결의는 캐나다가 주도했고, 영국 ICO, 프랑스 CNIL, 유럽 데이터보호감독관(EDPS) 등 16개 기관이 공동 제안했다고 보도됐음.\n미국 연방거래위원회(FTC)는 기권했다고 보도됐음.\n한국 개인정보위가 공동 제안 기관에 포함됐는지는 확인하지 못했음.\n\n'에이전트 AI'는 사람이 하나하나 지시하지 않아도 스스로 계획을 세워 예약, 결제, 이메일 발송 같은 행동을 하는 AI임.\n결의는 이런 에이전트가 개인정보를 처리하면서 자율적으로 행동할 때 생기는 위험을 다룸.\n적용 범위는 공공·민간 기관이 쓰거나 기관 안에서 쓰이는 AI 에이전트이고, 개인의 사적 이용은 빠짐.\n\n보도된 주요 기대사항은 이렇음.\n에이전트에 대한 사람의 감독을 유지해야 함.\n배포 전에 시험하고, 운영 중에는 실시간으로 감시해야 함.\n에이전트의 배포와 설정에 대한 거버넌스를 갖춰야 함.\n승인된 에이전트의 목록을 관리하고, 필요하면 에이전트를 일시정지하거나 멈출 수 있어야 함.\n\n같은 총회에서 교육 분야 AI, 프라이버시 강화 기술(PETs), 금융범죄 예방에 관한 결의와 2027~2030 전략계획도 채택됐다고 보도됐음.\n결의의 개수나 세부 내용은 보도마다 조금씩 달라 확인하지 못했음.\n\n이 결의는 법적 구속력이 없음.\n새로운 법적 의무를 만들지 않고, 각국 감독기구가 앞으로 법을 해석·집행할 때의 공통 방향을 보여 주는 문서임.\n그래도 각국 규제기관이 실제 조사에서 이 기준을 참고할 가능성이 높음.\n특히 GDPR의 책임성(accountability) 원칙을 AI 에이전트에 그대로 적용하겠다는 신호로 읽힘.\n\n한국에서도 개인정보 보호법 AI 특례 시행령이 입법예고 중이라 국내 해석에 참고될 수 있음.\n결의 원문과 공동 제안 기관 목록은 GPA 웹사이트에 공개된 것으로 보이나, 원문을 직접 읽지는 못했음.\n\n한 줄 요약: '스스로 움직이는 AI'에도 사람이 멈출 수 있는 스위치가 있어야 한다는 것이 세계 개인정보 규제기관의 공통 메시지임.",
+  "sources": [
+    {
+      "label": "GPA 결의문: Resolution on Privacy-protective Agentic AI",
+      "url": "https://globalprivacyassembly.com/wp-content/uploads/2026/11/Resolution-on-Privacy-protective-Agentic-AI.pdf"
+    },
+    {
+      "label": "캐나다 프라이버시 커미셔너 보도자료 (2026-11-19)",
+      "url": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119/"
+    },
+    {
+      "label": "캐나다 프라이버시 커미셔너 제48차 GPA 연설 (2026-11-18)",
+      "url": "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261118/"
+    },
+    {
+      "label": "MLex: Global Privacy Assembly approves resolutions on agentic AI",
+      "url": "https://www.mlex.com/mlex/technology/articles/2551514/global-privacy-assembly-approves-resolutions-on-agentic-ai-other-key-privacy-areas"
+    },
+    {
+      "label": "Digital Watch: Global Privacy Assembly adopts AI agent resolution",
+      "url": "https://dig.watch/updates/global-privacy-assembly-adopts-ai-resolution"
+    },
+    {
+      "label": "SecurityBrief Asia: Regulators have turned GDPR accountability into a test for AI agents",
+      "url": "https://securitybrief.asia/story/regulators-have-turned-gdpr-accountability-into-a-test-for-ai-agents"
+    }
+  ],
+  "updatedAt": "2026-11-25T23:42:21+00:00"
+}
