@@ -1,0 +1,38 @@
+{
+  "id": "us-oregon-virginia-spacex-grok",
+  "region": "us",
+  "type": "집행·조사",
+  "status": "진행 중",
+  "date": "2026-11-23",
+  "title": "State of Oregon v. SpaceX 외 · Commonwealth of Virginia v. SpaceX 외 (Grok 성적 딥페이크)",
+  "forum": "미국 오리건주 멀트노마 카운티 순회법원 · 버지니아주 리치먼드 순회법원 (사건번호 미확인)",
+  "summary": "오리건주와 버지니아주 법무장관이 2026년 11월 23일 Grok과 X를 운영하는 SpaceX 계열사들을 각각 주 법원에 제소했음. Grok이 실존 인물과 아동을 성적으로 묘사한 이미지를 만들도록 방치하면서도 안전장치가 있다고 소비자를 속였다는 소비자보호법 위반 주장임. 보도에 따르면 Grok 문제로 주 정부가 소송을 낸 첫 사례임.",
+  "body": "미국 두 개 주가 같은 날 Grok을 상대로 소송을 냈음.\n2026년 11월 23일 오리건주 댄 레이필드 법무장관과 버지니아주 제이 존스 법무장관이 각각 제소했음.\n오리건주는 멀트노마 카운티 순회법원에, 버지니아주는 리치먼드 순회법원에 냈다고 보도됐음.\n두 사건의 사건번호는 확인하지 못했음.\n\n피고는 SpaceX Super Intelligence Corp., SpaceX Super Intelligence LLC, X Corp., 그리고 최종 모회사 Space Exploration Technologies Corp.임.\nGrok은 일론 머스크의 AI 회사 xAI가 만든 챗봇임.\nxAI와 X가 SpaceX 그룹으로 합쳐지면서 피고 명칭이 SpaceX 계열로 바뀐 것으로 보임.\n보도마다 피고를 xAI라고도, SpaceX라고도 불러 표기가 엇갈림.\n\n문제가 된 것은 Grok의 이미지·영상 생성 기능 'Grok Imagine'과 그 안의 'spicy mode'임.\n주 정부들은 이 기능이 2025년 여름 도입됐고, AI 이미지를 성적인 짧은 영상으로 바꿀 수 있게 했다고 주장함.\n실존 인물의 사진을 동의 없이 성적으로 바꾼 이미지와 아동을 묘사한 것으로 보이는 이미지가 만들어지고 X에 퍼졌다는 것임.\n민간단체 CCDH(Center for Countering Digital Hate)는 10일 동안 약 300만 장의 성적 이미지가 만들어졌고 그중 약 2만 3천 장이 아동을 묘사했다고 추산했음.\n이 수치는 단체의 추산이지 법원이 인정한 사실은 아님.\n\n법적 구성은 둘 다 소비자보호법임.\n미국 주 법무장관은 '기만적 거래 관행'을 금지하는 주 소비자보호법으로 기업을 직접 제소할 수 있음.\n우리 법으로 치면 표시광고법과 소비자 관련 법 위반을 행정청이 법원에 직접 가져가는 구조와 비슷함.\n\n버지니아주는 버지니아 소비자보호법(Virginia Consumer Protection Act) 위반 한 개 청구만 냈다고 보도됐음.\n핵심은 회사가 안전장치를 갖추고 집행하고 있다고 사실과 다르게 표시했다는 것임.\n이용자 개인정보가 안전하다고 기만적으로 안내했다는 주장도 들어갔다고 함.\n머스크가 직원들에게 Grok Imagine의 콘텐츠 제한을 풀라고 직접 압박했다는 주장도 소장에 담겼다고 보도됐음.\n버지니아주는 금지명령, 소비자 원상회복(restitution), 이익 환수(disgorgement), 고의 위반 1건당 최대 2,500달러의 민사제재금 등을 청구했음.\n\n오리건주는 불공정거래관행법(Unlawful Trade Practices Act)을 근거로 했음.\n보도에 따르면 비양심적 거래 수법을 금지하는 ORS 646.607(1), 제품에 없는 성질이 있다고 표시하는 행위를 금지하는 ORS 646.608(1)(e) 등이 적용됐음.\n레이필드 법무장관은 보도자료에서 회사가 필요한 안전장치 없이 제품을 '알면서' 설계했고, 안전장치의 부재를 'spicy mode'라는 기능으로 홍보했다고 했음.\n오리건주는 영구 금지명령, 이익 환수, 위반 건별 민사제재금을 청구했고 제재금 액수는 재판에서 정하겠다고 했음.\n청구액이 100만 달러를 넘는다고 적은 보도도 있으나 소장에서 직접 확인하지는 못했음.\n오리건주는 2026년 1월 23일 xAI에 공식 요구서한을 보낸 바 있다고 보도됐음.\n\n회사 측은 동의 없는 성적 이미지를 만들려 한 이용자에 대해 조치를 하고 있다는 입장을 냈다고 보도됐음.\n소송에 대한 구체적인 답변서나 반론은 확인하지 못했음.\n\n의미는 이렇음.\n그동안 AI 챗봇에 대한 주 법무장관 소송은 주로 청소년 정신건강 문제였음(텍사스·오리건 v. OpenAI 등).\n이번에는 이미지 생성 AI의 성적 딥페이크가 소비자보호법의 '기만' 문제로 구성됐음.\n'안전하다'는 홍보 문구 자체가 책임의 근거가 된다는 점에서 AI 기업의 마케팅 표현이 규제 리스크가 되고 있음.\nxAI는 미네소타주 누디피케이션 금지법을 상대로 위헌 소송도 내고 있어, 주 정부와 정면 충돌하는 모양새임.\n\n아직 소 제기 단계이고 주장은 모두 입증되지 않았음.\n연방 통신품위법 제230조(플랫폼 면책)나 관할 다툼이 쟁점이 될 수 있으나 회사의 대응 전략은 확인하지 못했음.\n\n한 줄 요약: 딥페이크 피해가 '안전하다고 광고했느냐'는 소비자보호법 문제로 법정에 올라왔음.",
+  "sources": [
+    {
+      "label": "Oregon Capital Chronicle: Oregon AG Rayfield sues Elon Musk's SpaceX over AI-generated explicit deepfakes",
+      "url": "https://oregoncapitalchronicle.com/2026/11/23/oregon-ag-rayfield-sues-elon-musks-spacex-over-ai-generated-explicit-deepfakes/"
+    },
+    {
+      "label": "버지니아주 법무장관실: Attorney General Jay Jones Holds X Accountable",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3164-media-clips-attorney-general-jay-jones-holds-x-accountable-for-child-exploitation-and-non-consensual-images"
+    },
+    {
+      "label": "CNBC: SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
+    },
+    {
+      "label": "Courthouse News: Virginia, Oregon accuse X of profiting off AI-generated child sexual abuse material",
+      "url": "https://courthousenews.com/virginia-oregon-accuse-x-of-profiting-off-ai-generated-child-sexual-abuse-material/"
+    },
+    {
+      "label": "FOX 5 DC: Virginia sues SpaceX, X and xAI over explicit deepfakes made by Grok",
+      "url": "https://www.fox5dc.com/news/virginia-attorney-general-sues-spacex-x-xai-grok-explicit-deepfakes"
+    },
+    {
+      "label": "Tech Times: Virginia, Oregon Sue SpaceX Over Grok Sexual Images",
+      "url": "https://techtimes.com/articles/331385/20261123/virginia-oregon-sue-spacex-over-grok-sexual-images-allege-safety-claims-were-false.htm"
+    }
+  ],
+  "updatedAt": "2026-11-26T23:41:53+00:00"
+}

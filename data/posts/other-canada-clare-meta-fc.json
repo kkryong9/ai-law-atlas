@@ -1,0 +1,30 @@
+{
+  "id": "other-canada-clare-meta-fc",
+  "region": "other",
+  "type": "소송·판결",
+  "status": "결정·판결",
+  "date": "2026-11-24",
+  "title": "Clare v. Meta Platforms, Inc. (캐나다 연방법원, LLaMA 학습 저작권 집단소송 각하)",
+  "forum": "캐나다 연방법원 · 2026 FC 1457 (Court File No. T-1204-25)",
+  "summary": "캐나다 연방법원이 2026년 11월 24일 캐나다 작가들이 Meta를 상대로 낸 LLaMA 학습 저작권 집단소송을 관할 없음을 이유로 각하(소장 각하)했음. 문제 된 다운로드·학습 행위가 모두 캐나다 밖에서 이뤄졌다면 캐나다 저작권법이 적용되지 않고, 저작권법에 근거해서만 재판권을 갖는 연방법원도 다룰 수 없다는 취지임.",
+  "body": "캐나다 연방법원이 Meta를 상대로 한 AI 학습 저작권 집단소송을 초기 단계에서 끝냈음.\n판결은 2026년 11월 24일 나왔고, 판결 번호는 2026 FC 1457임.\n판사는 가녜(Gagné) 판사로 보도됐음.\n\n원고는 캐나다 작가 케리 클레어(Kerry Clare), 아리안 데로셰(Arianne Des Rochers), 스티브 버로스(Steve Burrows)임.\n이들은 2025년 4월 14일 소를 냈고, 퀘벡 밖의 캐나다 저작권자를 대표하는 집단소송(class proceeding)으로 인가를 구했음.\n주장은 Meta가 불법 복제본 데이터베이스에서 책을 내려받거나 토렌트로 받아 정제한 뒤 LLaMA 모델 학습에 썼다는 것임.\n\nMeta는 연방법원에 재판권이 없다며 소장 각하(motion to strike)를 신청했음.\n소장 각하는 본안 심리 전에, 원고 주장이 모두 사실이라고 가정해도 소송이 성립할 수 없다고 보아 소장을 없애는 절차임.\n캐나다에서는 결과가 '명백하고 분명하게(plain and obvious)' 실패할 경우에만 받아들여짐.\n심리는 2026년 6월 10일에 열렸음.\n\n법원의 논리는 이렇게 정리됐음.\n캐나다 연방법원은 법률이 준 범위에서만 재판권을 갖는 '법정 법원'임.\n그래서 저작권 사건의 재판권은 저작권법(Copyright Act)에 기댐.\n판사는 저작권법이 원고의 청구를 낳지 않는다면 이 법원은 사물관할이 없다고 했음.\n그리고 문제 된 행위, 즉 다운로드와 학습이 전부 캐나다 밖에서 이뤄졌다면 이는 저작권법의 적용 범위 밖이라고 봤음.\n그 결과 청구가 실패할 것이 명백하다며 소장을 각하했음.\n법원은 연방항소법원의 Sirius 판결과, OpenAI 사건에서 저작권법의 영토적 범위를 다룬 2026년 온타리오 항소법원 판결을 참고했다고 함.\n\n이 판결에 대한 설명은 로펌 해설(Lexology 게재) 한 건에 기댄 것임.\n판결문 원문은 직접 확인하지 못했음.\n원고가 항소했는지, 각하에 재제소 기회(leave to amend)가 붙었는지도 확인하지 못했음.\n\n흥미로운 대비가 있음.\n2026년 11월 온타리오 항소법원은 Toronto Star 등 캐나다 언론사 v. OpenAI 사건에서 OpenAI의 관할 이의를 받아들이지 않았음.\n그 사건은 주 법원(온타리오 상급법원)에 낸 것이고, 이번 사건은 연방법원에 낸 것임.\n같은 '해외에서 일어난 AI 학습' 문제라도 어느 법원에, 어떤 행위를 문제 삼아 내느냐에 따라 결과가 갈릴 수 있음을 보여줌.\n캐나다 안에서의 출력·서비스 제공이 아니라 해외의 학습 행위만 문제 삼으면 캐나다 저작권법으로 다투기 어렵다는 신호로 읽힘.\n\n브리티시컬럼비아주 법원에도 비슷한 LLaMA 관련 소송(MacKinnon v Meta)이 걸려 있다고 하나 진행 상황은 확인하지 못했음.\n\n한 줄 요약: 캐나다 연방법원은 '해외에서 한 AI 학습'은 캐나다 저작권법으로 다룰 수 없다고 봤음.",
+  "sources": [
+    {
+      "label": "Lexology: Clare v. Meta: Federal Court Strikes AI Training Claim",
+      "url": "https://www.lexology.com/library/detail.aspx?g=426528c3-930c-4667-9487-ceb2df3ed360"
+    },
+    {
+      "label": "Paliare Roland: Clare et al. v. Meta Platforms (사건 소개)",
+      "url": "https://www.paliareroland.com/our-expertise/class-actions-lawsuits/copyright-infringement--clare-et-al.-v.-meta-platforms-(federal-proceeding--national-class-action-quebec)"
+    },
+    {
+      "label": "소장: Court File No. T-1204-25, Kerry Clare et al. v. Meta Platforms Inc.",
+      "url": "https://www.paliareroland.com/docs/default-source/class-actions/t-1204-25-kerry-clare-et-al--v--meta-platforms-inc.pdf?sfvrsn=c7d8f6cc_1"
+    },
+    {
+      "label": "Anand & Siu: Canadian AI Case Tracker",
+      "url": "https://anandsiu.com/resources/canadian-ai-case-tracker/"
+    }
+  ],
+  "updatedAt": "2026-11-26T23:41:53+00:00"
+}
