@@ -1,0 +1,34 @@
+{
+  "id": "other-uk-cma-ico-meta-muse",
+  "region": "other",
+  "type": "집행·조사",
+  "status": "발표",
+  "date": "2026-11-24",
+  "title": "영국 CMA·ICO, Meta 개인용 AI 에이전트 'Muse' 영국 출시에 맞춰 입장 발표",
+  "forum": "영국 경쟁시장청(CMA) · 개인정보감독기구(ICO)",
+  "summary": "Meta의 개인용 AI 에이전트 Muse가 2026년 11월 24일 영국에 출시되자, CMA와 ICO가 같은 날 기존 소비자보호법과 개인정보보호법이 그대로 적용된다는 입장을 냈다. CMA는 몇 주간의 협의 끝에 Meta가 약관을 바꿨다고 밝혔고, 두 기관은 소비자용 공동 안내도 내놓았다.",
+  "body": "2026년 11월 24일 Meta의 개인용 AI 에이전트 'Muse'가 영국에 출시됐음.\n같은 날 영국 경쟁시장청(CMA)과 개인정보감독기구(ICO)가 각각 입장을 냈음.\n\n개인용 AI 에이전트는 이용자를 대신해 검색, 쇼핑, 예약 같은 일을 스스로 처리하는 AI를 말함.\nCMA는 경쟁법과 소비자보호법을 집행하는 기관이고, ICO는 영국 개인정보보호법(UK GDPR)을 집행하는 기관임.\n\n배경에는 11월 16일 DRCF 공동서한이 있음.\nCMA·FCA·ICO·Ofcom 4개 기관은 출시를 앞둔 개인용 AI 에이전트 개발사들에 규제기관과 미리 협의하라고 촉구한 바 있음.\nMuse는 그 서한 이후 처음 나온 대형 사례가 됐음.\n\nCMA의 핵심 입장은 영국 소비자보호법이 개인용 AI 에이전트와 이를 제공하는 회사에도 다른 상품·서비스와 똑같이 적용된다는 것임.\n에이전트는 이용자가 무엇에 접근하게 할지, 어디까지 대신 행동하게 할지 통제할 수 있게 해야 한다는 취지로 보도됐음.\nCMA는 블로그 성명에서 몇 주간의 협의 뒤 Meta가 약관(terms and conditions)을 바꿨다고 밝혔음.\n일부 보도는 CMA가 변경을 '강제했다'고 표현했지만, CMA 측은 협의의 결과로 설명하고 있음.\nCMA는 Muse가 실제로 어떻게 작동하는지 계속 살펴보겠다고 했음.\n\nICO는 소비자용 AI 에이전트는 설계 단계부터 개인정보보호를 반영해야 한다고 강조했음.\n보도에 따르면 ICO는 Muse를 계속 들여다볼 것이고, Meta는 자발적인 모니터링·보고 체계에 동의했다고 함.\n\n두 기관은 소비자를 위한 공동 안내도 냈음.\n접근 권한, 개인정보 설정, 데이터 보관 기간, 에이전트에게 맡기는 자율성의 범위를 점검하라는 내용임.\n자기 데이터가 AI 학습, 맞춤형 콘텐츠, 광고에 쓰이는지 확인하라는 권고도 들어 있음.\nDRCF 기관들은 Muse 등 개인용 AI 에이전트 관련 문제를 신고하는 양식도 열었다고 보도됐음.\n\n이번 조치는 제재나 정식 조사가 아님.\nMeta가 약관에서 구체적으로 무엇을 바꿨는지는 확인하지 못했음.\nICO와 Meta 사이 모니터링 체계의 내용도 확인하지 못했음.\nCMA·ICO 원문은 직접 열어보지 못했고, CMA 블로그 성명의 존재와 요지는 검색 결과와 보도를 통해 확인했음.\n\n영국은 AI 전용 법 없이 기존 소비자법·개인정보법으로 AI 에이전트를 다루겠다는 방식을 실제 출시 건에 처음 적용했음.\n출시 전 협의로 약관을 바꾸게 한 점은 사전 규제 없이도 규제기관이 영향력을 행사하는 모델로 볼 수 있음.\n\nAI 에이전트 규제는 새 법보다 기존 소비자법과 개인정보법에서 먼저 시작되고 있음.",
+  "sources": [
+    {
+      "label": "CMA 블로그: CMA statement on UK launch of Meta Muse (2026-11-24)",
+      "url": "https://competitionandmarkets.blog.gov.uk/2026/11/24/cma-statement-on-uk-launch-of-meta-muse/"
+    },
+    {
+      "label": "MediaNama: UK regulator calls for user control over AI agents as Meta Muse launches",
+      "url": "https://www.medianama.com/2026/11/223-uk-cma-ai-agent-user-control-meta-muse-launch/"
+    },
+    {
+      "label": "Yahoo Tech: Meta Muse releases in the UK under the watchful eye of the ICO and CMA",
+      "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-muse-releases-uk-under-134227671.html"
+    },
+    {
+      "label": "Digital Watch: UK regulators highlight privacy and consumer protection obligations following Meta Muse launch",
+      "url": "https://dig.watch/updates/uk-warns-meta-over-muse-ai-agent"
+    },
+    {
+      "label": "Resultsense: Three regulators, one launch day (2026-11-25)",
+      "url": "https://www.resultsense.com/insights/2026-11-25-uk-regulators-consumer-ai-agents-existing-law/"
+    }
+  ],
+  "updatedAt": "2026-11-27T23:42:18+00:00"
+}

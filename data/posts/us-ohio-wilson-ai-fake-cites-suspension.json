@@ -1,0 +1,30 @@
+{
+  "id": "us-ohio-wilson-ai-fake-cites-suspension",
+  "region": "us",
+  "type": "집행·조사",
+  "status": "결정·판결",
+  "date": "2026-11-24",
+  "title": "오하이오주 대법원, AI가 지어낸 판례 4건을 인용한 변호사 Arleesha Wilson 무기한 정직",
+  "forum": "미국 오하이오주 대법원 (변호사 징계) · 판결 인용번호는 확인하지 못함",
+  "summary": "오하이오주 대법원이 2026년 11월 24일 클리블랜드 변호사 Arleesha Wilson에게 무기한 정직 처분을 내렸다. 연방법원 제출 서면에 AI가 지어낸 존재하지 않는 판례 4건을 인용하고, 추궁을 받고서야 AI 사용을 인정한 점이 징계 사유 중 하나였다. 의뢰인 방치·무능 변론 등 다른 비위도 함께 판단됐다.",
+  "body": "2026년 11월 24일 오하이오주 대법원이 클리블랜드의 변호사 Arleesha Wilson에게 무기한 정직(indefinite suspension) 처분을 내렸음.\n징계 사유 중 하나가 AI가 지어낸 가짜 판례 인용이었음.\n\n미국은 주마다 주 대법원이 변호사 자격과 징계를 직접 관장함.\n무기한 정직은 영구 제명(disbarment) 바로 아래 단계의 중한 처분으로 보도됐음.\n정해진 기간이 지나면 자동으로 복귀하는 처분이 아니라, 일정 기간 뒤 복귀를 따로 신청해 심사받아야 하는 구조임.\n\n문제가 된 사건은 Wilson이 경비용역 회사를 대리해 클리블랜드시를 상대로 낸 소송임.\n보도에 따르면 이 소송은 2024년 제기됐고, Wilson은 연방법원에 낸 서면에서 존재하지 않는 판례 4건을 인용했음.\n한 사건 기록 정리 사이트는 이 사건을 Safe Choice, LLC v. City of Cleveland(오하이오북부연방지방법원)로 적고 있으나 직접 확인하지는 못했음.\n\n연방법원은 Wilson에게 7,500달러의 제재금을 부과했고, Wilson은 이를 내지 않았다고 보도됐음.\n미국 연방민사소송규칙 제11조(Rule 11)는 변호사가 서면에 서명하면 법적 주장에 근거가 있다는 것을 보증하게 하고, 이를 어기면 법원이 제재할 수 있게 함.\n보도에 따르면 Wilson은 법정모독 심리에서 처음에는 4건이 존재하지 않는다는 것을 인정하지 않고 다른 판례 3건을 내밀었음.\n판사의 추궁을 받고서야 서면 작성에 AI를 썼다고 인정했다고 함.\n\n오하이오주 대법원은 가짜 판례 외에도 서면에 들어간 진짜 판례 7건의 법적 의미를 왜곡했다고 봤다고 보도됐음.\n즉 AI 사용 자체보다 검증 없이 제출하고, 들킨 뒤에도 솔직하지 않았던 점이 핵심으로 다뤄졌음.\n\n징계는 AI 건 하나만이 아니었음.\n모두 다섯 건의 의뢰인 사건에서 업무 방치, 무능한 변론, 허위 진술 등이 문제 됐다고 함.\nWilson은 의뢰인 관련 판결 등으로 64만 7천 달러가 넘는 금액을 물어야 하는 상태이고, 그중 62만 5천 달러는 지붕공사 계약 분쟁의 변호과실(malpractice) 판결이라고 보도됐음.\n법원은 징계절차 비용 부담도 명했다고 함.\n\n판결문 원문은 직접 읽지 못했음.\n한 보도가 인용번호를 2026-Ohio-4626으로 적었으나 확인하지 못했음.\n사건의 공식 표제(예: Disciplinary Counsel v. Wilson 등)와 대법관 표결 내용도 확인하지 못했음.\n\nAI 허위 판례로 제재금을 받는 사례는 많지만, 주 대법원이 변호사 자격을 사실상 박탈하는 수준의 징계까지 간 사례로 주목받았음.\n한국에서도 법원행정처 설문에서 법관 다수가 AI 허위 판례가 담긴 서면을 받아봤다고 답한 바 있어, 국내 변호사 징계 실무에도 참고가 될 만함.\n\nAI 허위 판례 문제는 이제 제재금을 넘어 변호사 자격의 문제로 번지고 있음.",
+  "sources": [
+    {
+      "label": "Court News Ohio: Attorney Suspended for Fake AI Cases, Other Ethics Violations (2026-11-24)",
+      "url": "https://www.courtnewsohio.gov/cases/2026/SCO/1124/260724.asp"
+    },
+    {
+      "label": "Legal Tech Circle: Ohio Suspends a Lawyer Over Fake AI Cases and Neglect",
+      "url": "https://legaltechcircle.com/insights/ohio-lawyer-suspended-fake-ai-citations/"
+    },
+    {
+      "label": "The Legal Wire: Ohio Supreme Court indefinitely suspends attorney over fabricated AI-generated case citations",
+      "url": "https://thelegalwire.ai/ohio-supreme-court-indefinitely-suspends-attorney-over-fabricated-ai-generated-case-citations/"
+    },
+    {
+      "label": "AI Vortex: Safe Choice, LLC v. City of Cleveland (사건 기록 요약)",
+      "url": "https://www.aivortex.io/legal-ai-risk/cases/safe-choice-llc-v-city-of-cleveland-2025-10-30/brief"
+    }
+  ],
+  "updatedAt": "2026-11-27T23:42:18+00:00"
+}
